@@ -1,0 +1,2097 @@
+﻿
+Root       Total (GB)        Used (GB)        Free (GB) Percentage Used (%) PSComputerName RunspaceId                  
+----       ----------        ---------        --------- ------------------- -------------- ----------                  
+E:\  479.997066497803    303.580078125 176.416988372803              63.25% s3901          1243a94f-44c5-400e-9550-7...
+F:\  79.9970664978027 3.76483917236328 76.2322273254395               4.71% s3901          1243a94f-44c5-400e-9550-7...
+P:\  99.9970664978027    81.0283203125 18.9687461853027              81.03% s3901          1243a94f-44c5-400e-9550-7...
+
+
+
+
+   Source: E:\
+
+Mode       Length Hierarchy                                              
+----       ------ ---------                                              
+d--hs-  301.95 GB E:\                                                    
+d-----    3.48 KB ├── Yara                                               
+d--hsl  312.00  B │   └── DfsrPrivate                                    
+d-----  312.00  B │       ├── Staging                                    
+d-----    0.00  B │       ├── PreExisting                                
+d-----    0.00  B │       ├── Installing                                 
+d-----    0.00  B │       ├── Deleted                                    
+d-----    0.00  B │       └── ConflictAndDeleted                         
+d-----    0.00  B ├── witness                                            
+d--hs-   24.42 GB ├── System Volume Information                          
+d--hs-   60.00  B │   ├── SRM                                            
+d-----   38.09 MB │   ├── DFSR                                           
+d-----    1.02 KB │   │   ├── Private                                    
+d-----   37.02 MB │   │   ├── database_726C_DFD5_6CDF_91E9               
+d-----    4.30 KB │   │   └── Config                                     
+d--hs-    5.00 KB │   └── Chkdsk                                         
+d-r--- 1005.50 MB ├── System                                             
+d-----    1.26 MB │   ├── scripts                                        
+da----    1.26 MB │   │   └── inventory                                  
+d-r---   36.66 KB │   ├── School Applications                            
+d-----  268.58 MB │   ├── Profiles                                       
+d-----   19.07 MB │   │   ├── VisualMan.V2                               
+d-----   30.60 KB │   │   ├── TeacherMan                                 
+d-----    5.41 MB │   │   ├── StudentManold                              
+d-----   11.69 MB │   │   ├── StudentMan.v6                              
+d-----    2.92 MB │   │   ├── StudentMan.V2OLD                           
+d-----   16.10 MB │   │   ├── StudentMan.V2BUOLD                         
+d-----   18.56 MB │   │   ├── StudentMan.V2BU                            
+d-----   19.03 MB │   │   ├── StudentMan.V2                              
+d-----   47.00 KB │   │   ├── Shortcuts                                  
+d-----   18.73 MB │   │   ├── ResourceMan.V2OLD                          
+d-----   18.63 MB │   │   ├── ResourceMan.V2                             
+da----    2.00 MB │   │   ├── ResourceMan                                
+d-----   61.60 MB │   │   ├── Old Stuff                                  
+d-----  348.65 KB │   │   ├── libraryman.V6                              
+d-----   19.70 MB │   │   ├── LibraryMan.V2OLD                           
+d-----   18.52 MB │   │   ├── LibraryMan.V2                              
+d-----   25.30 MB │   │   ├── icons                                      
+d-----    1.17 MB │   │   ├── FSAMan.v6                                  
+d-----    2.17 MB │   │   ├── FSAMan.v2                                  
+d-----    7.58 MB │   │   └── FSAMan                                     
+d-r---    3.60 KB │   ├── On the Internet                                
+d-----    1.22 KB │   │   └── FSA                                        
+d-----  735.61 MB │   └── installs                                       
+d-----  735.61 MB │       ├── MS Office 2010                             
+d-----    0.00  B │       └── drivers                                    
+d-----  262.97 GB ├── StaffHome                                          
+d-----   51.84 GB │   ├── tvranjes-NLE                                   
+d-r---   19.69 GB │   │   ├── Videos                                     
+d-r---   24.32 GB │   │   ├── Pictures                                   
+d-r---  735.49 MB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---   11.82 KB │   │   ├── Favorites                                  
+d-r---    2.27 GB │   │   ├── Downloads                                  
+d-r---    2.09 GB │   │   ├── Documents                                  
+d-r---    2.61 GB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---  934.35 KB │   │   ├── Contacts                                   
+d-----  119.62 MB │   │   └── AppData                                    
+d-----   11.78 GB │   ├── TPIERIK                                        
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---   82.73 MB │   │   ├── Pictures                                   
+d-----   18.01 KB │   │   ├── Outlook2010                                
+d-r---  716.92 MB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---  986.00  B │   │   ├── Favorites                                  
+d-r---    3.97 GB │   │   ├── Downloads                                  
+d-r---   50.16 MB │   │   ├── Documents                                  
+d-r---  106.33 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    2.03 MB │   │   ├── Contacts                                   
+d-----    6.88 GB │   │   └── AppData                                    
+d----- 1005.18 MB │   ├── susjohnson                                     
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    3.75 MB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---    2.49 KB │   │   ├── Favorites                                  
+d-r---  654.18 MB │   │   ├── Downloads                                  
+d-r---  211.47 MB │   │   ├── Documents                                  
+d-r---   88.97 MB │   │   ├── Desktop                                    
+d-r---  347.35 KB │   │   ├── Contacts                                   
+d-----   26.59 MB │   │   └── AppData                                    
+d-----  671.70 MB │   ├── sharte                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    7.53 MB │   │   ├── Pictures                                   
+d-r---   53.55 KB │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-r---    3.30 KB │   │   ├── Favorites                                  
+d-r---  535.57 MB │   │   ├── Downloads                                  
+d-r---   34.99 MB │   │   ├── Documents                                  
+d-r---   16.61 MB │   │   ├── Desktop                                    
+d-r---    5.89 MB │   │   ├── Contacts                                   
+d-----   71.05 MB │   │   └── AppData                                    
+d-----  207.20 KB │   ├── samharrison                                    
+d-r---  633.00  B │   │   ├── Videos                                     
+d-r---  633.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.59 KB │   │   ├── Links                                      
+d-r---  930.00  B │   │   ├── Favorites                                  
+d-r---  195.13 KB │   │   ├── Downloads                                  
+d-r---  531.00  B │   │   ├── Documents                                  
+d-r---    4.67 KB │   │   ├── Desktop                                    
+d-r---  541.00  B │   │   └── Contacts                                   
+d-----  597.51 MB │   ├── nleece                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---  537.81 MB │   │   ├── Downloads                                  
+d-r---   27.87 MB │   │   ├── Documents                                  
+d-r---   16.24 KB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    1.13 MB │   │   ├── Contacts                                   
+d-----   30.68 MB │   │   └── AppData                                    
+d-----    2.79 GB │   ├── lweissig                                       
+d-r---  629.00  B │   │   ├── Videos                                     
+d-r---    1.17 MB │   │   ├── Pictures                                   
+d-r---  629.00  B │   │   ├── Music                                      
+d-r---    2.37 KB │   │   ├── Links                                      
+d-r---   29.90 KB │   │   ├── Favorites                                  
+d-r---    1.09 GB │   │   ├── Downloads                                  
+d-r---  519.04 MB │   │   ├── Documents                                  
+d-r---    1.08 GB │   │   ├── Desktop                                    
+d-r---    2.53 MB │   │   ├── Contacts                                   
+d-----  115.55 MB │   │   └── AppData                                    
+d-----    3.78 GB │   ├── kracansky                                      
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  414.81 KB │   │   ├── Pictures                                   
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---   59.02 KB │   │   ├── Favorites                                  
+d-r---    2.11 GB │   │   ├── Downloads                                  
+d-r---    1.55 GB │   │   ├── Documents                                  
+d-r---   62.21 MB │   │   ├── Desktop                                    
+d-r---  853.37 KB │   │   ├── Contacts                                   
+d-----   59.25 MB │   │   └── AppData                                    
+d-----    8.90 GB │   ├── kmeredith                                      
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  861.90 MB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---    3.12 KB │   │   ├── Favorites                                  
+d-r---    4.40 GB │   │   ├── Downloads                                  
+d-r---    1.45 GB │   │   ├── Documents                                  
+d-r---    2.10 GB │   │   ├── Desktop                                    
+d-r---    1.76 MB │   │   ├── Contacts                                   
+d-----  115.69 MB │   │   ├── AppData                                    
+d--h--    0.00  B │   │   └── .TemporaryItems                            
+d-----    2.73 GB │   ├── KMACE                                          
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---   84.57 MB │   │   ├── Pictures                                   
+d-----   82.67 KB │   │   ├── Outlook2010                                
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-r---    6.25 KB │   │   ├── Favorites                                  
+d-r---    2.24 GB │   │   ├── Downloads                                  
+d-r---  391.39 MB │   │   ├── Documents                                  
+d-r---   20.96 KB │   │   ├── Desktop                                    
+d-r---    1.11 MB │   │   ├── Contacts                                   
+d-----   24.67 MB │   │   └── AppData                                    
+d-----  416.07 MB │   ├── kjones                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---   32.02 MB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-r---    5.28 KB │   │   ├── Favorites                                  
+d-r---  192.36 MB │   │   ├── Downloads                                  
+d-r---   72.95 MB │   │   ├── Documents                                  
+d-r---   41.32 MB │   │   ├── Desktop                                    
+d-r---    1.43 MB │   │   ├── Contacts                                   
+d-----   75.98 MB │   │   └── AppData                                    
+d-r---   28.26 GB │   ├── junderwood                                     
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    1.71 MB │   │   ├── Pictures                                   
+d-----    0.00  B │   │   ├── My Boards                                  
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---   61.50 KB │   │   ├── Favorites                                  
+d-r---   27.60 GB │   │   ├── Downloads                                  
+d-r---  138.13 MB │   │   ├── Documents                                  
+d-r---    9.03 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    2.36 MB │   │   ├── Contacts                                   
+d-----  515.98 MB │   │   ├── AppData                                    
+d--hs-  129.00  B │   │   └── $RECYCLE.BIN                               
+d-r---   31.02 GB │   ├── jross                                          
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---   18.60 GB │   │   ├── Pictures                                   
+d-r---    3.39 GB │   │   ├── Music                                      
+d-r---    3.96 KB │   │   ├── Links                                      
+d--h--    0.00  B │   │   ├── InstallAnywhere                            
+d-r---   20.74 KB │   │   ├── Favorites                                  
+d-r---    4.67 GB │   │   ├── Downloads                                  
+d-r---  497.82 MB │   │   ├── Documents                                  
+d-r---   43.78 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    3.51 MB │   │   ├── Contacts                                   
+d-----  539.55 MB │   │   ├── Assignments                                
+d-----    3.31 GB │   │   └── AppData                                    
+d-----    7.17 GB │   ├── jowen                                          
+d-r---  823.00  B │   │   ├── Videos                                     
+d-----  344.35 KB │   │   ├── StudentReferences                          
+d-----    2.05 MB │   │   ├── Student Teachers                           
+d-----   23.96 MB │   │   ├── Socials                                    
+d-----   99.02 MB │   │   ├── Science                                    
+d-----    1.65 MB │   │   ├── School Soccer                              
+d-----   35.43 MB │   │   ├── School Admin                               
+d-----    1.20 MB │   │   ├── Saanich Fusion                             
+d-r---    2.82 GB │   │   ├── Pictures                                   
+d-----   23.57 MB │   │   ├── PE                                         
+d-----    5.61 MB │   │   ├── OneNote Notebooks                          
+d-----   10.71 KB │   │   ├── NFL                                        
+d-----   47.73 KB │   │   ├── Net Control 2                              
+d-----  119.22 KB │   │   ├── My Pictures                                
+d-r---    1.50 KB │   │   ├── Music                                      
+d-----    7.73 MB │   │   ├── Math                                       
+d-r---    3.97 KB │   │   ├── Links                                      
+d-----    1.38 GB │   │   ├── laptop desktop 2019                        
+d-----    2.71 MB │   │   ├── Homeless                                   
+d-r---    3.46 KB │   │   ├── Favorites                                  
+d-----   27.68 MB │   │   ├── English                                    
+d-r---    1.75 GB │   │   ├── Downloads                                  
+d-r---  425.71 MB │   │   ├── Documents                                  
+d-r---  120.68 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    1.15 MB │   │   ├── Contacts                                   
+d-----  138.52 MB │   │   ├── Business Class 2019                        
+d-----  438.37 KB │   │   ├── BlueCross                                  
+d-----   79.92 MB │   │   └── AppData                                    
+d-----    4.04 GB │   ├── josmith                                        
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  153.33 KB │   │   ├── Pictures                                   
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---    3.23 KB │   │   ├── Favorites                                  
+d-r---    2.18 GB │   │   ├── Downloads                                  
+d-r---    1.72 GB │   │   ├── Documents                                  
+d-r---   61.86 MB │   │   ├── Desktop                                    
+d-r---    2.73 MB │   │   ├── Contacts                                   
+d-----   83.06 MB │   │   └── AppData                                    
+d-----    2.28 GB │   ├── jhoyt                                          
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  804.38 MB │   │   ├── Pictures                                   
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    3.84 KB │   │   ├── Links                                      
+d-r---    5.98 KB │   │   ├── Favorites                                  
+d-r---  141.31 MB │   │   ├── Downloads                                  
+d-r---  679.96 MB │   │   ├── Documents                                  
+d-r---  628.93 MB │   │   ├── Desktop                                    
+d-r---    1.70 MB │   │   ├── Contacts                                   
+d-----   81.58 MB │   │   └── AppData                                    
+d-----    5.10 GB │   ├── jadamson                                       
+d-----  860.70 KB │   │   ├── Year End 2024                              
+d-----   13.02 KB │   │   ├── year end 2023                              
+d-----  252.11 MB │   │   ├── year end 2022                              
+d-----  218.78 MB │   │   ├── year end 2021                              
+d-----  422.50 KB │   │   ├── year end 2020                              
+d-----    2.36 MB │   │   ├── year end 2019                              
+d-----    5.40 MB │   │   ├── wrestling                                  
+d-----   11.62 MB │   │   ├── what in the world                          
+d-----  402.47 KB │   │   ├── VTRA and VPP forms                         
+d-----    1.19 MB │   │   ├── VPVPA admin handbook                       
+d-----    4.91 MB │   │   ├── volleyball and basketball                  
+d-----    0.00  B │   │   ├── VIHA wellness hub                          
+d-r---  823.00  B │   │   ├── Videos                                     
+d-----  331.38 KB │   │   ├── Valentines                                 
+d-----   10.95 MB │   │   ├── UES start up stuff                         
+d-----   12.22 KB │   │   ├── TRC docs                                   
+da----   14.78 MB │   │   ├── Teacher Evaluations                        
+d-----    1.69 MB │   │   ├── suspension letters                         
+d-----    3.52 MB │   │   ├── summer 2020                                
+d-----    4.49 MB │   │   ├── student council                            
+d-----   54.02 MB │   │   ├── start up Shoreline 2017-2018               
+d-----  535.43 KB │   │   ├── staffing forms                             
+d-----  149.73 MB │   │   ├── staff meetings                             
+d-----    3.43 MB │   │   ├── Ski Trip docs                              
+d-----  105.50 KB │   │   ├── ski trip                                   
+d-----   34.50 KB │   │   ├── Shoreline Database 2019-2020               
+d-----    1.24 MB │   │   ├── Shawn's emails                             
+d-----   14.51 MB │   │   ├── School Growth Plan Gordon Head 2021        
+d-----  117.00 KB │   │   ├── school appointments docs                   
+d-----   55.93 MB │   │   ├── SBT Gordon Head                            
+d-----    1.07 MB │   │   ├── reporting                                  
+d-----    1.05 MB │   │   ├── report cards                               
+da----  224.45 MB │   │   ├── Rememberance Day                           
+d-----    1.24 MB │   │   ├── Remedy documents                           
+d-----  351.96 KB │   │   ├── Readwell                                   
+d-----   23.25 MB │   │   ├── Professional Growth Plan                   
+d-----  184.81 KB │   │   ├── Pro D form                                 
+d-r---   16.71 MB │   │   ├── Pictures                                   
+d-----  406.46 KB │   │   ├── Parent Teacher conferences                 
+d-----   81.00 KB │   │   ├── parent letters                             
+d-----   15.53 KB │   │   ├── Pancake Breakfast and BBQ                  
+d-----  167.56 KB │   │   ├── PAC                                        
+d-----    8.84 KB │   │   ├── Outlook2010                                
+d-----   92.82 MB │   │   ├── outdoor ed exploratory                     
+d-----  101.65 MB │   │   ├── OHS forms                                  
+d-----   16.55 MB │   │   ├── Nuuchahnulth                               
+d-----   12.70 MB │   │   ├── newpaper club 2018                         
+d-----   21.87 MB │   │   ├── New folder (8)                             
+d-----    0.00  B │   │   ├── New folder (7)                             
+d-----    0.00  B │   │   ├── New folder (6)                             
+d-----    0.00  B │   │   ├── New folder (5)                             
+d-----    0.00  B │   │   ├── New folder (4)                             
+d-----    0.00  B │   │   ├── New folder (3)                             
+d-----    0.00  B │   │   ├── New folder (2)                             
+d-----    0.00  B │   │   ├── New folder                                 
+d-r---  633.00  B │   │   ├── Music                                      
+d-----    9.87 MB │   │   ├── mood meter                                 
+d-----  546.17 KB │   │   ├── metis docs                                 
+d----- 1002.94 KB │   │   ├── MDI letters                                
+d-----    2.87 MB │   │   ├── math assessment                            
+d-----   17.65 MB │   │   ├── LST docs                                   
+d-r---    4.87 KB │   │   ├── Links                                      
+d-----  129.70 MB │   │   ├── Lekwungen Langauge                         
+d-----   20.76 MB │   │   ├── LEA meetings                               
+d-----    8.59 MB │   │   ├── Junior Rangers                             
+d-----   10.79 KB │   │   ├── Japan Visit                                
+d-----   22.68 KB │   │   ├── Japan plans                                
+d-----    2.06 GB │   │   ├── jadamson_Backup                            
+d-----    4.01 MB │   │   ├── investegations                             
+d-----    1.62 MB │   │   ├── interviews                                 
+d-----    5.63 MB │   │   ├── indigenous Math workshop                   
+d-----   48.74 MB │   │   ├── Indigenous Math lessons                    
+d-----    9.25 MB │   │   ├── immunocompromised                          
+d-----  518.15 KB │   │   ├── ILAC                                       
+d-----  352.52 KB │   │   ├── ICBC forms                                 
+d-----  167.34 MB │   │   ├── home stuff                                 
+d-----   72.20 KB │   │   ├── Historica                                  
+d-----    2.13 MB │   │   ├── GVTA letters                               
+d-----  429.45 KB │   │   ├── GVTA items                                 
+d-----    2.04 MB │   │   ├── Greener homes                              
+d-----    9.81 MB │   │   ├── grade 5 open house                         
+d-----  677.25 KB │   │   ├── Gotchas                                    
+d-----   35.11 MB │   │   ├── Gordon Head start up                       
+d-----   35.78 MB │   │   ├── First day meeting stuff                    
+d-r---    1.83 KB │   │   ├── Favorites                                  
+d-----    3.34 MB │   │   ├── evaluations                                
+d-----   11.55 KB │   │   ├── equity Scan docs                           
+d-----  644.09 KB │   │   ├── end of year Shoreline 2018                 
+d-----  744.03 KB │   │   ├── end of school Gordon Head 2021             
+d-----  123.59 MB │   │   ├── Emerald Sea                                
+d-r---  744.58 MB │   │   ├── Downloads                                  
+d-r---   14.45 MB │   │   ├── Documents                                  
+d-r---   30.05 MB │   │   ├── Desktop                                    
+d-----  207.18 KB │   │   ├── Critiacal Incident Responce docs           
+d-----    0.00  B │   │   ├── Covid spring 2021                          
+d-----   19.39 MB │   │   ├── COVID spring 2020                          
+d-----  224.60 KB │   │   ├── covid fall 2020                            
+d-----    3.66 MB │   │   ├── COVID 2021 2022                            
+d-----  392.23 KB │   │   ├── Core Competencies                          
+d-r---    1.05 MB │   │   ├── Contacts                                   
+d-----  443.75 KB │   │   ├── Code of Conduct docs                       
+d-----   76.49 KB │   │   ├── budget 2018                                
+d-----    9.19 MB │   │   ├── behaviour forms                            
+d-----    6.64 MB │   │   ├── BCPVPA                                     
+d-----  529.47 KB │   │   ├── Basketball and Volleyball                  
+d-----    3.54 MB │   │   ├── Band Trip forms                            
+d-----  141.94 MB │   │   ├── Anaphalaxis                                
+d-----   89.07 KB │   │   ├── 22-23 staffing budget drafts               
+d-----   24.85 KB │   │   ├── 204 2025 start up                          
+d-----   11.65 MB │   │   ├── 2023 2024 start up                         
+d-----   26.47 MB │   │   ├── 2022-2023 start up                         
+d-----   18.40 MB │   │   ├── 2021-2022 start up                         
+d-----    2.12 MB │   │   ├── 2021-2022 GHMS                             
+d-----   18.83 KB │   │   ├── 2021-2020 start up                         
+d-----  983.56 KB │   │   ├── 2020-2021                                  
+d-----   39.28 MB │   │   ├── 2019-2020 start up                         
+d-----   16.81 MB │   │   ├── 2018 2019 start up                         
+d-----   33.17 KB │   │   └── 2017 2018 DATA Shoreline                   
+d-r---    3.95 GB │   ├── fmay                                           
+d-r---    1.41 KB │   │   ├── Videos                                     
+d-r---    1.74 KB │   │   ├── Pictures                                   
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    3.95 KB │   │   ├── Links                                      
+d-r---    6.41 KB │   │   ├── Favorites                                  
+d-r---    2.56 GB │   │   ├── Downloads                                  
+d-r---  727.54 MB │   │   ├── Documents                                  
+d-r---  579.27 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    1.65 MB │   │   ├── Contacts                                   
+d-----  120.88 MB │   │   └── AppData                                    
+d-r---    5.64 GB │   ├── dsharp                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---   23.53 MB │   │   ├── Pictures                                   
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-----   23.79 MB │   │   ├── Katie SIDES                                
+d-r---   66.63 KB │   │   ├── Favorites                                  
+d-r---    4.84 GB │   │   ├── Downloads                                  
+d-r---  658.99 MB │   │   ├── Documents                                  
+d-r---    2.85 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    1.03 MB │   │   ├── Contacts                                   
+d-----   97.66 MB │   │   └── AppData                                    
+d-----   48.23 GB │   ├── cschmidt                                       
+d-r---    4.02 MB │   │   ├── Videos                                     
+d-r---   49.62 MB │   │   ├── Pictures                                   
+d-----   29.03 KB │   │   ├── Outlook2010                                
+d-r---  282.21 KB │   │   ├── Music                                      
+d-r---    5.08 KB │   │   ├── Links                                      
+d--h--    0.00  B │   │   ├── InstallAnywhere                            
+d-r---  394.85 KB │   │   ├── Favorites                                  
+d-r---    6.73 GB │   │   ├── Downloads                                  
+d-r---   23.15 GB │   │   ├── Documents                                  
+d-r---   18.11 GB │   │   ├── Desktop                                    
+d-r---  417.85 KB │   │   ├── Contacts                                   
+d-----   71.04 MB │   │   ├── Connie                                     
+d-----  121.78 MB │   │   └── AppData                                    
+d-r---    2.39 GB │   ├── cnelson                                        
+d-r---  823.00  B │   │   ├── Videos                                     
+da-hs-  496.00 KB │   │   ├── PrivacIE                                   
+d-r---   32.11 MB │   │   ├── Pictures                                   
+d-r---   60.17 KB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+da-hs-  256.00 KB │   │   ├── IETldCache                                 
+d-----    0.00  B │   │   ├── fresh grade LA                             
+d-r---   24.54 KB │   │   ├── Favorites                                  
+d-r---    1.84 GB │   │   ├── Downloads                                  
+d-r---  429.74 MB │   │   ├── Documents                                  
+d-r---   32.14 MB │   │   ├── Desktop                                    
+da-hs-  115.26 KB │   │   ├── Cookies                                    
+d-r---    1.36 MB │   │   ├── Contacts                                   
+d-----   69.72 MB │   │   ├── AppData                                    
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                               
+d-----    8.51 GB │   ├── cdong                                          
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r--- 1013.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.54 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---    7.82 GB │   │   ├── Downloads                                  
+d-r---   83.58 KB │   │   ├── Documents                                  
+d-r---  704.52 MB │   │   ├── Desktop                                    
+d-r---  541.00  B │   │   └── Contacts                                   
+d-----    0.00  B │   ├── atiller                                        
+d-r---    2.71 GB │   ├── ameadows                                       
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    1.75 KB │   │   ├── Pictures                                   
+d-r---  319.44 MB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---    3.77 KB │   │   ├── Favorites                                  
+d-r---    1.74 GB │   │   ├── Downloads                                  
+d-r---  433.89 MB │   │   ├── Documents                                  
+d-r---  161.03 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    1.70 MB │   │   ├── Contacts                                   
+d-----   74.31 MB │   │   └── AppData                                    
+d-r---    6.56 GB │   ├── alavoie                                        
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    1.75 KB │   │   ├── Pictures                                   
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---   50.01 KB │   │   ├── Favorites                                  
+d-r---    6.23 GB │   │   ├── Downloads                                  
+d-r---   45.62 MB │   │   ├── Documents                                  
+d-r---  250.36 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---    1.93 MB │   │   ├── Contacts                                   
+d-----   35.88 MB │   │   ├── AppData                                    
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                               
+d-r---   17.20 GB │   ├── ADemedeiros                                    
+d-r---   71.35 MB │   │   ├── Videos                                     
+d-r---  833.27 MB │   │   ├── Pictures                                   
+d-r---    6.87 MB │   │   ├── Music                                      
+d-r---    4.01 KB │   │   ├── Links                                      
+d-r---  132.90 KB │   │   ├── Favorites                                  
+d-r---  215.19 KB │   │   ├── Downloads                                  
+d-r---   12.40 GB │   │   ├── Documents                                  
+d-r---    3.43 GB │   │   ├── Desktop                                    
+d-----   24.22 KB │   │   ├── CrossCountryBC                             
+d-r---  934.41 KB │   │   ├── Contacts                                   
+d-----    0.00  B │   │   ├── ASK Pilot GHMS 2021                        
+d-----  493.45 MB │   │   ├── AppData                                    
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                               
+d-r---    5.44 GB │   ├── ablair                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    2.64 GB │   │   ├── Pictures                                   
+d-r---   28.76 MB │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-r---   33.54 KB │   │   ├── Favorites                                  
+d-r---    1.96 GB │   │   ├── Downloads                                  
+d-r---  547.87 MB │   │   ├── Documents                                  
+d-r---  158.46 MB │   │   ├── Desktop                                    
+d-r---  587.53 KB │   │   ├── Contacts                                   
+d-----  125.10 MB │   │   └── AppData                                    
+d-r---    9.37 MB │   └── 39teacher                                      
+d-r---  633.00  B │       ├── Videos                                     
+d-r---    1.56 KB │       ├── Pictures                                   
+d-r---   65.78 KB │       ├── Music                                      
+d-r---    4.00 KB │       ├── Links                                      
+d-r---    3.12 KB │       ├── Favorites                                  
+d-r---  411.00  B │       ├── Downloads                                  
+d-r---   34.96 KB │       ├── Documents                                  
+d-r---  107.03 KB │       ├── Desktop                                    
+d-----    0.00  B │       ├── CrossCountryBC                             
+d-r---  925.47 KB │       ├── Contacts                                   
+d-----    8.25 MB │       └── AppData                                    
+d-----   54.92 KB ├── Staff Home Shortcuts                               
+d-----    4.26 GB ├── Libraries                                          
+d-----    1.16 GB │   ├── SmartGallery                                   
+d-----  541.98 MB │   │   ├── SMART Essentials for Educators             
+d-----  109.44 MB │   │   ├── Lesson Activity Toolkit 1.0                
+d-----    0.00  B │   │   ├── LAT 2.0 - FR                               
+d-----  537.26 MB │   │   └── Gallery Essentials                         
+d-----    0.00  B │   ├── SmartBoard                                     
+d-----    0.00  B │   │   └── Gallery                                    
+d-----    3.10 GB │   ├── Kurzweil                                       
+d-----  199.44 MB │   │   ├── Science Probe 8                            
+d-----   87.41 MB │   │   ├── Science Probe 7                            
+d-----  106.23 MB │   │   ├── Science Probe 6                            
+d-----   63.00 KB │   │   ├── Scans                                      
+d-----  186.54 MB │   │   ├── Pathways 8                                 
+d-----    1.49 GB │   │   ├── Novels                                     
+d-----   43.11 MB │   │   ├── Nelson Literacy 8c                         
+d-----   43.04 MB │   │   ├── Nelson Literacy 8b                         
+d-----   43.76 MB │   │   ├── Nelson Literacy 8a                         
+d-----   40.13 MB │   │   ├── Nelson Literacy 7b                         
+d-----   43.29 MB │   │   ├── Nelson Literacy 7a                         
+d-----   45.86 MB │   │   ├── Nelson Literacy 6b                         
+d-----   44.66 MB │   │   ├── Nelson Literacy 6a                         
+d-----  123.88 MB │   │   ├── Math Power 8                               
+d-----  105.75 MB │   │   ├── Math Makes Sense 8                         
+d-----   81.22 MB │   │   ├── Math Makes Sense 7                         
+d-----  102.86 MB │   │   ├── Math Makes Sense 6                         
+d-----   91.31 MB │   │   ├── Global Citizens 6                          
+d-----  162.37 MB │   │   ├── Crossroads 7                               
+d-----  100.51 MB │   │   └── Ancient Worlds 7                           
+d-----    0.00  B │   └── Ben-Board Maker                                
+d-----   49.25 MB ├── DivisionArchive2012-2013                           
+d-----  346.03 KB │   ├── Division14                                     
+d-----  311.58 KB │   │   ├── Work                                       
+d-----   34.46 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   71.37 KB │   ├── Division13                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   71.37 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   32.93 KB │   ├── Division12                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   32.93 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   34.37 KB │   ├── Division11                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   34.37 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   40.12 KB │   ├── Division10                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   40.12 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   40.10 KB │   ├── Division09                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   40.10 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   38.66 KB │   ├── Division08                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   38.66 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----  381.83 KB │   ├── Division07                                     
+d-----  344.61 KB │   │   ├── Work                                       
+d-----   37.23 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   37.22 KB │   ├── Division06                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   37.22 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   48.10 MB │   ├── Division05                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   40.10 KB │   │   ├── Student Home                               
+d-----    7.80 MB │   │   ├── Social Studies                             
+d-----  679.93 KB │   │   ├── Science                                    
+d-----    0.00  B │   │   ├── Physical Education                         
+d-----    3.24 MB │   │   ├── Math                                       
+d-----   10.00 KB │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   ├── French                                     
+d-----    0.00  B │   │   ├── Exploratories                              
+d-----   36.34 MB │   │   ├── English                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   40.11 KB │   ├── Division04                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   40.11 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   37.23 KB │   ├── Division03                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   37.23 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   35.80 KB │   ├── Division02                                     
+d-----    0.00  B │   │   ├── Work                                       
+d-----   35.80 KB │   │   ├── Student Home                               
+d-----    0.00  B │   │   ├── Hand-in                                    
+d-----    0.00  B │   │   └── Assignments                                
+d-----   38.70 KB │   └── Division01                                     
+d-----   38.70 KB │       ├── Student Home                               
+d-----    0.00  B │       ├── Hand-in                                    
+d-----    0.00  B │       └── Assignments                                
+d-----    8.92 GB ├── collaboration                                      
+d-----    1.88 GB │   ├── teachers                                       
+d-----    1.32 MB │   │   ├── Steam                                      
+d-----    5.39 MB │   │   ├── Special Ed                                 
+d-----    0.00  B │   │   ├── Self Regulation Inquiry                    
+d-----   66.95 MB │   │   ├── Science Probe 7 Teacher Resource CD        
+d-----   23.71 MB │   │   ├── Math Makes Sense Grade 7                   
+d-----    1.53 GB │   │   ├── Math Makes Sense                           
+d-----   55.94 MB │   │   ├── JumpMath Smart Lessons                     
+d-----   32.17 MB │   │   ├── Grade 7 Team                               
+d-----  174.58 MB │   │   ├── EXPLORE 360 Pompeii                        
+d-----    0.00  B │   │   └── BoardMaker                                 
+d-----  153.53 MB │   ├── students                                       
+d-----    0.00  B │   │   ├── Library                                    
+d-----  137.51 MB │   │   ├── Grizzly_Den                                
+d-----   36.07 KB │   │   ├── Division14                                 
+d-----   33.57 KB │   │   ├── Division13                                 
+d-----   37.41 KB │   │   ├── Division12                                 
+d-----  593.07 KB │   │   ├── Division11                                 
+d-----    1.27 MB │   │   ├── Division10                                 
+d-----    1.45 MB │   │   ├── Division09                                 
+d-----    1.82 MB │   │   ├── Division08                                 
+d-----   36.25 KB │   │   ├── Division07                                 
+d-----   37.60 KB │   │   ├── Division06                                 
+d-----    1.69 MB │   │   ├── Division05                                 
+d-----   30.50 KB │   │   ├── Division04                                 
+d-----   50.05 KB │   │   ├── Division03                                 
+d-----   28.97 KB │   │   ├── Division02                                 
+d-----   79.04 KB │   │   ├── Division01                                 
+d-----    0.00  B │   │   ├── Division00                                 
+d-----    8.85 MB │   │   └── 3D_Printing                                
+d-----  524.02 KB │   ├── Student Homes                                  
+d-----  454.45 MB │   ├── staff                                          
+d-----  108.24 KB │   │   ├── Writing Grade Six                          
+d-----   31.89 KB │   │   ├── Transition Planning 2024-25                
+d-----   17.73 MB │   │   ├── Staff Meetings                             
+d-----   12.60 MB │   │   ├── Staff Committee Minutes                    
+d-----    1.56 MB │   │   ├── Special Ed                                 
+d-----   47.49 MB │   │   ├── SOGI-GSA                                   
+d-----  347.62 MB │   │   ├── Library                                    
+d-----    2.85 MB │   │   ├── Grade 8 PR cards                           
+d-----  315.32 KB │   │   ├── Fieldtrip Forms                            
+d-----  344.35 KB │   │   ├── EA Resources                               
+d-----   23.79 MB │   │   └── Climate Action Posters                     
+d-----  161.61 MB │   ├── SBT                                            
+d-----    6.65 MB │   │   ├── Indigenous Student Success                 
+d-----    2.88 MB │   │   ├── HAND_SCORING_FILES                         
+d-----   55.02 KB │   │   ├── DBT minutes from Monique 23 24             
+d-----   48.51 MB │   │   ├── CYIC documents                             
+d-----   83.32 MB │   │   ├── AUDIO_FILES                                
+d-----  391.77 KB │   │   ├── 2023 2024 minutes                          
+d-----    2.83 MB │   │   ├── 2022 2023 Minutes                          
+d-----  326.04 KB │   │   └── 2021 2022 Minutes                          
+d-----    6.14 GB │   ├── office                                         
+d-----    4.98 MB │   │   ├── Yearend                                    
+d-----   34.34 MB │   │   ├── Transition                                 
+d-----  342.50 KB │   │   ├── Track and Field                            
+d-----  812.31 KB │   │   ├── TOC Folder                                 
+d-----   12.15 MB │   │   ├── Suspensions                                
+d-----  319.11 KB │   │   ├── Student Locks                              
+d-----   18.05 MB │   │   ├── Student Letters                            
+d-----    3.16 MB │   │   ├── Student Files                              
+d-----   15.95 MB │   │   ├── Staff Meetings                             
+d-----   24.90 MB │   │   ├── Staff                                      
+d-----    2.16 MB │   │   ├── Sports                                     
+d-----    5.53 MB │   │   ├── Special Ed                                 
+d-----    6.99 MB │   │   ├── September Startup                          
+d-----   15.19 MB │   │   ├── School Supply Lists                        
+d-----    1.17 MB │   │   ├── School Map                                 
+d-----   31.67 MB │   │   ├── Schedules                                  
+d-----    7.74 MB │   │   ├── Satisfaction Surveys                       
+d-----    5.09 MB │   │   ├── SADE                                       
+d-----   23.21 MB │   │   ├── Requests for Records                       
+d-----    2.79 GB │   │   ├── Report Cards                               
+d-----    9.60 MB │   │   ├── Registrations                              
+d-----   57.00 KB │   │   ├── Recognition End of Year                    
+d-----   35.19 MB │   │   ├── PR Cards                                   
+d-----    4.54 MB │   │   ├── Parent Teacher Conferences                 
+d-----    4.16 MB │   │   ├── Parent Appreciation Day                    
+d-----   41.18 MB │   │   ├── PAC                                        
+d-----  169.87 MB │   │   ├── Mother's Day Video                         
+d-----   84.50 MB │   │   ├── Miscellaneous                              
+d-----   16.98 MB │   │   ├── Medical Concerns Students                  
+d-----  863.02 KB │   │   ├── Logos                                      
+d-----  134.07 MB │   │   ├── Life Touch Photo Directory                 
+d-----  106.96 MB │   │   ├── Labels                                     
+d-----    3.52 MB │   │   ├── ISP Students                               
+d-----    2.31 MB │   │   ├── Immunization Grade 6s                      
+d-----   11.03 MB │   │   ├── Health and Safety                          
+d-----    9.80 MB │   │   ├── GSA                                        
+d-----    6.79 MB │   │   ├── Games sign out                             
+d-----   18.81 MB │   │   ├── FSA                                        
+d-----    1.94 MB │   │   ├── Forms                                      
+d-----   16.38 MB │   │   ├── Fine Arts                                  
+d-----    4.20 MB │   │   ├── Fieldtrip                                  
+d-----   69.43 MB │   │   ├── Emergency Preparedness                     
+d-----  149.17 KB │   │   ├── Elementary Rugby Tournament                
+d-----    9.04 MB │   │   ├── EA Schedules                               
+d-----  175.12 KB │   │   ├── Donation Letters                           
+d-----    7.78 MB │   │   ├── Curriculum Completion Days                 
+d-----    3.68 MB │   │   ├── Code of Conduct                            
+d-----  290.32 KB │   │   ├── Class Composition 2024-2025                
+d-----   46.10 MB │   │   ├── Class Composition 2023-2024                
+d-----   27.23 MB │   │   ├── Class Composition 2022-2023                
+d-----    1.97 MB │   │   ├── Band Trip 2023                             
+d-----    2.56 MB │   │   ├── Assembly Programs                          
+d-----   12.36 MB │   │   ├── Agenda                                     
+d-----    4.65 MB │   │   ├── Achievement Awards Year End                
+d-----   87.87 MB │   │   ├── ACCOUNTING                                 
+d-----    3.48 MB │   │   ├── AA SYNREVOICE                              
+d-----    2.09 GB │   │   ├── AA Daily Announcements                     
+d-----  104.10 MB │   │   └── 1701 Data Collection                       
+d-----    0.00  B │   ├── Archived_Collaboration                         
+d-----  153.45 MB │   └── admin                                          
+d-----    1.05 MB │       ├── Student Suspensions                        
+d-----    5.03 MB │       ├── Student Interventions                      
+d-----   79.71 KB │       ├── Remembrance Day Assembly 2015              
+d-----   42.69 KB │       ├── Nancy McAleer                              
+d-----    7.69 MB │       ├── Low Inc 2015                               
+d-----  118.99 MB │       ├── Kevin to Gautam Feb 2017                   
+d-----  392.62 KB │       ├── JOHS                                       
+d-----   44.28 KB │       ├── IBI 2017-18                                
+d-----   18.94 MB │       ├── GHMS 2016                                  
+d-----    1.12 MB │       ├── EA schedules and info                      
+d-----    0.00  B │       └── Completed Forms and Letter                 
+d--hs-  359.83 MB └── $RECYCLE.BIN                                       
+d--hs-  673.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-83991 
+d-----    0.00  B     │   └── $R11URVZ                                   
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-83936 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-82333 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-8075  
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-8060  
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-76128 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-6861  
+d--hs-   75.18 MB     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
+d-----   75.18 MB     │   └── $RC6XJWF                                   
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-3386  
+d--hs-  166.24 MB     ├── S-1-5-21-970656931-1832544837-2087665911-25966 
+d--hs-  134.35 MB     │   ├── $RS6UOVR.BIN                               
+d-r---    0.00  B     │   └── $RLGNKOM                                   
+d--hs-  118.40 MB     ├── S-1-5-21-970656931-1832544837-2087665911-21951 
+d-r---   32.46 KB     │   ├── $RXLDPY6                                   
+d-r---  282.00  B     │   ├── $RVRLO24                                   
+d-r---    2.20 KB     │   ├── $RSG94JZ                                   
+d-r---  402.00  B     │   ├── $RQ571T1                                   
+d-r---  504.00  B     │   ├── $ROPNAQQ                                   
+d-r---  282.00  B     │   ├── $RO5VXNV                                   
+d-r---  504.00  B     │   ├── $RKEM8QZ                                   
+d-----   58.60 MB     │   ├── $RDGTCQK.old                               
+d-r---   67.18 KB     │   ├── $RDELTWY                                   
+d--h--  323.43 KB     │   ├── $RCBU59T                                   
+d-----   58.60 MB     │   ├── $RC2U6K7.V2                                
+d-r--- 1020.00  B     │   ├── $RA2ZJVP                                   
+d-r---  504.00  B     │   ├── $R61YKTI                                   
+d-r---    3.23 KB     │   └── $R5UNBS7                                   
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993
+d--hs-    7.56 KB     ├── S-1-5-21-970656931-1832544837-2087665911-1894  
+d-----    0.00  B     │   ├── $RZH4OOV                                   
+d-----    0.00  B     │   ├── $RVCYXBZ                                   
+d-----    0.00  B     │   ├── $RTVL2BX                                   
+d-----    0.00  B     │   ├── $RRRUCIA                                   
+d-----    0.00  B     │   ├── $RPF34M4                                   
+d-----    0.00  B     │   ├── $RPBNMAF                                   
+d-----    0.00  B     │   ├── $RORHU6G                                   
+d-----    0.00  B     │   ├── $ROJEOID                                   
+d-----    0.00  B     │   ├── $RINXIZ3                                   
+d-----    0.00  B     │   ├── $RHU63SN                                   
+d-----    0.00  B     │   ├── $RFIMJJA                                   
+d-----    0.00  B     │   ├── $RCFBU26                                   
+d-----    0.00  B     │   ├── $R90EH6J                                   
+d-----    0.00  B     │   └── $R5LH44Z                                   
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-18271 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-18268 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-15794 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-14165 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-14015 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124954
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1248  
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124536
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-12389 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-118974
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1141  
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-10856 
+d--hs-  129.00  B     ├── S-1-5-21-523348003-3991573231-2828377365-500   
+d--hs-  129.00  B     ├── S-1-5-21-4112520605-3422684976-3407895589-500  
+d--hs-  129.00  B     ├── S-1-5-21-2111952285-139808328-3646517028-500   
+d--hs-  129.00  B     └── S-1-5-18                                       
+
+
+
+
+   Source: F:\
+
+Mode      Length Hierarchy                                              
+----      ------ ---------                                              
+d--hs-   3.04 GB F:\                                                    
+d--hs-   2.82 GB ├── System Volume Information                          
+d--hs- 822.52 KB │   ├── SRM                                            
+d--hs-   5.00 KB │   └── Chkdsk                                         
+d----- 228.21 MB ├── StudentHome                                        
+d-----   0.00  B │   ├── ToBeDeleted20240704_2870743                    
+d-----   0.00  B │   ├── ToBeDeleted20240704_2785275                    
+d-----   0.00  B │   ├── ToBeDeleted20240704_2779904                    
+d-----   0.00  B │   ├── ToBeDeleted20240704_2757872                    
+d-----   0.00  B │   ├── ToBeDeleted20240704_2757098                    
+d-----   0.00  B │   ├── ToBeDeleted20240704_2673632                    
+d-----   0.00  B │   ├── ToBeDeleted20240704_2477041                    
+d-----   0.00  B │   ├── ToBeDeleted20240704_2105622                    
+d-----   0.00  B │   ├── ToBeDeleted20240704_1366950                    
+d-----   0.00  B │   ├── ToBeDeleted20240503_2855300                    
+d-----   0.00  B │   ├── ToBeDeleted20240503_2855293                    
+d-----   0.00  B │   ├── ToBeDeleted20240501_1485914                    
+d-----   0.00  B │   ├── ToBeDeleted20240304_2817835                    
+d-----   0.00  B │   ├── ToBeDeleted20240304_2817819                    
+d-----   0.00  B │   ├── ToBeDeleted20240223_2838684                    
+d-----   0.00  B │   ├── ToBeDeleted20240201_2757105                    
+d-----   0.00  B │   ├── ToBeDeleted20240201_2652348                    
+d-----   0.00  B │   ├── ToBeDeleted20240126_2760046                    
+d-----   0.00  B │   ├── ToBeDeleted20240109_2575768                    
+d-----   0.00  B │   ├── ToBeDeleted20231122_1383538                    
+d-----   0.00  B │   ├── ToBeDeleted20231122_1200610                    
+d-----   0.00  B │   ├── ToBeDeleted20231020_2108310                    
+d-----   0.00  B │   ├── ToBeDeleted20231009_2607797                    
+d-----   0.00  B │   ├── 894857                                         
+d-----   0.00  B │   ├── 776464                                         
+d-----   0.00  B │   ├── 762423                                         
+d-----   0.00  B │   ├── 758879                                         
+d-----   0.00  B │   ├── 615507                                         
+d-----   0.00  B │   ├── 584201                                         
+d-----   0.00  B │   ├── 578208                                         
+d-----   0.00  B │   ├── 577113                                         
+d-----   0.00  B │   ├── 39student                                      
+d----- 111.00  B │   ├── 39divRR                                        
+d-----   0.00  B │   │   ├── My Pictures                                
+d----- 111.00  B │   │   ├── Favorites                                  
+d-----   0.00  B │   │   ├── Desktop                                    
+d-----   0.00  B │   │   └── CrossCountryBC                             
+d-----   0.00  B │   ├── 2870615                                        
+d-----   0.00  B │   ├── 2868961                                        
+d-----   0.00  B │   ├── 2865883                                        
+d-----   0.00  B │   ├── 2865824                                        
+d-----   0.00  B │   ├── 2860505                                        
+d-----   0.00  B │   ├── 2860501                                        
+d-----   0.00  B │   ├── 2860485                                        
+d-----   0.00  B │   ├── 2860472                                        
+d-----   0.00  B │   ├── 2859142                                        
+d-----   0.00  B │   ├── 2858521                                        
+d-----   0.00  B │   ├── 2856956                                        
+d-----   0.00  B │   ├── 2856950                                        
+d-----   0.00  B │   ├── 2827524                                        
+d-----   0.00  B │   ├── 2825761                                        
+d-----   0.00  B │   ├── 2820555                                        
+d-----   0.00  B │   ├── 2794256                                        
+d-----   0.00  B │   ├── 2788150                                        
+d-----   0.00  B │   ├── 2782689                                        
+d-----   0.00  B │   ├── 2782606                                        
+d-----   0.00  B │   ├── 2779920                                        
+d-----   0.00  B │   ├── 2778345                                        
+d-----   0.00  B │   ├── 2761273                                        
+d-----   0.00  B │   ├── 2756146                                        
+d-----   0.00  B │   ├── 2756115                                        
+d-----   0.00  B │   ├── 2755704                                        
+d-----   0.00  B │   ├── 2750104                                        
+d-----   0.00  B │   ├── 2706930                                        
+d-----   0.00  B │   ├── 2698529                                        
+d-----   0.00  B │   ├── 2686351                                        
+d-----   0.00  B │   ├── 2681776                                        
+d-----   0.00  B │   ├── 2681074                                        
+d-----   0.00  B │   ├── 2674225                                        
+d-----   0.00  B │   ├── 2674136                                        
+d-----   0.00  B │   ├── 2673645                                        
+d-----   0.00  B │   ├── 2673571                                        
+d-----   0.00  B │   ├── 2660129                                        
+d-----   0.00  B │   ├── 2659348                                        
+d-----   0.00  B │   ├── 2656649                                        
+d-----   0.00  B │   ├── 2624495                                        
+d-----   0.00  B │   ├── 2619810                                        
+d-----   0.00  B │   ├── 2587340                                        
+d-----   0.00  B │   ├── 2575715                                        
+d-----   0.00  B │   ├── 2565668                                        
+d-----   0.00  B │   ├── 2557553                                        
+d-----   0.00  B │   ├── 2550623                                        
+d-----   0.00  B │   ├── 2544747                                        
+d-----   0.00  B │   ├── 2539697                                        
+d-----   0.00  B │   ├── 2515791                                        
+d-----   3.95 KB │   ├── 2497273                                        
+d-r--- 823.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 2494056                                        
+d-----   0.00  B │   ├── 2487923                                        
+d-----   0.00  B │   ├── 2487919                                        
+d-----   0.00  B │   ├── 2486266                                        
+d-----   0.00  B │   ├── 2484227                                        
+d-----   0.00  B │   ├── 2482759                                        
+d-----   0.00  B │   ├── 2470973                                        
+d-----   0.00  B │   ├── 2469829                                        
+d-----   0.00  B │   ├── 2399882                                        
+d-----   1.59 MB │   ├── 2380810                                        
+d-r--- 823.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r---   1.59 MB │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 2379703                                        
+d-----   0.00  B │   ├── 2378922                                        
+d-----   0.00  B │   ├── 2378883                                        
+d-----   0.00  B │   ├── 2377289                                        
+d-----   0.00  B │   ├── 2376697                                        
+d-----   0.00  B │   ├── 2368486                                        
+d-----   0.00  B │   ├── 2362001                                        
+d-----   0.00  B │   ├── 2357983                                        
+d-----   0.00  B │   ├── 2349802                                        
+d-----   0.00  B │   ├── 2348072                                        
+d-----   0.00  B │   ├── 2348068                                        
+d-----   0.00  B │   ├── 2348048                                        
+d-----   0.00  B │   ├── 2348016                                        
+d-----   0.00  B │   ├── 2347986                                        
+d-----   0.00  B │   ├── 2347967                                        
+d-----   0.00  B │   ├── 2347798                                        
+d-----   0.00  B │   ├── 2345710                                        
+d-----   0.00  B │   ├── 2345692                                        
+d-----   0.00  B │   ├── 2345534                                        
+d-----   0.00  B │   ├── 2345518                                        
+d-----   0.00  B │   ├── 2344554                                        
+d-----   0.00  B │   ├── 2344527                                        
+d-----   0.00  B │   ├── 2344513                                        
+d-----   0.00  B │   ├── 2343768                                        
+d-----   0.00  B │   ├── 2343483                                        
+d-----   0.00  B │   ├── 2343408                                        
+d-----   0.00  B │   ├── 2343399                                        
+d-----   0.00  B │   ├── 2343388                                        
+d-----   0.00  B │   ├── 2343362                                        
+d-----   0.00  B │   ├── 2343341                                        
+d-----   0.00  B │   ├── 2340091                                        
+d-----   0.00  B │   ├── 2340038                                        
+d-----   0.00  B │   ├── 2333427                                        
+d-----   0.00  B │   ├── 2313459                                        
+d-----   0.00  B │   ├── 2313450                                        
+d-----   0.00  B │   ├── 2309790                                        
+d-----   0.00  B │   ├── 2306770                                        
+d-----   0.00  B │   ├── 2304529                                        
+d-----   0.00  B │   ├── 2304524                                        
+d-----   0.00  B │   ├── 2304521                                        
+d-----   0.00  B │   ├── 2304518                                        
+d-----   0.00  B │   ├── 2304514                                        
+d-----   0.00  B │   ├── 2304503                                        
+d-----   0.00  B │   ├── 2304502                                        
+d-----   0.00  B │   ├── 2304500                                        
+d-----   0.00  B │   ├── 2304493                                        
+d-----   0.00  B │   ├── 2304488                                        
+d-----   0.00  B │   ├── 2304485                                        
+d-----   0.00  B │   ├── 2304480                                        
+d-----   0.00  B │   ├── 2304476                                        
+d-----   0.00  B │   ├── 2304472                                        
+d-----   0.00  B │   ├── 2304469                                        
+d-----   0.00  B │   ├── 2303554                                        
+d-----   0.00  B │   ├── 2298908                                        
+d-----   0.00  B │   ├── 2294364                                        
+d-----   0.00  B │   ├── 2294246                                        
+d-----   0.00  B │   ├── 2294245                                        
+d-----   0.00  B │   ├── 2289745                                        
+d-----  15.17 KB │   ├── 2288149                                        
+d-r--- 823.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r---  11.63 KB │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 2286251                                        
+d-----   0.00  B │   ├── 2281572                                        
+d-----   0.00  B │   ├── 2281551                                        
+d-----   0.00  B │   ├── 2281544                                        
+d-----   0.00  B │   ├── 2281499                                        
+d-----   0.00  B │   ├── 2276993                                        
+d-----   0.00  B │   ├── 2264761                                        
+d-----   0.00  B │   ├── 2255955                                        
+d-----   0.00  B │   ├── 2255296                                        
+d-----   0.00  B │   ├── 2254959                                        
+d-----   0.00  B │   ├── 2254953                                        
+d-----   0.00  B │   ├── 2254947                                        
+d-----   0.00  B │   ├── 2254944                                        
+d-----   0.00  B │   ├── 2254942                                        
+d-----   0.00  B │   ├── 2254937                                        
+d-----   0.00  B │   ├── 2254932                                        
+d-----   0.00  B │   ├── 2254922                                        
+d-----   0.00  B │   ├── 2254918                                        
+d-----   0.00  B │   ├── 2254913                                        
+d-----   0.00  B │   ├── 2254908                                        
+d-----   0.00  B │   ├── 2254900                                        
+d-----   0.00  B │   ├── 2254898                                        
+d-----   0.00  B │   ├── 2254893                                        
+d-----   0.00  B │   ├── 2253384                                        
+d-----   0.00  B │   ├── 2250868                                        
+d-----   0.00  B │   ├── 2231574                                        
+d-----   0.00  B │   ├── 2230569                                        
+d-----   0.00  B │   ├── 2230565                                        
+d-----   0.00  B │   ├── 2230564                                        
+d-----   0.00  B │   ├── 2230563                                        
+d-----   0.00  B │   ├── 2230560                                        
+d-----   0.00  B │   ├── 2230556                                        
+d-----   0.00  B │   ├── 2230553                                        
+d-----   0.00  B │   ├── 2230550                                        
+d-----   0.00  B │   ├── 2230549                                        
+d-----   0.00  B │   ├── 2218655                                        
+d-----   0.00  B │   ├── 2218081                                        
+d-----   0.00  B │   ├── 2208960                                        
+d-----   0.00  B │   ├── 2206244                                        
+d-----   0.00  B │   ├── 2206012                                        
+d-----   0.00  B │   ├── 2205973                                        
+d-----   0.00  B │   ├── 2202916                                        
+d-----   0.00  B │   ├── 2202803                                        
+d-----   0.00  B │   ├── 2202031                                        
+d-----   0.00  B │   ├── 2197775                                        
+d-----   0.00  B │   ├── 2197166                                        
+d-----   0.00  B │   ├── 2197102                                        
+d-----   0.00  B │   ├── 2194458                                        
+d-----   0.00  B │   ├── 2192786                                        
+d-----   0.00  B │   ├── 2190857                                        
+d-----   0.00  B │   ├── 2190395                                        
+d-----   0.00  B │   ├── 2190324                                        
+d-----   0.00  B │   ├── 2189113                                        
+d-----   0.00  B │   ├── 2180272                                        
+d-----   0.00  B │   ├── 2177981                                        
+d-----   0.00  B │   ├── 2168755                                        
+d-----   0.00  B │   ├── 2165721                                        
+d-----   0.00  B │   ├── 2163563                                        
+d-----   0.00  B │   ├── 2160116                                        
+d-----   0.00  B │   ├── 2156615                                        
+d-----   0.00  B │   ├── 2155162                                        
+d-----   0.00  B │   ├── 2154771                                        
+d-----   0.00  B │   ├── 2154767                                        
+d-----   0.00  B │   ├── 2154747                                        
+d-----   0.00  B │   ├── 2154721                                        
+d-----   0.00  B │   ├── 2154314                                        
+d-----   0.00  B │   ├── 2154203                                        
+d-----   0.00  B │   ├── 2154098                                        
+d-----   0.00  B │   ├── 2153926                                        
+d-----   0.00  B │   ├── 2153909                                        
+d-----   0.00  B │   ├── 2153872                                        
+d-----   0.00  B │   ├── 2153842                                        
+d-----   0.00  B │   ├── 2153615                                        
+d-----   0.00  B │   ├── 2153582                                        
+d-----   0.00  B │   ├── 2153298                                        
+d-----   0.00  B │   ├── 2153274                                        
+d-----   0.00  B │   ├── 2153266                                        
+d-----   0.00  B │   ├── 2153085                                        
+d-----   0.00  B │   ├── 2153075                                        
+d-----   0.00  B │   ├── 2152955                                        
+d-----   0.00  B │   ├── 2152925                                        
+d-----   0.00  B │   ├── 2152913                                        
+d-----   0.00  B │   ├── 2152909                                        
+d-----   0.00  B │   ├── 2152872                                        
+d-----   0.00  B │   ├── 2152867                                        
+d-----   0.00  B │   ├── 2152851                                        
+d-----   0.00  B │   ├── 2152846                                        
+d-----   0.00  B │   ├── 2152839                                        
+d-----   0.00  B │   ├── 2152831                                        
+d-----   0.00  B │   ├── 2152814                                        
+d-----   0.00  B │   ├── 2152792                                        
+d-----   0.00  B │   ├── 2152639                                        
+d-----   0.00  B │   ├── 2152634                                        
+d-----   0.00  B │   ├── 2152581                                        
+d-----   0.00  B │   ├── 2152548                                        
+d-----   0.00  B │   ├── 2152505                                        
+d-----   0.00  B │   ├── 2152489                                        
+d-----   0.00  B │   ├── 2152459                                        
+d-----   0.00  B │   ├── 2152430                                        
+d-----   0.00  B │   ├── 2152421                                        
+d-----   0.00  B │   ├── 2152259                                        
+d-----   0.00  B │   ├── 2152171                                        
+d-----   0.00  B │   ├── 2152104                                        
+d-----   0.00  B │   ├── 2152085                                        
+d-----   0.00  B │   ├── 2152079                                        
+d-----   0.00  B │   ├── 2152077                                        
+d-----   0.00  B │   ├── 2152066                                        
+d-----   0.00  B │   ├── 2152062                                        
+d-----   0.00  B │   ├── 2152046                                        
+d-----   0.00  B │   ├── 2152039                                        
+d-----   0.00  B │   ├── 2152028                                        
+d-----   0.00  B │   ├── 2152006                                        
+d-----   0.00  B │   ├── 2151969                                        
+d-----   0.00  B │   ├── 2151878                                        
+d-----   0.00  B │   ├── 2151667                                        
+d-----   0.00  B │   ├── 2151663                                        
+d-----   0.00  B │   ├── 2151656                                        
+d-----   0.00  B │   ├── 2149420                                        
+d-----   0.00  B │   ├── 2149139                                        
+d-----   0.00  B │   ├── 2149111                                        
+d-----   0.00  B │   ├── 2137500                                        
+d-----   0.00  B │   ├── 2137149                                        
+d-----   0.00  B │   ├── 2132723                                        
+d-----   0.00  B │   ├── 2124126                                        
+d-----   0.00  B │   ├── 2122397                                        
+d-----   0.00  B │   ├── 2119078                                        
+d-----   0.00  B │   ├── 2115908                                        
+d-----   0.00  B │   ├── 2113170                                        
+d-----   0.00  B │   ├── 2106851                                        
+d-----   0.00  B │   ├── 2104845                                        
+d-----   0.00  B │   ├── 2098946                                        
+d-----   0.00  B │   ├── 2097861                                        
+d-----   0.00  B │   ├── 2095205                                        
+d-----   0.00  B │   ├── 2085825                                        
+d-----   0.00  B │   ├── 2083299                                        
+d-----   0.00  B │   ├── 2082909                                        
+d-----   0.00  B │   ├── 2081055                                        
+d-----   0.00  B │   ├── 2073598                                        
+d-----   0.00  B │   ├── 2067468                                        
+d-----   0.00  B │   ├── 2067455                                        
+d-----   0.00  B │   ├── 2066886                                        
+d-----   0.00  B │   ├── 2063666                                        
+d-----   0.00  B │   ├── 2063558                                        
+d-----   0.00  B │   ├── 2063549                                        
+d-----   0.00  B │   ├── 2063512                                        
+d-----   0.00  B │   ├── 2063371                                        
+d-----   0.00  B │   ├── 2063345                                        
+d-----   0.00  B │   ├── 2063204                                        
+d-----   0.00  B │   ├── 2063103                                        
+d-----   0.00  B │   ├── 2063024                                        
+d-----   0.00  B │   ├── 2063014                                        
+d-----   0.00  B │   ├── 2062987                                        
+d-----   0.00  B │   ├── 2062980                                        
+d-----   0.00  B │   ├── 2062973                                        
+d-----   0.00  B │   ├── 2062901                                        
+d-----   0.00  B │   ├── 2062896                                        
+d-----   0.00  B │   ├── 2062882                                        
+d-----   0.00  B │   ├── 2062821                                        
+d-----   0.00  B │   ├── 2062476                                        
+d-----   0.00  B │   ├── 2062438                                        
+d-----   0.00  B │   ├── 2062352                                        
+d-----   0.00  B │   ├── 2062336                                        
+d-----   0.00  B │   ├── 2062183                                        
+d-----   0.00  B │   ├── 2062066                                        
+d-----   0.00  B │   ├── 2061965                                        
+d-----   0.00  B │   ├── 2061889                                        
+d-----   0.00  B │   ├── 2061770                                        
+d----- 848.38 KB │   ├── 2061722                                        
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 845.02 KB │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 2061559                                        
+d-----   0.00  B │   ├── 2061516                                        
+d-----   0.00  B │   ├── 2061476                                        
+d-----   0.00  B │   ├── 2061408                                        
+d-----   0.00  B │   ├── 2061390                                        
+d-----   0.00  B │   ├── 2061384                                        
+d-----   0.00  B │   ├── 2061327                                        
+d-----   0.00  B │   ├── 2061286                                        
+d-----   0.00  B │   ├── 2061271                                        
+d-----   0.00  B │   ├── 2061254                                        
+d-----   0.00  B │   ├── 2061222                                        
+d-----   0.00  B │   ├── 2061208                                        
+d-----   0.00  B │   ├── 2061049                                        
+d-----   0.00  B │   ├── 2061039                                        
+d-----   0.00  B │   ├── 2061025                                        
+d-----   0.00  B │   ├── 2060984                                        
+d-----   0.00  B │   ├── 2060978                                        
+d-----   0.00  B │   ├── 2060964                                        
+d-----   0.00  B │   ├── 2060951                                        
+d-----   0.00  B │   ├── 2060922                                        
+d-----   0.00  B │   ├── 2060879                                        
+d-----   0.00  B │   ├── 2060875                                        
+d-----   0.00  B │   ├── 2060861                                        
+d-----   0.00  B │   ├── 2060850                                        
+d-----   0.00  B │   ├── 2060833                                        
+d-----   0.00  B │   ├── 2060826                                        
+d-----   0.00  B │   ├── 2060818                                        
+d-----   0.00  B │   ├── 2060817                                        
+d-----   0.00  B │   ├── 2060798                                        
+d-----   0.00  B │   ├── 2060774                                        
+d-----   0.00  B │   ├── 2060754                                        
+d-----   0.00  B │   ├── 2060744                                        
+d-----   0.00  B │   ├── 2060621                                        
+d-----   0.00  B │   ├── 2059445                                        
+d-----   0.00  B │   ├── 2059076                                        
+d-----   0.00  B │   ├── 2058619                                        
+d-----   0.00  B │   ├── 2057983                                        
+d-----   0.00  B │   ├── 2052812                                        
+d-----   0.00  B │   ├── 2047535                                        
+d-----   2.43 MB │   ├── 2042431                                        
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 633.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 611.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r---   2.43 MB │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 2042174                                        
+d-----   0.00  B │   ├── 2033651                                        
+d-----   0.00  B │   ├── 2033635                                        
+d-----   0.00  B │   ├── 2033621                                        
+d-----   0.00  B │   ├── 2031445                                        
+d-----   0.00  B │   ├── 2031380                                        
+d-----   0.00  B │   ├── 2031236                                        
+d-----   0.00  B │   ├── 2024506                                        
+d----- 326.74 KB │   ├── 2023572                                        
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 323.38 KB │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 2019374                                        
+d-----   0.00  B │   ├── 2018880                                        
+d-----   0.00  B │   ├── 2018084                                        
+d-----   0.00  B │   ├── 2018029                                        
+d-----  19.04 MB │   ├── 2014919                                        
+d-r--- 823.00  B │   │   ├── Videos                                     
+d-r---  16.68 KB │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r---  19.02 MB │   │   ├── Downloads                                  
+d-r---   1.30 KB │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 2014618                                        
+d-----   0.00  B │   ├── 2009491                                        
+d-----   0.00  B │   ├── 2007963                                        
+d-----   0.00  B │   ├── 2000290                                        
+d-----   0.00  B │   ├── 1571855                                        
+d-----   0.00  B │   ├── 1571463                                        
+d-----   0.00  B │   ├── 1569502                                        
+d-----   0.00  B │   ├── 1569500                                        
+d-----   0.00  B │   ├── 1569023                                        
+d-----   0.00  B │   ├── 1556357                                        
+d-----   0.00  B │   ├── 1554757                                        
+d-----   0.00  B │   ├── 1553668                                        
+d-----   0.00  B │   ├── 1552525                                        
+d-----   0.00  B │   ├── 1552469                                        
+d-----   4.77 MB │   ├── 1552219                                        
+d-r--- 823.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r---   4.77 MB │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 1548342                                        
+d-----   0.00  B │   ├── 1548274                                        
+d-----   0.00  B │   ├── 1547137                                        
+d-----   0.00  B │   ├── 1547132                                        
+d-----   0.00  B │   ├── 1547130                                        
+d-----   0.00  B │   ├── 1546958                                        
+d-----   0.00  B │   ├── 1546715                                        
+d-----   0.00  B │   ├── 1546681                                        
+d-----   0.00  B │   ├── 1546426                                        
+d-----   0.00  B │   ├── 1546294                                        
+d-----   0.00  B │   ├── 1546225                                        
+d-----   0.00  B │   ├── 1546214                                        
+d-----   0.00  B │   ├── 1546144                                        
+d-----   0.00  B │   ├── 1546132                                        
+d-----   0.00  B │   ├── 1546108                                        
+d-----   0.00  B │   ├── 1546042                                        
+d-----   0.00  B │   ├── 1545827                                        
+d-----   0.00  B │   ├── 1545793                                        
+d-----   0.00  B │   ├── 1545652                                        
+d-----  12.47 KB │   ├── 1545620                                        
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r---   9.11 KB │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 1545534                                        
+d-----   0.00  B │   ├── 1545335                                        
+d-----   0.00  B │   ├── 1545298                                        
+d-----   3.76 KB │   ├── 1545279                                        
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 1545257                                        
+d-----   0.00  B │   ├── 1545254                                        
+d-----   0.00  B │   ├── 1545227                                        
+d-----   0.00  B │   ├── 1545154                                        
+d-----   0.00  B │   ├── 1545119                                        
+d-----  44.20 MB │   ├── 1545074                                        
+d-r--- 823.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r---  44.20 MB │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 1545053                                        
+d-----   0.00  B │   ├── 1545039                                        
+d-----   0.00  B │   ├── 1544985                                        
+d-----   0.00  B │   ├── 1544936                                        
+d-----   0.00  B │   ├── 1544902                                        
+d-----   0.00  B │   ├── 1544899                                        
+d-----   0.00  B │   ├── 1544846                                        
+d-----   0.00  B │   ├── 1544753                                        
+d-----   0.00  B │   ├── 1544611                                        
+d-----   0.00  B │   ├── 1544569                                        
+d-----   0.00  B │   ├── 1544476                                        
+d-----   0.00  B │   ├── 1544452                                        
+d-----   0.00  B │   ├── 1544399                                        
+d-----   0.00  B │   ├── 1544343                                        
+d-----   0.00  B │   ├── 1544299                                        
+d-----   3.57 KB │   ├── 1544257                                        
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 633.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 1544228                                        
+d-----   0.00  B │   ├── 1543647                                        
+d-r---  19.48 MB │   ├── 1542238                                        
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 633.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-----   0.00  B │   │   ├── Links                                      
+d-r---   2.92 KB │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r---  19.47 MB │   │   ├── Documents                                  
+d-----   0.00  B │   │   ├── Desktop                                    
+d-----   0.00  B │   │   ├── CrossCountryBC                             
+d-----   0.00  B │   │   └── Contacts                                   
+d-----   0.00  B │   ├── 1541123                                        
+d-----   0.00  B │   ├── 1535047                                        
+d-----   0.00  B │   ├── 1531288                                        
+d-----   0.00  B │   ├── 1527841                                        
+d-----   0.00  B │   ├── 1527604                                        
+d-----   0.00  B │   ├── 1526168                                        
+d-----   0.00  B │   ├── 1520618                                        
+d-----   0.00  B │   ├── 1506765                                        
+d-----   0.00  B │   ├── 1499559                                        
+d-----   0.00  B │   ├── 1485682                                        
+d-----   0.00  B │   ├── 1478970                                        
+d-----   0.00  B │   ├── 1468506                                        
+d-----   0.00  B │   ├── 1461331                                        
+d-----   0.00  B │   ├── 1460884                                        
+d-----   0.00  B │   ├── 1459850                                        
+d-----   0.00  B │   ├── 1457650                                        
+d-----   0.00  B │   ├── 1455207                                        
+d-----   0.00  B │   ├── 1451427                                        
+d-----   0.00  B │   ├── 1451426                                        
+d-----   0.00  B │   ├── 1448790                                        
+d-----   0.00  B │   ├── 1445024                                        
+d-----   0.00  B │   ├── 1444350                                        
+d-----   0.00  B │   ├── 1441043                                        
+d-----   0.00  B │   ├── 1437326                                        
+d-----   0.00  B │   ├── 1425401                                        
+d-----   0.00  B │   ├── 1415120                                        
+d-----   0.00  B │   ├── 1415116                                        
+d-----   0.00  B │   ├── 1411486                                        
+d-----   0.00  B │   ├── 1404796                                        
+d-----   0.00  B │   ├── 1404790                                        
+d-----   0.00  B │   ├── 1398646                                        
+d-----   0.00  B │   ├── 1397933                                        
+d-----   0.00  B │   ├── 1395195                                        
+d-----   0.00  B │   ├── 1388239                                        
+d-----   0.00  B │   ├── 1384166                                        
+d-----   0.00  B │   ├── 1379591                                        
+d-----   0.00  B │   ├── 1379103                                        
+d-----   0.00  B │   ├── 1369538                                        
+d-----   0.00  B │   ├── 1369124                                        
+d-----   0.00  B │   ├── 1364498                                        
+d-----   0.00  B │   ├── 1361924                                        
+d-----   0.00  B │   ├── 1361057                                        
+d-----   0.00  B │   ├── 1360706                                        
+d-----   0.00  B │   ├── 1344879                                        
+d-----   0.00  B │   ├── 1340077                                        
+d-----   0.00  B │   ├── 1333209                                        
+d-----   0.00  B │   ├── 1330782                                        
+d-----   0.00  B │   ├── 1324548                                        
+d-----   0.00  B │   ├── 1318302                                        
+d-----   0.00  B │   ├── 1311711                                        
+d-----   0.00  B │   ├── 1302815                                        
+d-----   0.00  B │   ├── 1302403                                        
+d-----   0.00  B │   ├── 1294324                                        
+d-----   0.00  B │   ├── 1294292                                        
+d-----   0.00  B │   ├── 1291691                                        
+d-----   0.00  B │   ├── 1290920                                        
+d-----   0.00  B │   ├── 1288942                                        
+d-----   0.00  B │   ├── 1288901                                        
+d-----   0.00  B │   ├── 1284820                                        
+d----- 135.51 MB │   ├── 1283148                                        
+d-r--- 823.00  B │   │   ├── Videos                                     
+d-r--- 179.66 KB │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 135.33 MB │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 1282385                                        
+d-----   0.00  B │   ├── 1281998                                        
+d-----   0.00  B │   ├── 1264540                                        
+d-----   0.00  B │   ├── 1248461                                        
+d-----   0.00  B │   ├── 1246684                                        
+d-----   0.00  B │   ├── 1230983                                        
+d-----   0.00  B │   ├── 1214202                                        
+d-----   0.00  B │   ├── 1212944                                        
+d-----   0.00  B │   ├── 1211587                                        
+d-----   0.00  B │   ├── 1211585                                        
+d-----   0.00  B │   ├── 1211482                                        
+d-----   0.00  B │   ├── 1210287                                        
+d-----   0.00  B │   ├── 1209698                                        
+d-----   0.00  B │   ├── 1200059                                        
+d-----   0.00  B │   ├── 1197348                                        
+d-----   0.00  B │   ├── 1187826                                        
+d-----   0.00  B │   ├── 1182957                                        
+d-----   0.00  B │   ├── 1179272                                        
+d-----   0.00  B │   ├── 1178119                                        
+d-----   0.00  B │   ├── 1173096                                        
+d-----   0.00  B │   ├── 1144696                                        
+d-----   0.00  B │   ├── 1138920                                        
+d-----   0.00  B │   ├── 1097062                                        
+d-----   0.00  B │   ├── 1026325                                        
+d-----   0.00  B │   ├── 1026043                                        
+d-----   0.00  B │   ├── 1014708                                        
+d-----   0.00  B │   ├── 1003466                                        
+d-----   0.00  B │   └── 1001282                                        
+d--hs-   5.61 KB └── $RECYCLE.BIN                                       
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-83991 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-83936 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-82333 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-8075  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-8060  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-76128 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-6861  
+d--hs-   1.05 KB     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
+d--hs- 673.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-3386  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-25966 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-21951 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1894  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-18271 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-18268 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-15794 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-14165 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-14015 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124954
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1248  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124536
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-12389 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-118974
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1141  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-10856 
+d--hs- 129.00  B     ├── S-1-5-21-523348003-3991573231-2828377365-500   
+d--hs- 129.00  B     ├── S-1-5-21-4112520605-3422684976-3407895589-500  
+d--hs- 129.00  B     └── S-1-5-21-2111952285-139808328-3646517028-500   
+
+
+
+
+   Source: P:\
+
+Mode       Length Hierarchy                                                        
+----       ------ ---------                                                        
+d--hs-   79.26 GB P:\                                                              
+d-----    0.00  B ├── witness                                                      
+d--hs-    2.90 GB ├── System Volume Information                                    
+d--hs-   48.00  B │   ├── SRM                                                      
+d--hs-    5.00 KB │   └── Chkdsk                                                   
+d-----   76.21 MB ├── pxe                                                          
+d-----   76.21 MB │   └── tftproot                                                 
+d-----    7.54 MB │       ├── utils                                                
+d-----    4.48 MB │       ├── udpcast                                              
+d-----    3.00 KB │       ├── pxelinux.cfg                                         
+d-----   16.96 MB │       ├── partimage                                            
+d-----   47.21 MB │       └── gparted                                              
+d-----   62.04 GB ├── Programs                                                     
+d-----  632.10 MB │   ├── WordQ                                                    
+d-----  208.82 MB │   │   ├── WordQ                                                
+d-----   78.04 MB │   │   ├── SpeakQ                                               
+d-----  104.57 MB │   │   ├── AcapelaUK                                            
+d-----  113.49 MB │   │   ├── AcapelaNA                                            
+d-----    7.19 MB │   │   ├── AcapelaCore                                          
+d-----  118.87 MB │   │   └── AcapelaCFR                                           
+d-----    5.45 GB │   ├── Windows 10                                               
+d-----    8.77 KB │   ├── WIFI Configs                                             
+d-----   21.89 MB │   ├── Video Lan - VLC                                          
+d-----    0.00  B │   ├── temp                                                     
+d-----  746.69 MB │   ├── Successmaker                                             
+d-----  373.78 MB │   ├── SpeakQ                                                   
+d-----   79.54 MB │   │   ├── WordQ                                                
+d-----   77.33 MB │   │   ├── SpeakQ                                               
+d-----   95.76 MB │   │   ├── AcapelaUK                                            
+d-----  113.45 MB │   │   ├── AcapelaNA                                            
+d-----    7.06 MB │   │   └── AcapelaCore                                          
+d-----  248.25 MB │   ├── smyles                                                   
+d-r---  504.00  B │   │   ├── Videos                                               
+d-r--- 1020.00  B │   │   ├── Searches                                             
+d-r---  282.00  B │   │   ├── Saved Games                                          
+d-r---  504.00  B │   │   ├── Pictures                                             
+d-r---  504.00  B │   │   ├── Music                                                
+d-r---    2.18 KB │   │   ├── Links                                                
+d-r---  482.00  B │   │   ├── Favorites                                            
+d-r---  282.00  B │   │   ├── Downloads                                            
+d-r---  402.00  B │   │   ├── Documents                                            
+d-r---    4.25 MB │   │   ├── Desktop                                              
+d-r---   58.20 KB │   │   ├── Contacts                                             
+d--h--  241.62 MB │   │   └── AppData                                              
+d-----    1.26 GB │   ├── SMARTNotebook_10.8                                       
+d-----  100.92 MB │   │   ├── smartresponse2010sp1admin                            
+d-----  580.20 MB │   │   └── educationsoftwareinstaller2011adminwin2              
+d-----    1.88 GB │   ├── Smartboard and Senteo Win XP                             
+d-----  136.28 MB │   │   ├── Smart_Ideas 5.1                                      
+d-----  140.88 MB │   │   ├── Seneto Notebook and Drivers                          
+d-----    6.18 MB │   │   ├── Documentation                                        
+d-----    1.35 GB │   │   └── Deploy Zip files Notebook and Drivers                
+d-----    1.03 GB │   ├── Smartboard and Senteo                                    
+d-----  136.28 MB │   │   ├── Smart_Ideas 5.1                                      
+d-----    6.18 MB │   │   └── Documentation                                        
+d-----   23.88 GB │   ├── Sibelius 7                                               
+d-----    2.53 GB │   │   ├── Sibelius 7.1.2                                       
+d-----    7.11 GB │   │   ├── Disc 3                                               
+d-----    7.04 GB │   │   ├── Disc 2                                               
+d-----    7.20 GB │   │   └── Disc 1                                               
+d-----   22.21 MB │   ├── Science Probe Gr 6 Installer                             
+d-----    4.83 MB │   │   ├── Install Computerized Test Bank                       
+d-----  103.95 KB │   │   ├── images                                               
+d-----   16.64 MB │   │   └── CAB                                                  
+d-----   28.93 MB │   ├── Science Probe 8 Installer                                
+d-----    5.54 MB │   │   ├── Install Computerized Test Bank                       
+d-----   20.84 MB │   │   ├── FSCOMMAND                                            
+d----- 1014.94 KB │   │   └── EVPlayer                                             
+d-----   66.95 MB │   ├── Science Probe 7 Teacher Resource CD                      
+d-----   47.55 KB │   │   ├── images                                               
+d-----   66.73 MB │   │   └── BCSP7                                                
+d-----   22.20 MB │   ├── Science Probe 7 Installer                                
+d-----    5.08 MB │   │   ├── Install Computerized Test Bank                       
+d-----   74.45 KB │   │   ├── images                                               
+d-----   16.41 MB │   │   └── CAB                                                  
+d-----    6.80 GB │   ├── Rosetta Stone                                            
+d-----    2.18 GB │   │   ├── Languages                                            
+d-----   96.42 MB │   │   └── Extracted Files                                      
+d-----    8.52 MB │   ├── PowerOfTen                                               
+d-----    0.00  B │   ├── New folder                                               
+d-----   29.88 MB │   ├── NetControl2                                              
+d-----   13.45 MB │   │   └── Archives                                             
+d-----  570.15 MB │   ├── Motic Images Plus 2.0                                    
+d-----    6.75 MB │   │   ├── TWAIN                                                
+d-----   13.21 MB │   │   ├── MDAC                                                 
+d-----  336.40 MB │   │   ├── Manual                                               
+d-----  502.50 KB │   │   ├── Language                                             
+d-----    6.58 MB │   │   ├── driver                                               
+d-----   36.05 MB │   │   └── DirectX9                                             
+d-----  635.34 MB │   ├── Mindstorm EDU V2.0                                       
+d-----  635.34 MB │   │   └── MINDSTORMS NXT                                       
+d-----    1.18 MB │   ├── Microsoft                                                
+d-----    1.18 MB │   │   └── Windows Movie Maker                                  
+d-----  142.51 MB │   ├── MathLinks7_TR                                            
+d-----    3.29 MB │   │   ├── Xtras                                                
+d-----  136.31 KB │   │   ├── images                                               
+d-----    1.05 KB │   │   ├── Help                                                 
+d-----  135.93 MB │   │   ├── files                                                
+d-----  106.00 KB │   │   └── data                                                 
+d-----    1.41 GB │   ├── Math Makes Sense 8                                       
+d-----  756.50 KB │   │   ├── provincial_assess_support                            
+d-----    1.36 GB │   │   ├── MMS8 Pro Guide                                       
+d-----   43.71 MB │   │   └── editable_word                                        
+d-----   94.15 MB │   ├── Math Makes Sense                                         
+d-----   27.37 MB │   │   └── editible_word                                        
+d-----   86.42 MB │   ├── MARC-MAGICIAN                                            
+d-----   46.92 MB │   ├── Library                                                  
+d-----    1.30 GB │   ├── Lenovo ThinkPad L512                                     
+d-----  153.79 MB │   │   ├── WLANINT                                              
+d-----    1.98 MB │   │   ├── USBFHCR                                              
+d-----   11.27 MB │   │   ├── LAN                                                  
+d-----    6.40 MB │   │   ├── Intel(R) Chipset Device Software                     
+d-----   19.44 MB │   │   ├── IMEI                                                 
+d-----   19.84 MB │   │   ├── G1F714WW                                             
+d-----  247.40 MB │   │   ├── Audio                                                
+d-----  298.31 MB │   │   ├── ATIVideo                                             
+d-----   88.55 MB │   │   └── 7ZBV19WW                                             
+d-----  907.97 MB │   ├── Lenovo 3000 G430 (4446)                                  
+d-----    2.26 MB │   │   ├── WinXP                                                
+d-----  578.47 KB │   │   ├── WinNT                                                
+d-----    1.04 MB │   │   ├── Win2000                                              
+d-----   71.76 MB │   │   ├── W7-64                                                
+d-----   69.96 MB │   │   ├── W7-32                                                
+d-----    2.33 MB │   │   ├── Vista_Win7                                           
+d-----   62.17 MB │   │   ├── Synaptics                                            
+d-----    9.45 MB │   │   ├── SmAudio                                              
+d-----    1.18 MB │   │   ├── PXE                                                  
+d-----  131.93 KB │   │   ├── Netware                                              
+d-----  146.17 KB │   │   ├── NDIS2                                                
+d-----    3.48 MB │   │   ├── Manuals                                              
+d-----  633.95 KB │   │   ├── Linux                                                
+d-----    2.61 MB │   │   ├── Lang                                                 
+d-----  164.72 KB │   │   ├── HDMI                                                 
+d-----    1.78 MB │   │   ├── HDAudio                                              
+d-----    2.55 MB │   │   ├── HBM                                                  
+d-----   55.73 MB │   │   ├── Graphics                                             
+d-----    6.29 MB │   │   ├── FwUpg                                                
+d-----   15.51 MB │   │   ├── DrvInst                                              
+d-----  935.00 KB │   │   ├── Driver                                               
+d-----    3.40 MB │   │   ├── DOS                                                  
+d-----   72.83 MB │   │   ├── Display                                              
+d-----    6.43 MB │   │   ├── Chicony                                              
+d-----   22.12 MB │   │   ├── Bison                                                
+d-----   43.31 MB │   │   ├── BACS                                                 
+d-----  897.44 KB │   │   ├── Application                                          
+d-----    6.27 MB │   │   └── ALPS                                                 
+d-----    3.41 MB │   ├── Kurzweil Educational Systems                             
+d-----  457.05 KB │   │   ├── Help                                                 
+d-----   31.50 KB │   │   └── General                                              
+d-----    1.94 GB │   ├── Kurzweil                                                 
+d-----  229.25 MB │   │   ├── Voices_Vr10                                          
+d-----  662.45 MB │   │   └── Kurzweil 11                                          
+d-----    1.36 MB │   ├── KTEA Data                                                
+d-----    1.36 MB │   │   ├── Uninstall_KTEA II ASSIST                             
+d-----    0.00  B │   │   └── plugins                                              
+d-----   58.34 MB │   ├── Java                                                     
+d-----  123.02 KB │   ├── info                                                     
+da----  123.02 KB │   │   └── Backgrounds                                          
+d-----   64.04 MB │   ├── Google                                                   
+d-----   62.96 MB │   │   └── Google SketchUp 8                                    
+d-----    7.67 MB │   ├── Fiona May's KTEA                                         
+d-----    6.90 MB │   │   └── ags                                                  
+d-----   10.55 MB │   ├── ExamView Pro 6.2                                         
+d-----   41.58 MB │   ├── ExamView (Copy this folder to teacher's home folder Done)
+d-----    0.00  B │   │   ├── Tests                                                
+d-----    4.48 MB │   │   ├── Scanners                                             
+d-----  848.42 KB │   │   ├── Extras                                               
+d-----  185.48 KB │   │   ├── Classes                                              
+d-----    9.70 MB │   │   └── Banks                                                
+d-----    1.48 GB │   ├── Essential Skills SE                                      
+da----  256.90 KB │   │   ├── Uninstall                                            
+da----   47.65 MB │   │   ├── sp2                                                  
+da----   76.06 MB │   │   ├── mmedia                                               
+da----   13.63 MB │   │   ├── media2                                               
+da----   21.48 MB │   │   ├── Manuals                                              
+da----   65.15 MB │   │   ├── m3                                                   
+da----   39.27 MB │   │   ├── m2                                                   
+da----    2.67 MB │   │   ├── lib                                                  
+da----   58.43 MB │   │   ├── jar                                                  
+da----   46.31 MB │   │   ├── j2se                                                 
+da----    7.72 MB │   │   ├── generic media                                        
+da----  617.59 KB │   │   ├── Diplomas                                             
+da----    3.31 MB │   │   ├── data                                                 
+d-----  316.18 MB │   │   └── bin                                                  
+d-----  247.83 MB │   ├── Drivers                                                  
+d-----   17.52 MB │   │   ├── win32-PS3_Lexmark UDP                                
+d-----  203.24 MB │   │   ├── Inspiron 5537                                        
+d-----   10.68 MB │   │   ├── EpsonPerfectionV100                                  
+d-----   16.39 MB │   │   └── CanoniR5055                                          
+d-----    1.72 GB │   ├── Dell Inc. Inspiron 5537                                  
+d-----    1.72 GB │   │   └── Inspiron 5537                                        
+d-----   93.76 MB │   ├── Dell Driver                                              
+d-----    9.52 MB │   │   ├── Optiplex 330                                         
+d-----   84.24 MB │   │   └── Latitute E6510                                       
+d-----    4.61 GB │   ├── Data_Backup                                              
+d-----    7.79 MB │   │   ├── w39lab1tk1                                           
+d-----    6.96 MB │   │   ├── w39fishtk1                                           
+d-----    2.30 GB │   │   ├── w39fishsx2                                           
+d-----    2.29 GB │   │   └── w39fishsx1                                           
+d-----  414.54 KB │   ├── Data                                                     
+d-----  414.54 KB │   │   ├── Shared                                               
+d-----    0.00  B │   │   └── Backup                                               
+d-----    3.99 KB │   ├── Craig_REG FILE                                           
+d-----    1.45 MB │   ├── CPUz                                                     
+d-----   16.04 MB │   ├── Copy to H                                                
+d-----   16.04 MB │   │   └── ExamView                                             
+d-----    2.17 GB │   ├── ccc                                                      
+d-----    0.00  B │   │   ├── teacher                                              
+d-----    0.00  B │   │   ├── student                                              
+da----   15.67 MB │   │   ├── QUICKTIME                                            
+da----    6.94 MB │   │   ├── LOCALCAI                                             
+d-----    2.60 MB │   │   ├── history                                              
+da----   11.17 KB │   │   ├── CCCTEMP                                              
+da----    2.14 GB │   │   └── CAI                                                  
+d-----  443.35 MB │   ├── ATRT 3 Plus                                              
+d-----    2.32 MB │   │   ├── Xtras                                                
+d-----  112.56 MB │   │   ├── Install                                              
+d-----  132.37 MB │   │   ├── atrt_plus_school_pc                                  
+d-----    2.31 MB │   │   ├── ATRTDatabase                                         
+d-----   58.08 MB │   │   ├── All the RightType v3 Teacher                         
+d-----   47.03 MB │   │   └── All the Right Type v3 Student                        
+d-----  222.53 MB │   ├── Apps                                                     
+d-----   15.58 MB │   ├── AppleWorks_6.2                                           
+d-----   58.20 MB │   ├── All the RightType v3 Teacher                             
+d-----    5.06 MB │   │   ├── Xtras                                                
+d-----  776.10 KB │   │   ├── testing                                              
+d-----   11.00 KB │   │   ├── TempData                                             
+d-----  668.24 KB │   │   ├── Skill                                                
+d-----  510.10 KB │   │   ├── PUZZLES                                              
+d-----    1.61 MB │   │   ├── practice                                             
+d-----    2.53 MB │   │   ├── maintenance                                          
+d-----   11.25 MB │   │   ├── learning                                             
+d-----   11.21 MB │   │   ├── Games                                                
+d-----    8.52 MB │   │   └── Administration Utility                               
+d-----   47.15 MB │   ├── All the Right Type v3 Student                            
+d-----    5.06 MB │   │   ├── Xtras                                                
+d-----  776.10 KB │   │   ├── testing                                              
+d-----   11.00 KB │   │   ├── TempData                                             
+d-----  668.24 KB │   │   ├── Skill                                                
+d-----  510.10 KB │   │   ├── PUZZLES                                              
+d-----    1.61 MB │   │   ├── practice                                             
+d-----   11.25 MB │   │   ├── learning                                             
+d-----   11.21 MB │   │   └── Games                                                
+d-----   34.64 MB │   ├── AGS                                                      
+d-----    1.31 MB │   │   ├── Uninstall_KTEA II ASSIST                             
+d-----    0.00  B │   │   ├── plugins                                              
+d-----   15.06 MB │   │   ├── Java JRE                                             
+d-----   10.32 MB │   │   ├── Contents                                             
+d-----    7.80 MB │   │   └── BACKUP_MATT BOULTON                                  
+d-----    0.00  B │   ├── academy                                                  
+d-----    0.00  B │   │   └── data                                                 
+d-----  784.15 MB │   ├── 172WebContent                                            
+d-----   22.86 KB │   │   ├── runtime                                              
+d-----  745.20 MB │   │   └── CAI                                                  
+d-----  263.08 MB │   ├── 172WebClient                                             
+d-----    4.25 MB │   │   ├── setup.app                                            
+d-----   22.86 KB │   │   ├── runtime                                              
+d-----  385.00 KB │   │   ├── lib                                                  
+d-----  258.43 MB │   │   └── HomeAccess                                           
+d-----  114.00  B │   └── 11 WORD FIX                                              
+d-----  541.53 MB ├── Printer Drivers                                              
+d-----    9.63 MB │   ├── ntprint.inf_x86_neutral_c4c11fe1f3d01835                 
+d-----    9.59 MB │   │   └── I386                                                 
+d-----   31.10 MB │   ├── Lexmark_Universal_v2_PCL XL                              
+d-----   17.11 KB │   │   ├── Notices                                              
+d-----   31.08 MB │   │   └── Drivers                                              
+d-----   80.27 MB │   ├── Lexmark universal                                        
+d-----   20.47 MB │   │   ├── Win64-PS3                                            
+d-----   22.55 MB │   │   ├── Win64-PCL                                            
+d-----   17.52 MB │   │   ├── win32-PS3                                            
+d-----   19.73 MB │   │   └── Win32-PCL                                            
+d-----  155.73 MB │   ├── lex upd 2.6                                              
+d-----  666.41 KB │   │   ├── zh_tw                                                
+d-----  648.45 KB │   │   ├── zh                                                   
+d-----  641.96 KB │   │   ├── tr                                                   
+d-----  627.99 KB │   │   ├── sv                                                   
+d-----  670.37 KB │   │   ├── ru                                                   
+d-----  709.76 KB │   │   ├── ro                                                   
+d-----  639.59 KB │   │   ├── pt_br                                                
+d-----  677.19 KB │   │   ├── pl                                                   
+d-----  612.23 KB │   │   ├── no                                                   
+d-----  634.86 KB │   │   ├── nl                                                   
+d-----  707.64 KB │   │   ├── ko                                                   
+d-----  752.11 KB │   │   ├── ja                                                   
+d-----  641.47 KB │   │   ├── it                                                   
+d-----   28.04 MB │   │   ├── i386                                                 
+d-----  666.20 KB │   │   ├── hu                                                   
+d-----   77.86 MB │   │   ├── GDI                                                  
+d-----  663.65 KB │   │   ├── fr                                                   
+d-----  634.93 KB │   │   ├── fi                                                   
+d-----  643.17 KB │   │   ├── es                                                   
+d-----  600.60 KB │   │   ├── en                                                   
+d-----  697.29 KB │   │   ├── el                                                   
+d-----  656.30 KB │   │   ├── de                                                   
+d-----  637.29 KB │   │   ├── da                                                   
+d-----  614.72 KB │   │   ├── cs                                                   
+d-----  652.09 KB │   │   ├── ar                                                   
+d-----   33.78 MB │   │   └── amd64                                                
+d-----   34.21 MB │   ├── lex upd 2.11                                             
+d-----   34.21 MB │   │   └── Ps3                                                  
+d-----   73.98 MB │   ├── HP                                                       
+d-----   25.07 MB │   │   ├── PS-x86                                               
+d-----   24.76 MB │   │   ├── pcl6-x86                                             
+d-----   24.14 MB │   │   └── pcl5-x86                                             
+d-----   53.49 MB │   └── Canon                                                    
+d-----   17.51 MB │       ├── ccdpcl_xp2k3vista2k87x64_p6_0670_e                   
+d-----   16.26 MB │       ├── ccdpcl_2kxp2k3vista2k87_p6_0670_e                    
+d-----   10.62 MB │       ├── ccdfax_xp2k3vista2k87x64_fax_0820_e                  
+d-----    9.10 MB │       └── ccdfax_2kxp2k3vista2k87_fax_0820_e                   
+d-----    3.38 GB ├── Old Server                                                   
+d-----  204.91 MB │   ├── staroffice7                                              
+d-----  592.50 KB │   │   ├── user                                                 
+d-----   63.83 MB │   │   ├── share                                                
+d-----  121.73 MB │   │   ├── program                                              
+d-----   18.52 MB │   │   └── help                                                 
+d-----   42.78 MB │   ├── Reportwriter 3.6                                         
+d-----   14.21 MB │   │   ├── Windows Installer                                    
+d-----   24.79 MB │   │   ├── Macintosh Installer                                  
+d-----    3.78 MB │   │   └── Documentation                                        
+d-----   48.61 MB │   ├── Inspiration                                              
+d-----    6.26 MB │   │   ├── Net Support                                          
+d-----   19.00 KB │   │   ├── License                                              
+d-----    4.16 MB │   │   └── Inspiration Documentation                            
+d-----  589.41 MB │   ├── Hyperstudio                                              
+d-r---   53.47 MB │   │   ├── Utility                                              
+d-r---  238.41 MB │   │   ├── PROJECTS                                             
+d-r---  213.66 MB │   │   ├── MEDIALIB                                             
+d-r---    2.68 MB │   │   ├── Internet                                             
+d-r---    2.51 MB │   │   ├── HYPRLOGO                                             
+d-r---   27.42 MB │   │   ├── HStudio                                              
+d-r---   49.64 MB │   │   ├── HSMOVIE                                              
+d-r---  104.79 KB │   │   └── DEVELOP                                              
+d-----   33.07 MB │   ├── fINALE NOTEPAD                                           
+d-----  114.65 MB │   ├── fairburn                                                 
+d-----   66.33 MB │   │   ├── ReportWriter 3.0 Head                                
+d-----   37.27 MB │   │   ├── ReportWriter 3.0 Chorney                             
+d-----    3.41 MB │   │   └── export                                               
+d-----    2.17 GB │   ├── ccc.old                                                  
+da-h--    0.00  B │   │   ├── TheVolumeSettingsFolder                              
+da----    0.00  B │   │   ├── TEACHER                                              
+da----    0.00  B │   │   ├── STUDENT                                              
+da----   15.67 MB │   │   ├── QUICKTIME                                            
+da----    6.94 MB │   │   ├── LOCALCAI                                             
+da----    2.60 MB │   │   ├── HISTORY                                              
+da----   11.17 KB │   │   ├── CCCTEMP                                              
+da----    2.14 GB │   │   └── CAI                                                  
+d-----  106.87 MB │   ├── atrt3                                                    
+d-----    1.51 MB │   │   ├── dbase                                                
+d-----   58.20 MB │   │   ├── all the right type v3 teacher                        
+d-----   47.15 MB │   │   └── all the right type v3 student                        
+d-----   64.16 MB │   ├── academy                                                  
+d-----   47.07 MB │   │   ├── VIDEOG                                               
+d-----    0.00  B │   │   ├── TEMP                                                 
+d-----   12.33 MB │   │   └── SOUNDS                                               
+d-----   40.20 MB │   └── 24Games                                                  
+d-----    3.71 MB │       ├── WIN95                                                
+d-----    5.64 MB │       ├── WIN                                                  
+d-----  945.54 KB │       ├── Tutorial Support                                     
+d-----    9.63 MB │       ├── SGGames                                              
+d-----  522.64 KB │       ├── REGCARD                                              
+d-----   18.31 MB │       ├── CATALOG                                              
+d-----    1.48 MB │       └── ACRO_V2                                              
+d-----   10.32 GB ├── District Installers                                          
+d-----  804.39 KB │   ├── Winimage                                                 
+d-----   23.37 MB │   ├── Windows Live Photo Gallery                               
+d-----  328.00  B │   ├── Windows Folder - Copy to Windows                         
+d-----  328.00  B │   ├── Windows                                                  
+d-----   18.59 MB │   ├── VLC Media Player                                         
+d-----  366.15 KB │   ├── USBStickRestriction                                      
+d-----    2.25 MB │   ├── UltraVNC                                                 
+d-----   41.35 KB │   │   └── driver                                               
+d-----   10.20 MB │   ├── TuxTypeFrench                                            
+d-----   56.00  B │   │   ├── userdata                                             
+d-----  191.43 KB │   │   ├── src                                                  
+d-----   39.34 KB │   │   ├── docs                                                 
+d-----    8.43 MB │   │   └── data                                                 
+d-----   19.81 MB │   ├── TuxType                                                  
+d-----   74.48 KB │   │   ├── locale                                               
+d-----  192.46 KB │   │   ├── doc                                                  
+d-----   12.46 MB │   │   └── data                                                 
+d-----   79.35 MB │   ├── TuxPaint                                                 
+d-----    1.86 MB │   │   ├── plugins                                              
+d-----    1.04 MB │   │   ├── locale                                               
+d-----  557.00 KB │   │   ├── lib                                                  
+d-----  406.80 KB │   │   ├── im                                                   
+d-----   70.56 KB │   │   ├── etc                                                  
+d-----    5.40 MB │   │   ├── docs                                                 
+d-----   61.09 MB │   │   └── data                                                 
+d-----   14.66 MB │   ├── TuxMath                                                  
+d-----  208.78 KB │   │   ├── locale                                               
+d-----  120.66 KB │   │   ├── doc                                                  
+d-----    6.38 MB │   │   └── data                                                 
+d-----   86.67 MB │   ├── TTL3NET                                                  
+d-----  298.56 KB │   │   ├── WinG                                                 
+d-----    0.00  B │   │   ├── Type To Learn 3 Network                              
+d-----    2.21 MB │   │   ├── TTLIMPRT                                             
+d-----   80.25 MB │   │   ├── Res                                                  
+d-----  492.03 KB │   │   └── classes                                              
+d-----   43.57 MB │   ├── Stellarium                                               
+d-----   92.27 MB │   ├── SmartFreeSoftware                                        
+d-----   35.49 MB │   ├── Scratch                                                  
+d-----    3.29 MB │   ├── Royale_Noir                                              
+d-----  728.00 KB │   │   └── Shell                                                
+d-----   32.28 MB │   ├── Quicktime 7                                              
+d-----    3.51 MB │   ├── Paint.Net                                                
+d-----  677.97 KB │   ├── Notepad                                                  
+d-----    8.25 MB │   ├── NetControl2                                              
+d-----  393.99 MB │   ├── Microsoft .Net Framework                                 
+d-----   84.66 MB │   ├── Microsoft                                                
+d-----    3.29 MB │   │   ├── Royale_Noir                                          
+d-----    9.23 MB │   │   └── OfficeMathUpdate                                     
+d-----   15.54 MB │   ├── Math Makes Sense 8                                       
+d-----    1.52 MB │   │   └── EVPlayer                                             
+d-----   52.73 MB │   ├── LEGO                                                     
+d-----    2.58 GB │   ├── Kurzweil                                                 
+d-----    1.92 GB │   │   ├── v14                                                  
+d-----   14.24 MB │   │   ├── K3000NetworkEngine                                   
+d-----   14.11 MB │   │   ├── K3000NetworkAdministrator                            
+d-----  633.96 MB │   │   ├── K3000Client                                          
+d-----    4.69 MB │   │   └── Documentation                                        
+d-----   33.85 MB │   ├── Kidspiration ISO                                         
+d-----  767.47 MB │   ├── KidPixServer                                             
+d-----   96.74 MB │   │   ├── third party                                          
+d-----   25.25 MB │   │   ├── QTMovies                                             
+d-----  127.91 MB │   │   ├── Libraries                                            
+d-----   84.03 MB │   │   ├── Idea Machine                                         
+d-----    1.20 MB │   │   ├── Fonts                                                
+d-----    0.00  B │   │   └── data                                                 
+d-----  555.19 MB │   ├── Kidpix4.1 Server Install                                 
+d-----   37.24 MB │   │   └── dx9                                                  
+d-----   17.90 MB │   ├── Java Runtime                                             
+d-----    0.00  B │   │   ├── Old                                                  
+d-----    2.64 KB │   │   └── AppDataUsers                                         
+d-----  124.00 MB │   ├── ITunes                                                   
+d-----   32.34 MB │   ├── Internet Explorer 8                                      
+d-----   19.50 MB │   ├── Icons                                                    
+d-----   47.43 MB │   ├── Google                                                   
+d-----    3.98 MB │   ├── FTP Filezilla                                            
+d-----    6.32 MB │   ├── FoxitPDFReader                                           
+d-r---   11.66 MB │   ├── FotoCanvas                                               
+d-----    2.57 MB │   │   └── Copy                                                 
+d-----   69.45 MB │   ├── Forefront                                                
+d-----   20.15 MB │   ├── Fonts Freeware                                           
+d-----   15.22 MB │   ├── Finale NotePad 2005a                                     
+d-----  139.94 KB │   │   ├── Fonts                                                
+d-----  130.76 KB │   │   ├── Font Annotation                                      
+d-----  314.67 KB │   │   └── Component Files                                      
+d-r---   19.38 KB │   ├── Edmark Shortcuts                                         
+d-----  771.24 MB │   ├── Edmark                                                   
+d-----  522.52 KB │   │   ├── Yatzy                                                
+d-----    2.61 MB │   │   ├── Workshop                                             
+d-----  651.37 KB │   │   ├── Tangram                                              
+d-----    5.82 MB │   │   ├── Symbol Sandbox                                       
+d-----    3.94 MB │   │   ├── Sudoku                                               
+d-----    6.60 MB │   │   ├── Stykz                                                
+d-----  176.77 MB │   │   ├── StorytellingAlice                                    
+d-----  726.20 KB │   │   ├── sebran_selectFrench                                  
+d-----    1.51 MB │   │   ├── Sebran                                               
+d-----    4.02 MB │   │   ├── Roxies ABC Fish                                      
+d-----  237.26 MB │   │   ├── Return of The Incredible Machine                     
+d-----  826.26 KB │   │   ├── Pivot Stickfigure Animator                           
+d-----   13.45 MB │   │   ├── Pencil                                               
+d-----  677.97 KB │   │   ├── Notepad                                              
+d-----    2.05 MB │   │   ├── My Friend                                            
+d-----    1.40 MB │   │   ├── MATHCIR                                              
+d-----    2.00 MB │   │   ├── Little, Middle, and Big                              
+d-----  143.00 KB │   │   ├── Lexibar                                              
+d-----    2.31 MB │   │   ├── Letter Machine                                       
+d-----  115.76 MB │   │   ├── LEGO Digital Designer                                
+d-----    2.28 MB │   │   ├── L'Heure                                              
+d-----    8.80 MB │   │   ├── Kinetics Lab                                         
+d-----    3.96 MB │   │   ├── Jellybean Hunt                                       
+d-----    5.66 MB │   │   ├── Imagemo                                              
+d-----  488.23 KB │   │   ├── GraphPap                                             
+d-----    2.94 MB │   │   ├── GeoComputer                                          
+d-----  108.77 MB │   │   ├── Galactic Multiplication & Division                   
+d-----  592.32 KB │   │   ├── EclipseCrossword                                     
+d-----    3.58 MB │   │   ├── Calendar Clock                                       
+d-----    2.99 MB │   │   ├── BlockCAD                                             
+d-----    1.30 MB │   │   ├── Basic Facts Worksheet Factory                        
+d-----  491.77 KB │   │   ├── AtouMath                                             
+d-----    5.90 MB │   │   ├── 2D 3D Blox                                           
+d-----    3.73 MB │   │   ├── 24 Games                                             
+d-----   21.75 MB │   │   ├── 2+2 v.2.1af                                          
+d-----   19.07 MB │   │   └── 2+2 v.2.1a                                           
+d-----    9.13 MB │   ├── EA                                                       
+d-----    9.13 MB │   │   └── ACENTER                                              
+d-----   17.12 MB │   ├── DVDDecryptors                                            
+d-----    1.29 GB │   ├── CrossCountryServer                                       
+d-----  723.06 MB │   │   ├── Quick Install Drop Client to Program Files           
+d-----  320.83 MB │   │   ├── Crosscountry2                                        
+d-----  276.45 MB │   │   └── CanadaPS_B_server                                    
+d-----  415.53 MB │   ├── Clicker5                                                 
+d-----  372.24 MB │   │   └── MSI                                                  
+d-----   33.60 MB │   ├── Celestia                                                 
+d-----  322.79 MB │   ├── CCPhotoSafariInstaller                                   
+d-----    1.47 MB │   │   ├── Xtras                                                
+d-----    2.19 KB │   │   ├── Icon                                                 
+d-----  284.21 MB │   │   ├── Data                                                 
+d-----   17.59 MB │   │   ├── CANADA_PS                                            
+d-----   17.14 MB │   │   └── CANADA_2                                             
+d-----  322.79 MB │   ├── CCCanadaInstaller                                        
+d-----    1.47 MB │   │   ├── Xtras                                                
+d-----    2.19 KB │   │   ├── Icon                                                 
+d-----  284.21 MB │   │   ├── Data                                                 
+d-----   17.59 MB │   │   ├── CANADA_PS                                            
+d-----   17.14 MB │   │   └── CANADA_2                                             
+d-----  551.07 MB │   ├── CCBCInstaller                                            
+d-----    1.47 MB │   │   ├── Xtras                                                
+d-----  147.06 MB │   │   ├── oldBC_Site_client                                    
+d-----    3.83 MB │   │   ├── Install2                                             
+d-----    4.29 MB │   │   ├── Install1                                             
+d-----  390.12 MB │   │   ├── Install                                              
+d-----   24.62 KB │   │   └── Icon                                                 
+d-----   20.47 MB │   ├── Canorus                                                  
+d-----    3.64 MB │   ├── Audacity                                                 
+d-----    1.35 MB │   │   └── LameMP3Encoder                                       
+d-----  268.66 MB │   ├── atrt3                                                    
+d-----  159.30 MB │   │   ├── install disk                                         
+d-----    4.01 MB │   │   ├── dbase                                                
+d-----   58.20 MB │   │   ├── all the right type v3 teacher                        
+d-----   47.15 MB │   │   └── all the right type v3 student                        
+d-----   27.71 MB │   ├── AtoZap                                                   
+d-----   22.46 MB │   │   └── PROGRAM FILES                                        
+d-r---   84.95 KB │   ├── AppShortcuts                                             
+d-----  117.07 MB │   ├── AlltheRightTypeFullInstaller                             
+d-----    3.54 MB │   │   ├── Xtras                                                
+d-----   20.50 MB │   │   ├── SMACK                                                
+d-----  841.40 KB │   │   ├── PC_miniDB                                            
+d-----  846.17 KB │   │   ├── NTS_miniDB                                           
+d-----    4.60 KB │   │   ├── Icon                                                 
+d-----   61.08 MB │   │   ├── ATRT3                                                
+d-----   12.24 MB │   │   ├── Administration Utility - v12                         
+d-----   12.24 MB │   │   └── Administration Utility - miniDB                      
+d-----   58.20 MB │   ├── All the RightType v3 Teacher                             
+d-----    5.06 MB │   │   ├── Xtras                                                
+d-----  776.10 KB │   │   ├── testing                                              
+d-----   11.00 KB │   │   ├── TempData                                             
+d-----  668.24 KB │   │   ├── Skill                                                
+d-----  510.10 KB │   │   ├── PUZZLES                                              
+d-----    1.61 MB │   │   ├── practice                                             
+d-----    2.53 MB │   │   ├── maintenance                                          
+d-----   11.25 MB │   │   ├── learning                                             
+d-----   11.21 MB │   │   ├── Games                                                
+d-----    8.52 MB │   │   └── Administration Utility                               
+d-----   47.15 MB │   ├── All the Right Type v3 Student                            
+d-----    5.06 MB │   │   ├── Xtras                                                
+d-----  776.10 KB │   │   ├── testing                                              
+d-----   11.00 KB │   │   ├── TempData                                             
+d-----  668.24 KB │   │   ├── Skill                                                
+d-----  510.10 KB │   │   ├── PUZZLES                                              
+d-----    1.61 MB │   │   ├── practice                                             
+d-----   11.25 MB │   │   ├── learning                                             
+d-----   11.21 MB │   │   └── Games                                                
+d-----  134.83 MB │   ├── AdobeReader                                              
+d-----   20.60 MB │   ├── Adobe IEPlugins                                          
+d-----   16.69 MB │   │   ├── AdobeFlashShockwave                                  
+d-----    2.66 MB │   │   └── Accelerated Reader Plugin                            
+d-----  493.88 MB │   ├── ACADEMY                                                  
+d-----   47.07 MB │   │   ├── VIDEOG                                               
+d-----    0.00  B │   │   ├── TEMP                                                 
+d-----   78.95 MB │   │   ├── SOUNDS                                               
+d-----   25.46 MB │   │   ├── PROGR16                                              
+d-----  253.08 MB │   │   ├── MOVIES                                               
+d-----   79.24 MB │   │   ├── GRAPHICS                                             
+d-----    6.35 MB │   │   └── CONTENT                                              
+d-----  147.45 MB │   └── !Star Reading Academy of Reading                         
+d-----   12.98 MB │       ├── Star Reading 2.x                                     
+d-----   22.95 MB │       ├── Star Math 2.x                                        
+d-----    4.50 MB │       ├── AR Content Eagle View                                
+d-----  106.67 MB │       └── Academy of Reading 6.3                               
+d--hs-    5.48 MB └── $RECYCLE.BIN                                                 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-83991           
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-8075            
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-76128           
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244           
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222           
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-3386            
+d--hs-    5.48 MB     ├── S-1-5-21-970656931-1832544837-2087665911-25966           
+d-----    3.88 MB     │   ├── $RBBC57C                                             
+d-----    1.59 MB     │   ├── $R9D34YK                                             
+d-----  195.00  B     │   └── $R4Q8IEQ                                             
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-21951           
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583          
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152          
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299          
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993          
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1894            
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-18271           
+d--hs-    1.25 KB     ├── S-1-5-21-970656931-1832544837-2087665911-18268           
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633          
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124955          
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124954          
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-10856           
+d--hs-  129.00  B     ├── S-1-5-21-393792010-3677294194-3749437605-500             
+d--hs-  129.00  B     └── S-1-5-21-1470117633-3246320844-2260939168-500            
+
+

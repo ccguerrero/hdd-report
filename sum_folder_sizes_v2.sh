@@ -1,17 +1,4 @@
 #!/bin/bash
-
-# Check if a file parameter is provided
-if [ -z "$1" ]; then
-    echo "Usage: $0 <source_file>"
-    exit 1
-fi
-source_file="$1"
-output_file="output2.csv"
-
-# Extract the number after 's' in the source file name
-school_number=$(echo "$source_file" | grep -oP '(?<=s)\d{2}')
-printf "Processing file school number: %s\n" "$school_number"
-
 # Function to get the school name from schools.csv
 get_school_name() {
     local number="$1"
@@ -30,7 +17,7 @@ get_school_name() {
         fi
     done < "$csv_file"
 }
-
+#Function to convert any size units to bytes
 convert_to_bytes() {
     local size="$1"
     local unit="$2"
@@ -43,6 +30,20 @@ convert_to_bytes() {
         *) echo 0 ;;  # Default to 0 if no valid unit is found
     esac
 }
+
+# Check if a file parameter is provided
+if [ -z "$1" ]; then
+    echo "Usage: $0 <source_file>"
+    exit 1
+fi
+source_file="$1"
+output_file="output2.csv"
+
+# Extract the number after 's' in the source file name
+school_number=$(echo "$source_file" | grep -oP '(?<=s)\d{2}')
+printf "Processing file school number: %s\n" "$school_number"
+
+
 
 # Get the location (school name) from the CSV file
 location=$(get_school_name "$school_number")
@@ -82,13 +83,6 @@ while IFS= read -r line; do
         unit=$(echo $line | grep -oP '([KMGT]B|B)' | head -n 1)
         #printf "Unit: %s\n" "$unit"
 
-        # case $unit in
-        #     B) size=$(echo "$size" | bc) ;;
-        #     KB) size=$(echo "$size * 1024" | bc) ;;
-        #     MB) size=$(echo "$size * 1024 * 1024" | bc) ;;
-        #     GB) size=$(echo "$size * 1024 * 1024 * 1024" | bc) ;;
-        #     TB) size=$(echo "$size * 1024 * 1024 * 1024 * 1024" | bc) ;;
-        # esac
         size_in_bytes=$(convert_to_bytes "$size" "$unit")
         #printf "1Size in B: %s\n" "$size_in_bytes"
  
@@ -102,30 +96,17 @@ while IFS= read -r line; do
                 #printf "Total for NLE is %s\n"  "$folder_totalsNLE"
             fi
             if [[ $line =~ 'ToBeDeleted' ]]; then
-                printf "Line: %s \n" "$line"
-                printf "2Size in B: %s \n" "$size_in_bytes"
+                #printf "Line: %s \n" "$line"
+                #printf "2Size in B: %s \n" "$size_in_bytes"
                 #folder_sizeGraduated+="$size_in_bytes"
                 folder_totalsGraduates=$(echo "${folder_totalsGraduates:-0} + $size_in_bytes" | bc)
-                printf "Adding %s to Graduated\n" "$size_in_bytes"
-                printf "Total for Graduated is %s\n" "$folder_totalsGraduates"
+                #printf "Adding %s to Graduated\n" "$size_in_bytes"
+                #printf "Total for Graduated is %s\n" "$folder_totalsGraduates"
             fi
         #done
     fi
 done < "$source_file"
 
-# # Output the sizes and units found for each folder in a CSV-compatible format
-# echo "Location,Used,NLE,ToBeDeleted,Total storage"  # CSV header
-
-# for folder in "${folders[@]}"; do
-#     total_size="${folder_totals[$folder]}"
-#     echo "$folder,$total_size"
-# done
-
-# # Calculate and output the total size of all folders combined in human-readable format
-# total_size=0
-# for folder in "${folders[@]}"; do
-#     total_size=$(echo "$total_size + ${folder_totals[$folder]:-0}" | bc)
-# done
 
 # Function to convert bytes to a human-readable format
 human_readable() {
@@ -141,8 +122,6 @@ human_readable() {
     echo "$size ${units[$unit_index]}"
 }
 
-# total_human_size=$(human_readable $total_size)
-# echo "Total,$total_human_size"  # Output total line in human-readable
 
 # Convert totals to GB for the output
 total_used_gb=$(echo "scale=2; $total_used / (1024 * 1024 * 1024)" | bc)

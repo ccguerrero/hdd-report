@@ -1,0 +1,314 @@
+﻿
+Root       Total (GB)         Used (GB)        Free (GB) Percentage Used (%) PSComputerName RunspaceId                 
+----       ----------         ---------        --------- ------------------- -------------- ----------                 
+E:\  119.997066497803   2.1180305480957 117.879035949707               1.77% s0801          f4cc92fa-da2a-45cf-839f-...
+F:\  119.997066497803 0.603904724121094 119.393161773682               0.50% s0801          f4cc92fa-da2a-45cf-839f-...
+P:\  79.9970664978027 0.957080841064453 79.0399856567383               1.20% s0801          f4cc92fa-da2a-45cf-839f-...
+
+
+
+
+   Source: E:\
+
+Mode       Length Hierarchy                                              
+----       ------ ---------                                              
+d--hs-    1.49 GB E:\                                                    
+d-----    3.48 KB ├── yara                                               
+d--hsl  312.00  B │   └── DfsrPrivate                                    
+d-----  312.00  B │       ├── Staging                                    
+d-----    0.00  B │       ├── PreExisting                                
+d-----    0.00  B │       ├── Installing                                 
+d-----    0.00  B │       ├── Deleted                                    
+d-----    0.00  B │       └── ConflictAndDeleted                         
+d-----    0.00  B ├── witness                                            
+d--hs-   38.50 MB ├── System Volume Information                          
+d--hs-  257.34 KB │   ├── SRM                                            
+d-----   38.09 MB │   └── DFSR                                           
+d-----  312.00  B │       ├── Private                                    
+d-----   37.02 MB │       ├── database_EC96_C8C8_96C8_948C               
+d-----    4.30 KB │       └── Config                                     
+d-----   23.11 MB ├── System                                             
+d-----    9.00  B │   ├── scripts                                        
+d-----   23.11 MB │   ├── Profiles                                       
+d-----    5.42 MB │   │   ├── TeacherMan                                 
+d-----   11.56 MB │   │   ├── StudentMan.v6                              
+d-----    5.41 MB │   │   ├── StudentMan                                 
+d-----  324.55 KB │   │   ├── libraryman.V6                              
+d-----  416.15 KB │   │   └── FSAMan.V6                                  
+d-----    0.00  B │   └── installs                                       
+d-----    0.00  B │       └── drivers                                    
+d-----    0.00  B ├── StaffHome                                          
+d-----   12.13 KB ├── Staff Home Shortcuts                               
+d-----    1.43 GB ├── collaboration                                      
+d-----    0.00  B │   ├── teachers                                       
+d-----    0.00  B │   ├── students                                       
+d-----    0.00  B │   │   ├── DivisionHS                                 
+d-----    0.00  B │   │   ├── Division03                                 
+d-----    0.00  B │   │   ├── Division02                                 
+d-----    0.00  B │   │   └── Division01                                 
+d-----    0.00  B │   ├── Student Homes                                  
+d-----  891.20 MB │   ├── staff                                          
+d-----  117.39 MB │   │   ├── Visuals                                    
+d-----  443.68 MB │   │   ├── The Wonder Box Resources                   
+d-----    8.07 MB │   │   ├── Second Step                                
+d-----  253.54 KB │   │   ├── School Resources                           
+d-----    8.65 MB │   │   ├── Salish Weave                               
+d-----   10.77 MB │   │   ├── Report Cards                               
+d-----   66.67 MB │   │   ├── Remembrance Day                            
+d-----  147.75 MB │   │   ├── Photos                                     
+d----- 1015.92 KB │   │   ├── Numeracy Assessment (SNAP)                 
+d-----   18.15 MB │   │   ├── Math Resources                             
+d-----    4.68 MB │   │   ├── Kindergarten Gradual Entry                 
+d-----   11.74 MB │   │   ├── Karley 2022-2023                           
+d-----  514.45 KB │   │   ├── Job Descriptions                           
+d-----  454.16 KB │   │   ├── Indigenous Education                       
+d-----    6.78 MB │   │   ├── Growth Mindset                             
+d-----   29.23 MB │   │   ├── Go Zen Resources                           
+d-----  554.42 KB │   │   ├── Collaborative Problem Solving Resources    
+d-----   24.11 KB │   │   ├── Behaviour Reports                          
+d-----   13.80 KB │   │   └── 2024 START UP                              
+d-----  243.94 MB │   ├── School Based Team                              
+d-----  133.06 KB │   │   ├── Tracking Documents                         
+d-----    2.54 MB │   │   ├── T'isam                                     
+d-----  303.87 KB │   │   ├── Support Plans                              
+d-----   22.52 MB │   │   ├── SLP K Screening Results & Letters          
+d-----  142.66 KB │   │   ├── Silos                                      
+d-----    7.07 MB │   │   ├── Sala-Arndt                                 
+d-----  902.73 KB │   │   ├── Restraint & Seclusion                      
+d-----    1.99 MB │   │   ├── Regier                                     
+d-----  170.33 MB │   │   ├── Nasol                                      
+d-----  603.45 KB │   │   ├── Measor                                     
+d-----  292.78 KB │   │   ├── May-Poole                                  
+d-----    2.77 MB │   │   ├── Khan                                       
+d-----    6.90 MB │   │   ├── IBI Designation                            
+d-----    6.90 MB │   │   ├── Grayer                                     
+d-----    1.07 MB │   │   ├── Executive Function Resources               
+d-----    3.10 MB │   │   ├── District Support Request Documents         
+d-----  771.26 KB │   │   ├── Consent Forms                              
+d-----  249.73 KB │   │   ├── Collaborative Problem Solving Resources    
+d-----    1.58 MB │   │   ├── CB IEP handouts                            
+d-----  372.03 KB │   │   ├── ASD Designation Support Documents          
+d-----    2.42 MB │   │   └── AAC Room Signs                             
+d-----  327.53 MB │   └── office                                         
+d-----    4.29 MB │       ├── Volunteer Criminal Record Checks           
+d-----  961.74 KB │       ├── Violent Incident Reports                   
+d-----   40.98 MB │       ├── Staff Meeting Minutes                      
+d-----    2.54 MB │       ├── School Supplies                            
+d-----    1.44 MB │       ├── School photos                              
+d-----  596.56 KB │       ├── Schedules                                  
+d-----   66.67 MB │       ├── Remembrance Day                            
+d-----  113.35 KB │       ├── Pro-D Days                                 
+d-----  247.35 KB │       ├── PR Cards                                   
+d-----  188.54 KB │       ├── Powerpoint                                 
+d-----    4.87 MB │       ├── PAC                                        
+d-----    8.76 MB │       ├── Marina                                     
+d-----  688.66 KB │       ├── Maps                                       
+d-----    3.32 MB │       ├── Logos & Letterhead                         
+d-----    9.02 MB │       ├── Library                                    
+d-----    6.87 MB │       ├── Kindergarten Gradual Entry                 
+d-----    2.92 MB │       ├── Health & Safety                            
+d-----    1.86 MB │       ├── Field Trips                                
+d-----    2.76 MB │       ├── End of Year Stuff                          
+d-----   14.61 MB │       ├── Emergency Preparedness                     
+d-----   12.65 KB │       ├── EA's                                       
+d-----  118.58 KB │       ├── Donations                                  
+d-----   38.77 MB │       ├── Communication to Families                  
+d-----  564.58 KB │       ├── Code of Conduct                            
+d-----  266.35 KB │       ├── Class Building                             
+d-----    1.85 MB │       ├── Calendar                                   
+d-----  206.64 KB │       ├── BC Fruit & Veggie Program                  
+d-----  105.45 MB │       ├── Barb                                       
+d-----    1.11 MB │       ├── Audit                                      
+d-----   13.78 KB │       ├── Anaphylaxis & Medication                   
+d-----   45.64 KB │       ├── Affordability Fund                         
+d-----    0.00  B │       ├── admin                                      
+d-----    2.92 MB │       └── 1701                                       
+d--hs-    1.01 KB └── $RECYCLE.BIN                                       
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-84325 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-25966 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
+d--hs-  129.00  B     └── S-1-5-21-2988211483-3915955467-3887074721-500  
+
+
+
+
+   Source: F:\
+
+Mode      Length Hierarchy                                              
+----      ------ ---------                                              
+d--hs- 278.35 KB F:\                                                    
+d--hs- 277.34 KB ├── System Volume Information                          
+d--hs- 257.33 KB │   └── SRM                                            
+d-----   0.00  B ├── StudentHome                                        
+d-----   0.00  B │   ├── ToBeDeleted20240627_2840130                    
+d-----   0.00  B │   ├── ToBeDeleted20240611_2864297                    
+d-----   0.00  B │   ├── ToBeDeleted20240529_2840110                    
+d-----   0.00  B │   ├── ToBeDeleted20240430_2801045                    
+d-----   0.00  B │   ├── ToBeDeleted20240209_2817776                    
+d-----   0.00  B │   ├── ToBeDeleted20240130_2702156                    
+d-----   0.00  B │   ├── ToBeDeleted20240111_2530968                    
+d-----   0.00  B │   ├── ToBeDeleted20231225_2786611                    
+d-----   0.00  B │   ├── ToBeDeleted20231225_2222394                    
+d-----   0.00  B │   ├── ToBeDeleted20230830_2766931                    
+d-----   0.00  B │   ├── ToBeDeleted20230829_2567697                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2736805                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2734832                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2722366                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2664010                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2647940                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2619270                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2300058                    
+d-----   0.00  B │   ├── ToBeDeleted20230509_2736998                    
+d-----   0.00  B │   ├── ToBeDeleted20230421_2751694                    
+d-----   0.00  B │   ├── ToBeDeleted20230420_2300058                    
+d-----   0.00  B │   ├── ToBeDeleted20230417_2751740                    
+d-----   0.00  B │   ├── ToBeDeleted20230404_2743603                    
+d-----   0.00  B │   ├── ToBeDeleted20230404_2734906                    
+d-----   0.00  B │   ├── ToBeDeleted20230207_2721223                    
+d-----   0.00  B │   ├── ToBeDeleted20220831_2299745                    
+d-----   0.00  B │   ├── ToBeDeleted20220830_2322940                    
+d-----   0.00  B │   ├── ToBeDeleted20220830_2217173                    
+d-----   0.00  B │   ├── 2864293                                        
+d-----   0.00  B │   ├── 2859248                                        
+d-----   0.00  B │   ├── 2853668                                        
+d-----   0.00  B │   ├── 2840309                                        
+d-----   0.00  B │   ├── 2840295                                        
+d-----   0.00  B │   ├── 2840227                                        
+d-----   0.00  B │   ├── 2840200                                        
+d-----   0.00  B │   ├── 2840193                                        
+d-----   0.00  B │   ├── 2840158                                        
+d-----   0.00  B │   ├── 2840149                                        
+d-----   0.00  B │   ├── 2840138                                        
+d-----   0.00  B │   ├── 2839730                                        
+d-----   0.00  B │   ├── 2838840                                        
+d-----   0.00  B │   ├── 2838807                                        
+d-----   0.00  B │   ├── 2833529                                        
+d-----   0.00  B │   ├── 2813930                                        
+d-----   0.00  B │   ├── 2786647                                        
+d-----   0.00  B │   ├── 2786629                                        
+d-----   0.00  B │   ├── 2743277                                        
+d-----   0.00  B │   ├── 2737023                                        
+d-----   0.00  B │   ├── 2736983                                        
+d-----   0.00  B │   ├── 2736942                                        
+d-----   0.00  B │   ├── 2736912                                        
+d-----   0.00  B │   ├── 2736894                                        
+d-----   0.00  B │   ├── 2736872                                        
+d-----   0.00  B │   ├── 2736841                                        
+d-----   0.00  B │   ├── 2736805                                        
+d-----   0.00  B │   ├── 2736770                                        
+d-----   0.00  B │   ├── 2736700                                        
+d-----   0.00  B │   ├── 2736447                                        
+d-----   0.00  B │   ├── 2735614                                        
+d-----   0.00  B │   ├── 2735518                                        
+d-----   0.00  B │   ├── 2734940                                        
+d-----   0.00  B │   ├── 2734926                                        
+d-----   0.00  B │   ├── 2734884                                        
+d-----   0.00  B │   ├── 2732280                                        
+d-----   0.00  B │   ├── 2724548                                        
+d-----   0.00  B │   ├── 2715460                                        
+d-----   0.00  B │   ├── 2712583                                        
+d-----   0.00  B │   ├── 2702156                                        
+d-----   0.00  B │   ├── 2675490                                        
+d-----   0.00  B │   ├── 2674441                                        
+d-----   0.00  B │   ├── 2640799                                        
+d-----   0.00  B │   ├── 2624835                                        
+d-----   0.00  B │   ├── 2619463                                        
+d-----   0.00  B │   ├── 2619450                                        
+d-----   0.00  B │   ├── 2619434                                        
+d-----   0.00  B │   ├── 2619320                                        
+d-----   0.00  B │   ├── 2619294                                        
+d-----   0.00  B │   ├── 2619253                                        
+d-----   0.00  B │   ├── 2619226                                        
+d-----   0.00  B │   ├── 2619213                                        
+d-----   0.00  B │   ├── 2618574                                        
+d-----   0.00  B │   ├── 2618558                                        
+d-----   0.00  B │   ├── 2613629                                        
+d-----   0.00  B │   ├── 2593741                                        
+d-----   0.00  B │   ├── 2593709                                        
+d-----   0.00  B │   ├── 2590839                                        
+d-----   0.00  B │   ├── 2589011                                        
+d-----   0.00  B │   ├── 2589008                                        
+d-----   0.00  B │   ├── 2567702                                        
+d-----   0.00  B │   ├── 2567700                                        
+d-----   0.00  B │   ├── 2567696                                        
+d-----   0.00  B │   ├── 2567534                                        
+d-----   0.00  B │   ├── 2567510                                        
+d-----   0.00  B │   ├── 2567498                                        
+d-----   0.00  B │   ├── 2567483                                        
+d-----   0.00  B │   ├── 2567467                                        
+d-----   0.00  B │   ├── 2567449                                        
+d-----   0.00  B │   ├── 2567304                                        
+d-----   0.00  B │   ├── 2537576                                        
+d-----   0.00  B │   ├── 2535744                                        
+d-----   0.00  B │   ├── 2524570                                        
+d-----   0.00  B │   ├── 2521281                                        
+d-----   0.00  B │   ├── 2505876                                        
+d-----   0.00  B │   ├── 2475776                                        
+d-----   0.00  B │   ├── 2446164                                        
+d-----   0.00  B │   ├── 2326828                                        
+d-----   0.00  B │   ├── 2307751                                        
+d-----   0.00  B │   ├── 2302707                                        
+d-----   0.00  B │   ├── 2300456                                        
+d-----   0.00  B │   ├── 2239066                                        
+d-----   0.00  B │   ├── 2239036                                        
+d-----   0.00  B │   └── 08divRR                                        
+d--hs-   1.01 KB └── $RECYCLE.BIN                                       
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-84325 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-25966 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
+d--hs- 129.00  B     └── S-1-5-21-2988211483-3915955467-3887074721-500  
+
+
+
+
+   Source: P:\
+
+Mode      Length Hierarchy                                              
+----      ------ ---------                                              
+d--hs- 357.97 MB P:\                                                    
+d--hs-  20.06 KB ├── System Volume Information                          
+d--hs-  48.00  B │   └── SRM                                            
+d-----   0.00  B ├── Programs                                           
+d-----   0.00  B │   ├── ccc                                            
+d-----   0.00  B │   │   ├── teacher                                    
+d-----   0.00  B │   │   ├── student                                    
+d-----   0.00  B │   │   └── history                                    
+d-----   0.00  B │   └── academy                                        
+d-----   0.00  B │       └── data                                       
+d----- 357.95 MB ├── Printer Drivers                                    
+d-----  80.27 MB │   ├── Lexmark universal                              
+d-----  20.47 MB │   │   ├── Win64-PS3                                  
+d-----  22.55 MB │   │   ├── Win64-PCL                                  
+d-----  17.52 MB │   │   ├── win32-PS3                                  
+d-----  19.73 MB │   │   └── Win32-PCL                                  
+d-----  73.98 MB │   ├── HP                                             
+d-----  25.07 MB │   │   ├── PS-x86                                     
+d-----  24.76 MB │   │   ├── pcl6-x86                                   
+d-----  24.14 MB │   │   └── pcl5-x86                                   
+d-----  47.08 MB │   ├── Canon Information Assist                       
+d-----   8.82 MB │   │   ├── misc                                       
+d-----  35.73 MB │   │   └── Driver                                     
+d-----  53.49 MB │   └── Canon                                          
+d-----  17.51 MB │       ├── ccdpcl_xp2k3vista2k87x64_p6_0670_e         
+d-----  16.26 MB │       ├── ccdpcl_2kxp2k3vista2k87_p6_0670_e          
+d-----  10.62 MB │       ├── ccdfax_xp2k3vista2k87x64_fax_0820_e        
+d-----   9.10 MB │       └── ccdfax_2kxp2k3vista2k87_fax_0820_e         
+d--hs-   1.01 KB └── $RECYCLE.BIN                                       
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-84325 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-25966 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
+d--hs- 129.00  B     └── S-1-5-21-2988211483-3915955467-3887074721-500  
+
+

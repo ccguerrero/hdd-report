@@ -1,0 +1,1888 @@
+﻿
+Root       Total (GB)        Used (GB)        Free (GB) Percentage Used (%) PSComputerName RunspaceId                  
+----       ----------        ---------        --------- ------------------- -------------- ----------                  
+E:\  479.997066497803 400.040058135986 79.9570083618164              83.34% s2001          53c4a8b8-bc24-4609-9ac3-1...
+F:\  79.9970664978027 5.05707550048828 74.9399909973145               6.32% s2001          53c4a8b8-bc24-4609-9ac3-1...
+P:\  59.9961357116699 26.0649185180664 33.9312171936035              43.44% s2001          53c4a8b8-bc24-4609-9ac3-1...
+
+
+
+
+   Source: E:\
+
+Mode       Length Hierarchy                                              
+----       ------ ---------                                              
+d--hs-  398.37 GB E:\                                                    
+d-----    3.48 KB ├── Yara                                               
+d--hsl  312.00  B │   └── DfsrPrivate                                    
+d-----  312.00  B │       ├── Staging                                    
+d-----    0.00  B │       ├── PreExisting                                
+d-----    0.00  B │       ├── Installing                                 
+d-----    0.00  B │       ├── Deleted                                    
+d-----    0.00  B │       └── ConflictAndDeleted                         
+d-----    0.00  B ├── witness                                            
+d--hs-   14.99 GB ├── System Volume Information                          
+d--hs-   60.00  B │   ├── SRM                                            
+d-----   38.10 MB │   ├── DFSR                                           
+d-----   11.31 KB │   │   ├── Private                                    
+d-----   37.02 MB │   │   ├── database_726C_DFD5_6CDF_91E9               
+d-----    4.30 KB │   │   └── Config                                     
+d--hs-   10.00 KB │   └── Chkdsk                                         
+d-----    1.11 GB ├── System                                             
+d-----  950.62 KB │   ├── scripts                                        
+da----  950.62 KB │   │   └── inventory                                  
+d-----  401.02 MB │   ├── Profiles                                       
+d-----  156.74 MB │   │   ├── VisualMan.v6                               
+d-----    5.00 KB │   │   ├── TeacherMan.v2                              
+d-----   29.67 KB │   │   ├── TeacherMan                                 
+d-----   11.56 MB │   │   ├── StudentMan.v6                              
+d-----   28.30 MB │   │   ├── StudentMan.V2OLD                           
+d-----   19.98 MB │   │   ├── StudentMan.V2BU                            
+d-----   20.01 MB │   │   ├── StudentMan.V2                              
+d-----   14.12 MB │   │   ├── StudentMan                                 
+d-----  738.00  B │   │   ├── ShortcutsToBeDeleted                       
+d-----   26.77 MB │   │   ├── ResourceMan.V2OLD                          
+d-----   19.99 MB │   │   ├── ResourceMan.V2                             
+d-----    5.40 MB │   │   ├── ResourceMan                                
+d-----    5.47 MB │   │   ├── oldStudentMan                              
+d-----  413.80 KB │   │   ├── libraryman.V6                              
+d-----   27.48 MB │   │   ├── LibraryMan.V2OLD                           
+d-----   20.71 MB │   │   ├── LibraryMan.V2                              
+d-----    4.75 MB │   │   ├── LibraryMan                                 
+d-----   24.70 MB │   │   ├── ICONS                                      
+d-----  416.15 KB │   │   ├── FSAMan.V6                                  
+d-----    2.17 MB │   │   ├── FSAMan.v2                                  
+d-----    7.58 MB │   │   ├── FSAMan                                     
+d-----   79.45 KB │   │   ├── Desktop                                    
+d-----    1.95 MB │   │   └── AppData                                    
+d-----  735.61 MB │   └── installs                                       
+d-----  735.61 MB │       ├── MS Office 2010                             
+d-----    0.00  B │       └── drivers                                    
+d-----  366.37 GB ├── StaffHome                                          
+d-r---   58.43 GB │   ├── tcrystal                                       
+d-r---   80.30 MB │   │   ├── Videos                                     
+d-----   21.30 MB │   │   ├── SMART Notebook                             
+d-r---  212.89 MB │   │   ├── Pictures                                   
+d-----    8.76 KB │   │   ├── Outlook2010                                
+d-r---   72.11 KB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-----    5.26 GB │   │   ├── From Laptop Nov 17 2021                    
+d-r---   59.42 KB │   │   ├── Favorites                                  
+d-r---    5.68 GB │   │   ├── Downloads                                  
+d-r---   41.60 GB │   │   ├── Documents                                  
+d-r---    5.36 GB │   │   ├── Desktop                                    
+d-r---    2.06 MB │   │   ├── Contacts                                   
+d-----  230.16 MB │   │   └── AppData                                    
+d-r---   58.16 MB │   ├── sschubert-NLE                                  
+d-r---   58.16 MB │   │   └── Documents                                  
+d-----    0.00  B │   ├── snorrie                                        
+d-----    6.41 GB │   ├── SMYHRE                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-----    6.19 GB │   │   ├── From Laptop                                
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---   84.55 MB │   │   ├── Downloads                                  
+d-r---   77.07 MB │   │   ├── Documents                                  
+d-r---    4.05 MB │   │   ├── Desktop                                    
+d-r---    1.08 MB │   │   ├── Contacts                                   
+d-----   65.48 MB │   │   └── AppData                                    
+d-----    5.20 MB │   ├── sdumitrescu                                    
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.59 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---    5.18 MB │   │   ├── Downloads                                  
+d-r---  531.00  B │   │   ├── Documents                                  
+d-r---    4.91 KB │   │   ├── Desktop                                    
+d-r---  541.00  B │   │   └── Contacts                                   
+d-----   12.77 KB │   ├── rwilliams                                      
+d-r---  633.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.57 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---  411.00  B │   │   ├── Downloads                                  
+d-r---  531.00  B │   │   ├── Documents                                  
+d-r---    4.91 KB │   │   ├── Desktop                                    
+d-r---  541.00  B │   │   └── Contacts                                   
+d-----   25.26 GB │   ├── rleduc                                         
+d-r---    1.04 GB │   │   ├── Videos                                     
+d-----   72.41 MB │   │   ├── Transfer File                              
+d-r---  650.14 MB │   │   ├── Pictures                                   
+d-r---   60.71 KB │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-----   16.65 MB │   │   ├── laptop                                     
+d-r---  112.83 KB │   │   ├── Favorites                                  
+d-----  596.79 KB │   │   ├── epub                                       
+d-r---  136.85 KB │   │   ├── Downloads                                  
+d-r---   36.60 MB │   │   ├── Documents                                  
+d-r---   23.36 GB │   │   ├── Desktop                                    
+d-r---  934.35 KB │   │   ├── Contacts                                   
+d-----   38.05 MB │   │   ├── AppData                                    
+d--hs-   28.38 MB │   │   └── $RECYCLE.BIN                               
+d-----    1.03 GB │   ├── rkim                                           
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  821.19 KB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.53 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---    1.02 GB │   │   ├── Downloads                                  
+d-r---   14.98 MB │   │   ├── Documents                                  
+d-r---    7.21 KB │   │   ├── Desktop                                    
+d-r---  541.00  B │   │   └── Contacts                                   
+d-----    0.00  B │   ├── remery                                         
+d-----  176.92 MB │   ├── ppinkus                                        
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r--- 1013.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---  161.04 MB │   │   ├── Downloads                                  
+d-r---    2.62 MB │   │   ├── Documents                                  
+d-r---  158.39 KB │   │   ├── Desktop                                    
+d-r---    1.47 MB │   │   ├── Contacts                                   
+d-----   11.63 MB │   │   └── AppData                                    
+d-----   88.28 MB │   ├── pfletcher                                      
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r--- 1013.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---    1.80 KB │   │   ├── Favorites                                  
+d-r---   72.13 MB │   │   ├── Downloads                                  
+d-r---   14.23 KB │   │   ├── Documents                                  
+d-r---    4.17 MB │   │   ├── Desktop                                    
+d-r---  116.14 KB │   │   ├── Contacts                                   
+d-----   11.85 MB │   │   └── AppData                                    
+d-r---    8.10 GB │   ├── pchalupnik                                     
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  185.85 MB │   │   ├── Pictures                                   
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-----  256.78 MB │   │   ├── June 10 Backup                             
+d-r---   15.43 KB │   │   ├── Favorites                                  
+d-r---    6.31 GB │   │   ├── Downloads                                  
+d-r---  173.77 MB │   │   ├── Documents                                  
+d-r---    1.12 GB │   │   ├── Desktop                                    
+d-r---    1.19 MB │   │   ├── Contacts                                   
+d-----   66.85 MB │   │   └── AppData                                    
+d-----    0.00  B │   ├── pbailey                                        
+d-r---   45.39 GB │   ├── mtompkins                                      
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  233.73 MB │   │   ├── Pictures                                   
+d-r---   19.19 MB │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---   13.88 KB │   │   ├── Favorites                                  
+d-r---   16.27 GB │   │   ├── Downloads                                  
+d-r---    4.85 GB │   │   ├── Documents                                  
+d-r---   23.78 GB │   │   ├── Desktop                                    
+d-r---    1.31 MB │   │   ├── Contacts                                   
+d-----  251.68 MB │   │   └── AppData                                    
+d-r---    1.27 GB │   ├── mnadeau                                        
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    1.56 KB │   │   ├── Pictures                                   
+d-----    8.76 KB │   │   ├── Outlook2010                                
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---    1.56 KB │   │   ├── Favorites                                  
+d-r---  220.42 MB │   │   ├── Downloads                                  
+d-r---  279.39 MB │   │   ├── Documents                                  
+d-r---   73.69 MB │   │   ├── Desktop                                    
+d-r---    1.77 MB │   │   ├── Contacts                                   
+d-----  723.85 MB │   │   └── AppData                                    
+d-r---   11.90 GB │   ├── mgrubb                                         
+d-r---    1.53 KB │   │   ├── Videos                                     
+d-r---    4.73 GB │   │   ├── Pictures                                   
+d-r---    2.74 MB │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-r---   68.16 KB │   │   ├── Favorites                                  
+d-r---    5.00 GB │   │   ├── Downloads                                  
+d-r---    1.84 GB │   │   ├── Documents                                  
+d-r---  277.04 MB │   │   ├── Desktop                                    
+d-r---  769.94 KB │   │   ├── Contacts                                   
+d-----   50.60 MB │   │   └── AppData                                    
+d-----   30.35 MB │   ├── lshepherd                                      
+d-r---  633.00  B │   │   ├── Videos                                     
+d-r---  106.92 KB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---   14.22 MB │   │   ├── Downloads                                  
+d-r---  427.58 KB │   │   ├── Documents                                  
+d-r---    3.04 MB │   │   ├── Desktop                                    
+d-r---  867.60 KB │   │   ├── Contacts                                   
+d-----   11.72 MB │   │   └── AppData                                    
+d-----   40.16 GB │   ├── lnault                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-----   30.04 MB │   │   ├── Temp for KP                                
+d-r---  833.04 MB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-----   36.63 GB │   │   ├── June 10 Backup                             
+d-----  707.94 MB │   │   ├── From Laptop                                
+d-r---    3.12 KB │   │   ├── Favorites                                  
+d-r---  445.60 MB │   │   ├── Downloads                                  
+d-r---    1.20 GB │   │   ├── Documents                                  
+d-r---  299.62 MB │   │   ├── Desktop                                    
+d-r---  298.51 KB │   │   ├── Contacts                                   
+d-----   57.79 MB │   │   └── AppData                                    
+d-----    0.00  B │   ├── lcollis                                        
+d-----   10.44 GB │   ├── lburley                                        
+d-r---  633.00  B │   │   ├── Videos                                     
+d-r---    5.14 MB │   │   ├── Pictures                                   
+d-----    9.01 KB │   │   ├── Outlook2010                                
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    2.38 KB │   │   ├── Links                                      
+d-r---   19.60 KB │   │   ├── Favorites                                  
+d-r---    1.72 MB │   │   ├── Downloads                                  
+d-r---    5.15 GB │   │   ├── Documents                                  
+d-r---    2.32 GB │   │   ├── Desktop                                    
+d-r---  441.04 KB │   │   ├── Contacts                                   
+d-----  101.71 MB │   │   └── AppData                                    
+d-----  644.84 MB │   ├── KRUDD                                          
+d-r---  819.00  B │   │   ├── Videos                                     
+d-r---   53.07 KB │   │   ├── Pictures                                   
+d-r---  629.00  B │   │   ├── Music                                      
+d-r---    3.89 KB │   │   ├── Links                                      
+d-r---  815.00  B │   │   ├── Favorites                                  
+d-r---  479.94 MB │   │   ├── Downloads                                  
+d-r---   43.68 MB │   │   ├── Documents                                  
+d-r---  641.05 KB │   │   ├── Desktop                                    
+d-r---    5.32 MB │   │   ├── Contacts                                   
+d-----  115.21 MB │   │   └── AppData                                    
+d-----   32.90 GB │   ├── komalley                                       
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---   55.70 MB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.99 KB │   │   ├── Links                                      
+d-----   22.45 GB │   │   ├── From Laptop Update                         
+d-r---    3.79 KB │   │   ├── Favorites                                  
+d-r---    3.80 GB │   │   ├── Downloads                                  
+d-r---    5.38 GB │   │   ├── Documents                                  
+d-r---   41.33 MB │   │   ├── Desktop                                    
+d-r---   21.96 MB │   │   ├── Contacts                                   
+d-----   84.05 MB │   │   ├── AppData                                    
+d-----    1.06 GB │   │   └── 2017-01                                    
+d-----    9.76 GB │   ├── kfraser                                        
+d-r---  344.59 MB │   │   ├── Videos                                     
+d-r---  199.46 MB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---   28.84 KB │   │   ├── Favorites                                  
+d-r---    7.24 GB │   │   ├── Downloads                                  
+d-r---  349.01 MB │   │   ├── Documents                                  
+d-r---  203.63 KB │   │   ├── Desktop                                    
+d-r---    2.04 MB │   │   ├── Contacts                                   
+d-----    1.55 GB │   │   ├── backup june 11                             
+d-----   96.11 MB │   │   └── AppData                                    
+d-----    0.00  B │   ├── kewaskow                                       
+d-r---    1.95 GB │   ├── kcannon                                        
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    1.56 KB │   │   ├── Pictures                                   
+d-r---    1.51 KB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---   11.12 KB │   │   ├── Favorites                                  
+d-r---    1.35 GB │   │   ├── Downloads                                  
+d-r---  269.94 MB │   │   ├── Documents                                  
+d-r---  280.56 MB │   │   ├── Desktop                                    
+d-r---  867.61 KB │   │   ├── Contacts                                   
+d-----   62.33 MB │   │   └── AppData                                    
+d-----    0.00  B │   ├── jthomas                                        
+d-----    7.25 KB │   ├── jsoon-NLE                                      
+d-r---  633.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    2.77 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---  411.00  B │   │   ├── Downloads                                  
+d-r---  531.00  B │   │   ├── Documents                                  
+d-r---  541.00  B │   │   └── Contacts                                   
+d-----   63.01 GB │   ├── jeduyndam                                      
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  137.62 MB │   │   ├── Pictures                                   
+d-----   26.62 KB │   │   ├── Outlook2010                                
+d-r---    1.86 GB │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---   10.96 KB │   │   ├── Favorites                                  
+d-r---  195.56 KB │   │   ├── Downloads                                  
+d-r---   60.23 GB │   │   ├── Documents                                  
+d-r---  533.53 MB │   │   ├── Desktop                                    
+d-----    0.00  B │   │   ├── CrossCountryBC                             
+d-r---  836.70 KB │   │   ├── Contacts                                   
+d-----  282.93 MB │   │   ├── AppData                                    
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                               
+d-r---    1.11 GB │   ├── jdagg                                          
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    1.75 MB │   │   ├── Pictures                                   
+d-r---    1.24 KB │   │   ├── Music                                      
+d-r---    3.84 KB │   │   ├── Links                                      
+d-r---    7.61 KB │   │   ├── Favorites                                  
+d-r---  604.74 MB │   │   ├── Downloads                                  
+d-r---  168.57 MB │   │   ├── Documents                                  
+d-r---  327.03 MB │   │   ├── Desktop                                    
+d-r---  925.20 KB │   │   ├── Contacts                                   
+d-----   35.96 MB │   │   └── AppData                                    
+d-----   12.25 GB │   ├── jcathcart                                      
+d-r---  454.79 MB │   │   ├── Videos                                     
+d-r--- 1013.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    4.00 KB │   │   ├── Links                                      
+d-r---    4.71 KB │   │   ├── Favorites                                  
+d-r---    9.85 GB │   │   ├── Downloads                                  
+d-r---    1.91 GB │   │   ├── Documents                                  
+d-r---    2.45 MB │   │   ├── Desktop                                    
+d-r---    1.13 MB │   │   ├── Contacts                                   
+d-----   47.51 MB │   │   └── AppData                                    
+d-----    0.00  B │   ├── jblank                                         
+d-----   75.86 MB │   ├── hmcnab                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.20 KB │   │   ├── Links                                      
+d-r---    4.95 KB │   │   ├── Favorites                                  
+d-r---    4.00 MB │   │   ├── Downloads                                  
+d-r---    2.79 MB │   │   ├── Documents                                  
+d-r---    1.08 MB │   │   ├── Contacts                                   
+d-----   67.98 MB │   │   └── AppData                                    
+d-----    0.00  B │   ├── hbryant                                        
+d-----  297.97 MB │   ├── ghatherill                                     
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.57 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---  294.62 MB │   │   ├── Downloads                                  
+d-r---   96.16 KB │   │   ├── Documents                                  
+d-r---    3.25 MB │   │   ├── Desktop                                    
+d-r---  541.00  B │   │   └── Contacts                                   
+d-r---    3.29 GB │   ├── dowilson                                       
+d-r---  633.00  B │   │   ├── Videos                                     
+d-r---  436.01 MB │   │   ├── Pictures                                   
+d-r---    6.86 KB │   │   ├── Music                                      
+d-r---    2.37 KB │   │   ├── Links                                      
+d-r---    3.68 KB │   │   ├── Favorites                                  
+d-r---  651.40 MB │   │   ├── Downloads                                  
+d-r---    1.60 GB │   │   ├── Documents                                  
+d-r---  507.37 MB │   │   ├── Desktop                                    
+d-r---    2.65 MB │   │   ├── Contacts                                   
+d-----  133.86 MB │   │   └── AppData                                    
+d-r---    9.02 MB │   ├── ddennis-NLE                                    
+d-r---    9.02 MB │   │   └── Desktop                                    
+d-r---    4.15 GB │   ├── cpiggott-NLE                                   
+d-r---  633.00  B │   │   ├── Videos                                     
+d-r---    1.26 GB │   │   ├── Pictures                                   
+d-r---    1.36 KB │   │   ├── Music                                      
+d-r---    3.99 KB │   │   ├── Links                                      
+d-r---   42.00 KB │   │   ├── Favorites                                  
+d-r---  300.50 MB │   │   ├── Downloads                                  
+d-r---    1.30 GB │   │   ├── Documents                                  
+d-r---  788.84 MB │   │   ├── Desktop                                    
+d-r---  992.17 KB │   │   ├── Contacts                                   
+d-----  467.97 MB │   │   ├── backup from laptop 2019-08                 
+d-----   71.84 MB │   │   └── AppData                                    
+d-----   82.22 MB │   ├── clowe                                          
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---    1.59 MB │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.97 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---   39.74 MB │   │   ├── Downloads                                  
+d-r---   18.67 MB │   │   ├── Documents                                  
+d-r---    5.33 KB │   │   ├── Desktop                                    
+d-r---    1.36 MB │   │   ├── Contacts                                   
+d-----   20.86 MB │   │   └── AppData                                    
+d-----  604.66 MB │   ├── ceaston                                        
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---    3.12 KB │   │   ├── Favorites                                  
+d-r---   68.54 MB │   │   ├── Downloads                                  
+d-r---    6.00 MB │   │   ├── Documents                                  
+d-r---  412.35 MB │   │   ├── Desktop                                    
+d-r---  751.99 KB │   │   ├── Contacts                                   
+d-----  117.03 MB │   │   └── AppData                                    
+d-----  238.98 MB │   ├── ccarrasco                                      
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---   15.59 KB │   │   ├── Links                                      
+d-r---    4.27 KB │   │   ├── Favorites                                  
+d-r---  116.86 MB │   │   ├── Downloads                                  
+d-r---   11.28 MB │   │   ├── Documents                                  
+d-r---    5.35 MB │   │   ├── Desktop                                    
+d-r---    1.59 MB │   │   ├── Contacts                                   
+d-----  103.88 MB │   │   └── AppData                                    
+d-----    0.00  B │   ├── blittle                                        
+d-r---   12.25 GB │   ├── aparker                                        
+d-r---    6.35 GB │   │   ├── Videos                                     
+d-r---    2.61 GB │   │   ├── Pictures                                   
+d-r---   62.99 MB │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---    4.69 KB │   │   ├── Favorites                                  
+d-r---    1.39 GB │   │   ├── Downloads                                  
+d-r---    1.28 GB │   │   ├── Documents                                  
+d-r---  509.72 KB │   │   ├── Desktop                                    
+d-r---    1.38 MB │   │   ├── Contacts                                   
+d-----  546.60 MB │   │   ├── AppData                                    
+d-----   20.93 MB │   │   └── AE end of year                             
+d-----  156.79 MB │   ├── aoneill                                        
+d-r---  633.00  B │   │   ├── Videos                                     
+d-r---  823.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.98 KB │   │   ├── Links                                      
+d-r---    3.23 KB │   │   ├── Favorites                                  
+d-r---   33.39 MB │   │   ├── Downloads                                  
+d-r---   10.93 MB │   │   ├── Documents                                  
+d-r---  117.93 KB │   │   ├── Desktop                                    
+d-r---    1.07 MB │   │   ├── Contacts                                   
+d-----  111.26 MB │   │   └── AppData                                    
+d-----    3.08 GB │   ├── alyner                                         
+d-r---  823.00  B │   │   ├── Videos                                     
+d-r--- 1013.00  B │   │   ├── Pictures                                   
+d-r---  633.00  B │   │   ├── Music                                      
+d-r---    3.54 KB │   │   ├── Links                                      
+d-r---  819.00  B │   │   ├── Favorites                                  
+d-r---    3.07 GB │   │   ├── Downloads                                  
+d-r---    8.46 MB │   │   ├── Documents                                  
+d-r---    7.34 KB │   │   ├── Desktop                                    
+d-r---  541.00  B │   │   └── Contacts                                   
+d-----   11.73 GB │   ├── acarlson                                       
+d-----   72.53 MB │   │   ├── Workpages                                  
+d-r---   13.52 MB │   │   ├── Videos                                     
+d-r---  423.90 MB │   │   ├── Pictures                                   
+d-r---   63.81 KB │   │   ├── Music                                      
+d-r---    3.86 KB │   │   ├── Links                                      
+d-----  111.00  B │   │   ├── Favorites                                  
+d-r---    9.62 GB │   │   ├── Downloads                                  
+d-r---    1.52 GB │   │   ├── Documents                                  
+d-r---    7.48 KB │   │   ├── Desktop                                    
+d-r---    1.48 MB │   │   ├── Contacts                                   
+d-----   73.21 MB │   │   └── AppData                                    
+d-r---   80.05 MB │   └── 20teacher                                      
+d-r---  633.00  B │       ├── Videos                                     
+d-r---    1.56 KB │       ├── Pictures                                   
+d-r---    1.36 KB │       ├── Music                                      
+d-r---    4.00 KB │       ├── Links                                      
+d-r---    2.86 KB │       ├── Favorites                                  
+d-r---    1.33 MB │       ├── Downloads                                  
+d-r---   51.43 MB │       ├── Documents                                  
+d-r---   11.73 KB │       ├── Desktop                                    
+d-r---  298.53 KB │       ├── Contacts                                   
+d-----   26.99 MB │       └── AppData                                    
+d-----   77.80 KB ├── Staff Home Shortcuts                               
+d-----  695.50 MB ├── Libraries                                          
+d-r---    1.12 KB │   ├── Videos                                         
+d-r---  190.00  B │   │   ├── Captures                                   
+d--hs-  129.00  B │   │   └── $RECYCLE.BIN                               
+d-----  646.70 MB │   └── SmartBoard                                     
+d-----  646.70 MB │       └── Gallery                                    
+d-----   15.22 GB ├── collaboration                                      
+d-----    2.69 GB │   ├── teachers                                       
+d-----   10.01 MB │   │   ├── SBT                                        
+d-----   11.53 MB │   │   ├── MunsenHawes                                
+d-----    7.39 MB │   │   ├── Ms Mowat's Movement books                  
+da----   11.23 MB │   │   ├── Library Zone                               
+d-----  131.35 MB │   │   ├── Library TOC                                
+d-----   49.90 MB │   │   ├── Library Shared Resources                   
+d-----    1.21 GB │   │   ├── Grade 5 photos for slide show              
+da----   76.34 MB │   │   ├── DATAZONE                                   
+d-----  490.10 MB │   │   ├── Buddy books from div 1 for div 18          
+d-----  717.82 MB │   │   └── 2016 and 17 Ipad work                      
+d-----    7.24 GB │   ├── students                                       
+d-----    0.00  B │   │   ├── Library                                    
+d-----   32.04 KB │   │   ├── Division16                                 
+d-----   29.54 KB │   │   ├── Division15                                 
+d-----   24.06 MB │   │   ├── Division14                                 
+d-----   29.37 MB │   │   ├── Division13                                 
+d-----  119.80 MB │   │   ├── Division12                                 
+d-----  298.29 MB │   │   ├── Division11                                 
+d-----  216.48 MB │   │   ├── Division10                                 
+d-----  832.19 MB │   │   ├── Division09                                 
+d-----  590.41 MB │   │   ├── Division08                                 
+d-----   79.43 MB │   │   ├── Division07                                 
+d-----    2.90 GB │   │   ├── Division06                                 
+d-----  260.02 MB │   │   ├── Division05                                 
+d-----  702.24 MB │   │   ├── Division04                                 
+d-----  117.58 MB │   │   ├── Division03                                 
+d-----  371.84 MB │   │   ├── Division02                                 
+d-----  799.39 MB │   │   ├── Division01                                 
+d-----    0.00  B │   │   └── Division00                                 
+d-----  759.93 KB │   ├── Student Homes                                  
+d-----    3.25 GB │   ├── office                                         
+d-----    2.53 MB │   │   ├── Year End                                   
+d-----   37.04 KB │   │   ├── Winter Concert                             
+d-----  268.43 MB │   │   ├── Wednesday Express Newsletters              
+d-----  230.02 MB │   │   ├── WAAG                                       
+d-----  826.64 KB │   │   ├── Volunteers - In School                     
+d-----    2.21 MB │   │   ├── Volunteer Drivers                          
+d-----    1.72 MB │   │   ├── Transportation                             
+d-----    2.16 MB │   │   ├── Transition                                 
+d-----    0.00  B │   │   ├── TOC                                        
+d-----   27.13 MB │   │   ├── Tillicum Handbook                          
+d-----  229.59 KB │   │   ├── Suspension Letters                         
+d-----    9.12 MB │   │   ├── Student Letters                            
+d-----    1.68 MB │   │   ├── Student Led Conferences                    
+d-----    1.65 MB │   │   ├── Student & Family Affordability Fund        
+d-----   26.44 MB │   │   ├── Staff and Staffing                         
+d-----    2.02 MB │   │   ├── Sports                                     
+d-----    2.91 MB │   │   ├── September Start of Year                    
+d-----    4.60 MB │   │   ├── School Website                             
+d-----    6.34 MB │   │   ├── School Supply Lists                        
+d-----   30.23 MB │   │   ├── School Meal Program                        
+d-----    6.69 MB │   │   ├── School maps                                
+d-----   98.16 KB │   │   ├── School Events                              
+d-----  313.81 KB │   │   ├── School Based Team                          
+d-----    2.92 MB │   │   ├── Safety                                     
+d-----    1.54 MB │   │   ├── Reporting and Report Cards                 
+d-----  288.94 KB │   │   ├── Rentals & Facilities                       
+d-----    2.16 MB │   │   ├── Registration                               
+d-----   11.39 MB │   │   ├── Records                                    
+d-----  145.84 KB │   │   ├── Ready, Set, Learn                          
+d-----  635.35 KB │   │   ├── Phones                                     
+d-----    5.78 MB │   │   ├── PEN Data Management                        
+d-----  147.67 KB │   │   ├── Parent Teacher Interviews                  
+d-----    4.92 MB │   │   ├── PAC                                        
+d-----    1.17 MB │   │   ├── Nutritional Snack Program                  
+d-----    2.23 MB │   │   ├── Messenger                                  
+d-----   34.61 MB │   │   ├── Medical                                    
+d-----  650.05 KB │   │   ├── Maps                                       
+d-----    2.36 MB │   │   ├── Logo                                       
+d-----  771.48 MB │   │   ├── Lifetouch                                  
+d-----  979.58 KB │   │   ├── Library                                    
+d-----   18.78 MB │   │   ├── Labels                                     
+d-----    9.26 MB │   │   ├── Kindergarten                               
+d-----  762.16 KB │   │   ├── Junior Choir                               
+d-----    0.00  B │   │   ├── JOHS                                       
+d-----   10.95 MB │   │   ├── Health and Safety                          
+d-----   10.26 MB │   │   ├── Forms                                      
+d-----  119.03 MB │   │   ├── Folders Not Used                           
+d-----    0.00  B │   │   ├── Field Trips                                
+d-----  648.50 KB │   │   ├── Emergency Procedures                       
+d-----   11.17 MB │   │   ├── EA                                         
+d-----    1.49 GB │   │   ├── Community School                           
+d-----    1.05 MB │   │   ├── Class Lists & Class Size Reports           
+d-----  425.12 KB │   │   ├── Chess Club                                 
+d-----    3.58 MB │   │   ├── Calendar                                   
+d-----  301.01 KB │   │   ├── Award Certificates                         
+d-----  944.56 KB │   │   ├── Attendance                                 
+d-----   12.35 KB │   │   ├── Assessment                                 
+d-----   84.68 MB │   │   ├── Accounting                                 
+d-----   14.81 MB │   │   ├── Accident & WorkSafe Reports                
+d-----  881.51 KB │   │   ├── Aboriginal                                 
+d-----   46.08 MB │   │   └── 1701 Data Collection                       
+d-----    2.04 GB │   └── admin                                          
+d-----  830.11 KB │       ├── teacher evaluations                        
+d-----    8.39 MB │       ├── Staffing 2016-2019                         
+d-----  940.23 KB │       ├── Staff Meetings 2022-2023                   
+d-----    6.80 MB │       ├── Staff Meetings 2020-21                     
+d-----   17.06 MB │       ├── Staff Meetings 2012-2019                   
+d-----    5.05 MB │       ├── Staff Meeting 2021-2022                    
+d-----    8.80 MB │       ├── SPED Student info                          
+d-----    6.56 MB │       ├── School maps                                
+d-----    1.66 MB │       ├── School Growth Plan                         
+d-----   70.00 KB │       ├── Progress Plans                             
+d-----    3.27 MB │       ├── PISE invoices 2016  2017                   
+d-----   12.47 KB │       ├── Passwords                                  
+d-----   70.12 KB │       ├── PAC                                        
+d-----    1.21 GB │       ├── Office Tillicum                            
+d-----    1.10 MB │       ├── Newsletter                                 
+d-----  132.71 MB │       ├── Medical                                    
+d-----    1.50 MB │       ├── MDI 2017                                   
+d-----  175.61 KB │       ├── Marks ELA & Math                           
+d-----   49.85 MB │       ├── Love of Reading Grant                      
+d-----   45.81 KB │       ├── logo                                       
+d-----  561.85 KB │       ├── Library                                    
+d-----  139.74 KB │       ├── Learning Enhancement                       
+d-----  505.62 MB │       ├── JOSH                                       
+d-----  850.59 KB │       ├── Job posting 2017 2018                      
+d-----   37.30 KB │       ├── Interviews                                 
+d-----   23.23 MB │       ├── Health and Safety 2013-2019                
+d-----    4.91 MB │       ├── Health & Safety 2020-2023                  
+d-----  360.69 KB │       ├── Fundraising                                
+d-----  986.56 KB │       ├── FSA                                        
+d-----   26.20 MB │       ├── Field Trips                                
+d-----    4.41 MB │       ├── Felt Project R. Sala                       
+d-----  169.20 KB │       ├── Donations and Grants                       
+d-----  885.02 KB │       ├── D2.9 and Remedies                          
+d-----  601.23 KB │       ├── CUPE Timetables                            
+d-----  610.71 KB │       ├── CUPE Evaluations                           
+d-----    2.78 MB │       ├── CSL                                        
+d-----  273.29 KB │       ├── Community Link                             
+d-----    1.41 MB │       ├── Code of Conduct                            
+d-----    1.17 MB │       ├── BGCA invoices                              
+d-----   14.36 MB │       ├── Assemblies                                 
+d-----    9.40 MB │       ├── ASSAI                                      
+d-----    2.74 MB │       ├── ArtsReach                                  
+d-----  784.02 KB │       └── Aboriginal Enhancement Report              
+d-----    0.00  B ├── Byron                                              
+d--hs-    1.26 MB └── $RECYCLE.BIN                                       
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-84325 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-83936 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-3386  
+d--hs-    1.25 MB     ├── S-1-5-21-970656931-1832544837-2087665911-25966 
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633
+d--hs-    2.86 KB     ├── S-1-5-21-970656931-1832544837-2087665911-136029
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124954
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-118974
+d--hs-  129.00  B     ├── S-1-5-21-2281392691-2089198454-3940255754-500  
+d--hs-  129.00  B     └── S-1-5-21-2111952285-139808328-3646517028-500   
+
+
+
+
+   Source: F:\
+
+Mode      Length Hierarchy                                              
+----      ------ ---------                                              
+d--hs-   4.43 GB F:\                                                    
+d--hs-   4.40 GB ├── System Volume Information                          
+d--hs-  48.00  B │   ├── SRM                                            
+d--hs-  10.00 KB │   └── Chkdsk                                         
+d-----  27.09 MB ├── StudentHome                                        
+d-----   0.00  B │   ├── ToBeDeleted20240624_2866909                    
+d-----   0.00  B │   ├── ToBeDeleted20240624_2838476                    
+d-----   0.00  B │   ├── ToBeDeleted20240611_2729080                    
+d-----   0.00  B │   ├── ToBeDeleted20240515_2837096                    
+d-----   0.00  B │   ├── ToBeDeleted20240502_2618766                    
+d-----   0.00  B │   ├── ToBeDeleted20240429_2386224                    
+d-----   0.00  B │   ├── ToBeDeleted20240416_2536134                    
+d-----   0.00  B │   ├── ToBeDeleted20240408_2339955                    
+d-----   0.00  B │   ├── ToBeDeleted20240312_2837340                    
+d-----   0.00  B │   ├── ToBeDeleted20240305_2695565                    
+d-----   0.00  B │   ├── ToBeDeleted20240304_2840937                    
+d-----   0.00  B │   ├── ToBeDeleted20240123_2254455                    
+d-----   0.00  B │   ├── ToBeDeleted20240115_2718853                    
+d-----   0.00  B │   ├── ToBeDeleted20240115_2718785                    
+d-----   0.00  B │   ├── ToBeDeleted20231201_2727619                    
+d-----   0.00  B │   ├── ToBeDeleted20231201_2639699                    
+d-----   0.00  B │   ├── ToBeDeleted20231123_2536249                    
+d-----   0.00  B │   ├── ToBeDeleted20231107_2743935                    
+d-----   0.00  B │   ├── ToBeDeleted20231020_2247773                    
+d-----   0.00  B │   ├── ToBeDeleted20231004_2250431                    
+d-----   0.00  B │   ├── ToBeDeleted20230915_2654224                    
+d-----   0.00  B │   ├── ToBeDeleted20230907_2635073                    
+d-----   0.00  B │   ├── ToBeDeleted20230907_2362651                    
+d-----   0.00  B │   ├── ToBeDeleted20230907_2340005                    
+d-----   0.00  B │   ├── ToBeDeleted20230906_2726099                    
+d-----   0.00  B │   ├── ToBeDeleted20230901_2252336                    
+d-----   0.00  B │   ├── ToBeDeleted20230830_2460736                    
+d-----   0.00  B │   ├── ToBeDeleted20230829_2698044                    
+d-----   0.00  B │   ├── ToBeDeleted20230829_2043008                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2770783                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2754893                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2728528                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2727647                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2726296                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2707785                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2707775                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2698096                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2697552                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2689141                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2657575                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2608891                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2606210                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2592177                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2575300                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2575292                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2537331                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2459094                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2456585                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2396759                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2340490                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2290711                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2288875                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2280770                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2270472                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2246969                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2207261                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2202218                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2196893                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2190692                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2168882                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2165670                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2161569                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2156817                    
+d-----   3.76 KB │   ├── ToBeDeleted20230815_2156812                    
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2153118                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152971                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152825                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152711                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152669                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152646                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152574                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152453                    
+d-----   3.76 KB │   ├── ToBeDeleted20230815_2152450                    
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152446                    
+d-----   3.76 KB │   ├── ToBeDeleted20230815_2152269                    
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152107                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2152094                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2151985                    
+d-----   3.76 KB │   ├── ToBeDeleted20230815_2151906                    
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 823.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r--- 819.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r--- 531.00  B │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2151884                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2149794                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_2135254                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_1550063                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_1550062                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_1485608                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_1478127                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_1458321                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_1372463                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_1365402                    
+d-----   0.00  B │   ├── ToBeDeleted20230815_1364379                    
+d-----   0.00  B │   ├── ToBeDeleted20230411_2664543                    
+d-----   0.00  B │   ├── ToBeDeleted20230411_2566933                    
+d-----   0.00  B │   ├── ToBeDeleted20230307_2657973                    
+d-----   0.00  B │   ├── ToBeDeleted20230302_2506026                    
+d-----   0.00  B │   ├── ToBeDeleted20230116_2619357                    
+d-----   0.00  B │   ├── ToBeDeleted20221219_2695609                    
+d-----   0.00  B │   ├── ToBeDeleted20221219_2695600                    
+d-----   0.00  B │   ├── ToBeDeleted20221219_2538018                    
+d-----   0.00  B │   ├── ToBeDeleted20221207_2513589                    
+d-----   0.00  B │   ├── ToBeDeleted20221205_2619147                    
+d-----   0.00  B │   ├── ToBeDeleted20221128_2181187                    
+d-----   0.00  B │   ├── ToBeDeleted20220927_2388878                    
+d-----   0.00  B │   ├── ToBeDeleted20220922_2498168                    
+d-----   0.00  B │   ├── ToBeDeleted20220913_2639688                    
+d-----   0.00  B │   ├── ToBeDeleted20220909_2460719                    
+d-----   0.00  B │   ├── ToBeDeleted20220907_2455607                    
+d-----   0.00  B │   ├── ToBeDeleted20220902_2538329                    
+d-----   0.00  B │   ├── ToBeDeleted20220902_2535305                    
+d-----   0.00  B │   ├── ToBeDeleted20220902_2369727                    
+d-----   0.00  B │   ├── ToBeDeleted20220902_2247260                    
+d-----   0.00  B │   ├── ToBeDeleted20220902_2043055                    
+d-----   0.00  B │   ├── ToBeDeleted20220830_2340068                    
+d-----   0.00  B │   ├── ToBeDeleted20220830_2221270                    
+d-----   0.00  B │   ├── ToBeDeleted20220830_2151768                    
+d-----   0.00  B │   ├── ToBeDeleted20220830_2129319                    
+d-----   0.00  B │   ├── 915343                                         
+d-----   0.00  B │   ├── 915300                                         
+d-----   0.00  B │   ├── 2876242                                        
+d-----   0.00  B │   ├── 2873952                                        
+d-----   0.00  B │   ├── 2873675                                        
+d-----   0.00  B │   ├── 2873103                                        
+d-----   0.00  B │   ├── 2869735                                        
+d-----   0.00  B │   ├── 2869627                                        
+d-----   0.00  B │   ├── 2869613                                        
+d-----   0.00  B │   ├── 2868892                                        
+d-----   0.00  B │   ├── 2863684                                        
+d-----   0.00  B │   ├── 2862285                                        
+d-----   0.00  B │   ├── 2858447                                        
+d-----   0.00  B │   ├── 2858429                                        
+d-----   0.00  B │   ├── 2856403                                        
+d-----   0.00  B │   ├── 2849937                                        
+d-----   0.00  B │   ├── 2840515                                        
+d-----   0.00  B │   ├── 2840506                                        
+d-----   0.00  B │   ├── 2840471                                        
+d-----   0.00  B │   ├── 2840398                                        
+d-----   0.00  B │   ├── 2840365                                        
+d-----   0.00  B │   ├── 2840235                                        
+d-----   0.00  B │   ├── 2840187                                        
+d-----   0.00  B │   ├── 2840151                                        
+d-----   0.00  B │   ├── 2840108                                        
+d-----   0.00  B │   ├── 2839872                                        
+d-----   0.00  B │   ├── 2839756                                        
+d-----   0.00  B │   ├── 2839734                                        
+d-----   0.00  B │   ├── 2839700                                        
+d-----   0.00  B │   ├── 2839649                                        
+d-----   0.00  B │   ├── 2839614                                        
+d-----   0.00  B │   ├── 2839588                                        
+d-----   0.00  B │   ├── 2839487                                        
+d-----   0.00  B │   ├── 2839457                                        
+d-----   0.00  B │   ├── 2839425                                        
+d-----   0.00  B │   ├── 2839402                                        
+d-----   0.00  B │   ├── 2839302                                        
+d-----   0.00  B │   ├── 2839261                                        
+d-----   0.00  B │   ├── 2839214                                        
+d-----   0.00  B │   ├── 2839181                                        
+d-----   0.00  B │   ├── 2839169                                        
+d-----   0.00  B │   ├── 2838844                                        
+d-----   0.00  B │   ├── 2838806                                        
+d-----   0.00  B │   ├── 2838790                                        
+d-----   0.00  B │   ├── 2838775                                        
+d-----   0.00  B │   ├── 2838734                                        
+d-----   0.00  B │   ├── 2838569                                        
+d-----   0.00  B │   ├── 2838528                                        
+d-----   0.00  B │   ├── 2838497                                        
+d-----   0.00  B │   ├── 2838460                                        
+d-----   0.00  B │   ├── 2838427                                        
+d-----   0.00  B │   ├── 2838412                                        
+d-----   0.00  B │   ├── 2837511                                        
+d-----   0.00  B │   ├── 2837472                                        
+d-----   0.00  B │   ├── 2837407                                        
+d-----   0.00  B │   ├── 2837369                                        
+d-----   0.00  B │   ├── 2837291                                        
+d-----   0.00  B │   ├── 2837263                                        
+d-----   0.00  B │   ├── 2837207                                        
+d-----   0.00  B │   ├── 2837169                                        
+d-----   0.00  B │   ├── 2837148                                        
+d-----   0.00  B │   ├── 2836888                                        
+d-----   0.00  B │   ├── 2831378                                        
+d-----   0.00  B │   ├── 2819362                                        
+d-----   0.00  B │   ├── 2810458                                        
+d-----   0.00  B │   ├── 2801865                                        
+d-----   0.00  B │   ├── 2788400                                        
+d-----   0.00  B │   ├── 2788322                                        
+d-----   0.00  B │   ├── 2788307                                        
+d-----   0.00  B │   ├── 2788266                                        
+d-----   0.00  B │   ├── 2785948                                        
+d-----   0.00  B │   ├── 2771092                                        
+d-----   0.00  B │   ├── 2771073                                        
+d-----   0.00  B │   ├── 2768073                                        
+d-----   0.00  B │   ├── 2768056                                        
+d-----   0.00  B │   ├── 2764832                                        
+d-----   0.00  B │   ├── 2764177                                        
+d-----   0.00  B │   ├── 2762348                                        
+d-----   0.00  B │   ├── 2758774                                        
+d-----   0.00  B │   ├── 2757695                                        
+d-----   0.00  B │   ├── 2757081                                        
+d-----   0.00  B │   ├── 2757063                                        
+d-----   0.00  B │   ├── 2756914                                        
+d-----   0.00  B │   ├── 2755610                                        
+d-----   0.00  B │   ├── 2755600                                        
+d-----   0.00  B │   ├── 2754913                                        
+d-----   0.00  B │   ├── 2754877                                        
+d-----   0.00  B │   ├── 2754849                                        
+d-----   0.00  B │   ├── 2754836                                        
+d-----   0.00  B │   ├── 2751207                                        
+d-----   0.00  B │   ├── 2750997                                        
+d-----   0.00  B │   ├── 2750981                                        
+d-----   0.00  B │   ├── 2749921                                        
+d-----   0.00  B │   ├── 2738003                                        
+d-----   0.00  B │   ├── 2735211                                        
+d-----   0.00  B │   ├── 2734680                                        
+d-----   0.00  B │   ├── 2732089                                        
+d-----   0.00  B │   ├── 2731562                                        
+d-----   0.00  B │   ├── 2729437                                        
+d-----   0.00  B │   ├── 2729060                                        
+d-----   0.00  B │   ├── 2728514                                        
+d-----   0.00  B │   ├── 2728481                                        
+d-----   0.00  B │   ├── 2728459                                        
+d-----   0.00  B │   ├── 2728436                                        
+d-----   0.00  B │   ├── 2728421                                        
+d-----   0.00  B │   ├── 2727857                                        
+d-----   0.00  B │   ├── 2727828                                        
+d-----   0.00  B │   ├── 2727751                                        
+d-----   0.00  B │   ├── 2727678                                        
+d-----   0.00  B │   ├── 2727664                                        
+d-----   0.00  B │   ├── 2727536                                        
+d-----   0.00  B │   ├── 2727521                                        
+d-----   0.00  B │   ├── 2727517                                        
+d-----   0.00  B │   ├── 2727511                                        
+d-----   0.00  B │   ├── 2727474                                        
+d-----   0.00  B │   ├── 2727451                                        
+d-----   0.00  B │   ├── 2727403                                        
+d-----   0.00  B │   ├── 2727390                                        
+d-----   0.00  B │   ├── 2727250                                        
+d-----   0.00  B │   ├── 2727218                                        
+d-----   0.00  B │   ├── 2727192                                        
+d-----   0.00  B │   ├── 2727166                                        
+d-----   0.00  B │   ├── 2727077                                        
+d-----   0.00  B │   ├── 2726954                                        
+d-----   0.00  B │   ├── 2726906                                        
+d-----   0.00  B │   ├── 2726856                                        
+d-----   0.00  B │   ├── 2726832                                        
+d-----   0.00  B │   ├── 2726790                                        
+d-----   0.00  B │   ├── 2726736                                        
+d-----   0.00  B │   ├── 2726714                                        
+d-----   0.00  B │   ├── 2726695                                        
+d-----   0.00  B │   ├── 2726654                                        
+d-----   0.00  B │   ├── 2726609                                        
+d-----   0.00  B │   ├── 2726518                                        
+d-----   0.00  B │   ├── 2726467                                        
+d-----   0.00  B │   ├── 2726404                                        
+d-----   0.00  B │   ├── 2726341                                        
+d-----   0.00  B │   ├── 2726273                                        
+d-----   0.00  B │   ├── 2726249                                        
+d-----   0.00  B │   ├── 2726228                                        
+d-----   0.00  B │   ├── 2722052                                        
+d-----   0.00  B │   ├── 2715230                                        
+d-----   0.00  B │   ├── 2713268                                        
+d-----   0.00  B │   ├── 2706991                                        
+d-----   0.00  B │   ├── 2703438                                        
+d-----   0.00  B │   ├── 2689613                                        
+d-----   0.00  B │   ├── 2689165                                        
+d-----   0.00  B │   ├── 2689055                                        
+d-----   0.00  B │   ├── 2681203                                        
+d-----   0.00  B │   ├── 2678460                                        
+d-----   0.00  B │   ├── 2678385                                        
+d-----   0.00  B │   ├── 2677654                                        
+d-----   0.00  B │   ├── 2675277                                        
+d-----   0.00  B │   ├── 2674431                                        
+d-----   0.00  B │   ├── 2674352                                        
+d-----   0.00  B │   ├── 2674268                                        
+d-----   0.00  B │   ├── 2674233                                        
+d-----   0.00  B │   ├── 2674177                                        
+d-----   0.00  B │   ├── 2653870                                        
+d-----   0.00  B │   ├── 2651852                                        
+d-----   0.00  B │   ├── 2650911                                        
+d-----   0.00  B │   ├── 2642961                                        
+d-----   0.00  B │   ├── 2642624                                        
+d-----   0.00  B │   ├── 2641302                                        
+d-----   0.00  B │   ├── 2641051                                        
+d-----   0.00  B │   ├── 2640648                                        
+d-----   0.00  B │   ├── 2629213                                        
+d-----   0.00  B │   ├── 2622629                                        
+d-----   0.00  B │   ├── 2619524                                        
+d-----   0.00  B │   ├── 2619519                                        
+d-----   0.00  B │   ├── 2619471                                        
+d-----   0.00  B │   ├── 2619460                                        
+d-----   0.00  B │   ├── 2619454                                        
+d-----   0.00  B │   ├── 2619426                                        
+d-----   0.00  B │   ├── 2619423                                        
+d-----   0.00  B │   ├── 2619415                                        
+d-----   0.00  B │   ├── 2619407                                        
+d-----   0.00  B │   ├── 2619400                                        
+d-----   0.00  B │   ├── 2619393                                        
+d-----   0.00  B │   ├── 2619387                                        
+d-----   0.00  B │   ├── 2619366                                        
+d-----   0.00  B │   ├── 2619360                                        
+d-----   0.00  B │   ├── 2619349                                        
+d-----   0.00  B │   ├── 2619347                                        
+d-----   0.00  B │   ├── 2619344                                        
+d-----   0.00  B │   ├── 2619256                                        
+d-----   0.00  B │   ├── 2619252                                        
+d-----   0.00  B │   ├── 2619249                                        
+d-----   0.00  B │   ├── 2619244                                        
+d-----   0.00  B │   ├── 2619239                                        
+d-----   0.00  B │   ├── 2619230                                        
+d-----   0.00  B │   ├── 2619218                                        
+d-----   0.00  B │   ├── 2619216                                        
+d-----   0.00  B │   ├── 2619204                                        
+d-----   0.00  B │   ├── 2619196                                        
+d-----   0.00  B │   ├── 2619141                                        
+d-----   0.00  B │   ├── 2619125                                        
+d-----   0.00  B │   ├── 2619121                                        
+d-----   0.00  B │   ├── 2619110                                        
+d-----   0.00  B │   ├── 2619107                                        
+d-----   0.00  B │   ├── 2619104                                        
+d-----   0.00  B │   ├── 2619099                                        
+d-----   0.00  B │   ├── 2619067                                        
+d-----   0.00  B │   ├── 2619058                                        
+d-----   0.00  B │   ├── 2619044                                        
+d-----   0.00  B │   ├── 2619034                                        
+d-----   0.00  B │   ├── 2619023                                        
+d-----   0.00  B │   ├── 2619019                                        
+d-----   0.00  B │   ├── 2619014                                        
+d-----   0.00  B │   ├── 2618959                                        
+d-----   0.00  B │   ├── 2618922                                        
+d-----   0.00  B │   ├── 2618811                                        
+d-----   0.00  B │   ├── 2618783                                        
+d-----   0.00  B │   ├── 2618460                                        
+d-----   0.00  B │   ├── 2605617                                        
+d-----   0.00  B │   ├── 2605580                                        
+d-----   0.00  B │   ├── 2598866                                        
+d-----   0.00  B │   ├── 2598046                                        
+d-----   0.00  B │   ├── 2596601                                        
+d-----   0.00  B │   ├── 2591627                                        
+d-----   0.00  B │   ├── 2590799                                        
+d-----   0.00  B │   ├── 2588078                                        
+d-----   0.00  B │   ├── 2580202                                        
+d-----   0.00  B │   ├── 2573601                                        
+d-----   0.00  B │   ├── 2573551                                        
+d-----   0.00  B │   ├── 2573544                                        
+d-----   0.00  B │   ├── 2573528                                        
+d-----   0.00  B │   ├── 2566939                                        
+d-----   0.00  B │   ├── 2566024                                        
+d-----   0.00  B │   ├── 2565362                                        
+d-----   0.00  B │   ├── 2556370                                        
+d-----   0.00  B │   ├── 2548604                                        
+d-----   0.00  B │   ├── 2540849                                        
+d-----   0.00  B │   ├── 2538285                                        
+d-----   0.00  B │   ├── 2538265                                        
+d-----   0.00  B │   ├── 2537986                                        
+d-----   0.00  B │   ├── 2537946                                        
+d-----   0.00  B │   ├── 2537906                                        
+d-----   0.00  B │   ├── 2537713                                        
+d-----   0.00  B │   ├── 2537693                                        
+d-----   0.00  B │   ├── 2537598                                        
+d-----   0.00  B │   ├── 2537399                                        
+d-----   0.00  B │   ├── 2537375                                        
+d-----   0.00  B │   ├── 2537283                                        
+d-----   0.00  B │   ├── 2537276                                        
+d-----   0.00  B │   ├── 2537219                                        
+d-----   0.00  B │   ├── 2537187                                        
+d-----   0.00  B │   ├── 2536190                                        
+d-----   0.00  B │   ├── 2536145                                        
+d-----   0.00  B │   ├── 2535546                                        
+d-----   0.00  B │   ├── 2535543                                        
+d-----   0.00  B │   ├── 2535505                                        
+d-----   0.00  B │   ├── 2535467                                        
+d-----   0.00  B │   ├── 2535382                                        
+d-----   0.00  B │   ├── 2535357                                        
+d-----   0.00  B │   ├── 2535318                                        
+d-----   0.00  B │   ├── 2535260                                        
+d-----   0.00  B │   ├── 2535236                                        
+d-----   0.00  B │   ├── 2535216                                        
+d-----   0.00  B │   ├── 2535165                                        
+d-----   0.00  B │   ├── 2535120                                        
+d-----   0.00  B │   ├── 2534401                                        
+d-----   0.00  B │   ├── 2534136                                        
+d-----   0.00  B │   ├── 2534056                                        
+d-----   0.00  B │   ├── 2534043                                        
+d-----   0.00  B │   ├── 2532908                                        
+d-----   0.00  B │   ├── 2532572                                        
+d-----   0.00  B │   ├── 2532035                                        
+d-----   0.00  B │   ├── 2530363                                        
+d-----   0.00  B │   ├── 2530324                                        
+d-----   0.00  B │   ├── 2530300                                        
+d-----   0.00  B │   ├── 2530165                                        
+d-----   0.00  B │   ├── 2530143                                        
+d-----   0.00  B │   ├── 2530115                                        
+d-----   0.00  B │   ├── 2530083                                        
+d-----   0.00  B │   ├── 2527860                                        
+d-----   0.00  B │   ├── 2524612                                        
+d-----   0.00  B │   ├── 2520580                                        
+d-----   0.00  B │   ├── 2506832                                        
+d-----   0.00  B │   ├── 2504384                                        
+d-----   0.00  B │   ├── 2503034                                        
+d-----   0.00  B │   ├── 2501617                                        
+d-----   0.00  B │   ├── 2501593                                        
+d-----   0.00  B │   ├── 2498180                                        
+d-----   0.00  B │   ├── 2498137                                        
+d-----   0.00  B │   ├── 2498117                                        
+d-----   0.00  B │   ├── 2480930                                        
+d-----   0.00  B │   ├── 2476177                                        
+d-----   0.00  B │   ├── 2464900                                        
+d-----   0.00  B │   ├── 2464890                                        
+d-----   0.00  B │   ├── 2463698                                        
+d-----   0.00  B │   ├── 2462732                                        
+d-----   0.00  B │   ├── 2462697                                        
+d-----   0.00  B │   ├── 2461520                                        
+d-----   0.00  B │   ├── 2461440                                        
+d-----   0.00  B │   ├── 2461424                                        
+d-----   0.00  B │   ├── 2461339                                        
+d-----   0.00  B │   ├── 2461221                                        
+d-----   0.00  B │   ├── 2460905                                        
+d-----   0.00  B │   ├── 2460764                                        
+d-----   0.00  B │   ├── 2460597                                        
+d-----   0.00  B │   ├── 2460140                                        
+d-----   0.00  B │   ├── 2460123                                        
+d-----   0.00  B │   ├── 2459903                                        
+d-----   0.00  B │   ├── 2459695                                        
+d-----   0.00  B │   ├── 2459677                                        
+d-----   0.00  B │   ├── 2459634                                        
+d-----   0.00  B │   ├── 2459154                                        
+d-----   0.00  B │   ├── 2456604                                        
+d-----   0.00  B │   ├── 2456593                                        
+d-----   0.00  B │   ├── 2456177                                        
+d-----   0.00  B │   ├── 2456160                                        
+d-----   0.00  B │   ├── 2456136                                        
+d-----   0.00  B │   ├── 2456090                                        
+d-----   0.00  B │   ├── 2456067                                        
+d-----   0.00  B │   ├── 2456038                                        
+d-----   0.00  B │   ├── 2456030                                        
+d-----   0.00  B │   ├── 2455726                                        
+d-----   0.00  B │   ├── 2455715                                        
+d-----   0.00  B │   ├── 2455689                                        
+d-----   0.00  B │   ├── 2455664                                        
+d-----   0.00  B │   ├── 2455610                                        
+d-----   0.00  B │   ├── 2455575                                        
+d-----   0.00  B │   ├── 2455556                                        
+d-----   0.00  B │   ├── 2455544                                        
+d-----   0.00  B │   ├── 2455531                                        
+d-----   0.00  B │   ├── 2455520                                        
+d-----   0.00  B │   ├── 2455508                                        
+d-----   0.00  B │   ├── 2455505                                        
+d-----   0.00  B │   ├── 2454958                                        
+d-----   0.00  B │   ├── 2450539                                        
+d-----   0.00  B │   ├── 2406608                                        
+d-----   0.00  B │   ├── 2405900                                        
+d-----   0.00  B │   ├── 2404283                                        
+d-----   0.00  B │   ├── 2403884                                        
+d-----   0.00  B │   ├── 2398672                                        
+d-----   0.00  B │   ├── 2397045                                        
+d-----   0.00  B │   ├── 2390685                                        
+d-----   0.00  B │   ├── 2389231                                        
+d-----   0.00  B │   ├── 2383028                                        
+d-----   0.00  B │   ├── 2382531                                        
+d-----   0.00  B │   ├── 2381814                                        
+d-----   0.00  B │   ├── 2380958                                        
+d-----   0.00  B │   ├── 2380305                                        
+d-----   0.00  B │   ├── 2374612                                        
+d-----   0.00  B │   ├── 2366997                                        
+d-----   0.00  B │   ├── 2366152                                        
+d-----   0.00  B │   ├── 2365799                                        
+d-----   0.00  B │   ├── 2362634                                        
+d-----   0.00  B │   ├── 2358382                                        
+d-----   0.00  B │   ├── 2358290                                        
+d-----   0.00  B │   ├── 2351660                                        
+d-----   0.00  B │   ├── 2351503                                        
+d-----   0.00  B │   ├── 2349923                                        
+d-----   0.00  B │   ├── 2346971                                        
+d-----   0.00  B │   ├── 2344138                                        
+d-----   0.00  B │   ├── 2342638                                        
+d-----   0.00  B │   ├── 2342381                                        
+d-----   0.00  B │   ├── 2342292                                        
+d-----   0.00  B │   ├── 2341918                                        
+d-----   0.00  B │   ├── 2341391                                        
+d-----   0.00  B │   ├── 2341248                                        
+d-----   0.00  B │   ├── 2341156                                        
+d-----   0.00  B │   ├── 2341130                                        
+d-----   0.00  B │   ├── 2341034                                        
+d-----   0.00  B │   ├── 2340725                                        
+d-----   0.00  B │   ├── 2340581                                        
+d-----   0.00  B │   ├── 2340526                                        
+d-----   0.00  B │   ├── 2340235                                        
+d-----   0.00  B │   ├── 2340107                                        
+d-----   0.00  B │   ├── 2340086                                        
+d-----   0.00  B │   ├── 2340072                                        
+d-----   0.00  B │   ├── 2340033                                        
+d-----   0.00  B │   ├── 2339389                                        
+d-----   0.00  B │   ├── 2339354                                        
+d-----   0.00  B │   ├── 2339348                                        
+d-----   0.00  B │   ├── 2339332                                        
+d-----   0.00  B │   ├── 2339132                                        
+d-----   0.00  B │   ├── 2338761                                        
+d-----   0.00  B │   ├── 2338698                                        
+d-----   0.00  B │   ├── 2338650                                        
+d-----   0.00  B │   ├── 2338491                                        
+d-----   0.00  B │   ├── 2338440                                        
+d-----   0.00  B │   ├── 2338162                                        
+d-----   0.00  B │   ├── 2337921                                        
+d-----   0.00  B │   ├── 2337843                                        
+d-----   0.00  B │   ├── 2337692                                        
+d-----   0.00  B │   ├── 2334141                                        
+d-----   0.00  B │   ├── 2334021                                        
+d-----   0.00  B │   ├── 2333919                                        
+d-----   0.00  B │   ├── 2333638                                        
+d-----   0.00  B │   ├── 2333613                                        
+d-----   0.00  B │   ├── 2333276                                        
+d-----   0.00  B │   ├── 2332365                                        
+d-----   0.00  B │   ├── 2330340                                        
+d-----   0.00  B │   ├── 2330338                                        
+d-----   0.00  B │   ├── 2330337                                        
+d-----   0.00  B │   ├── 2330335                                        
+d-----   0.00  B │   ├── 2330057                                        
+d-----   0.00  B │   ├── 2327117                                        
+d-----   0.00  B │   ├── 2326698                                        
+d-----   0.00  B │   ├── 2324360                                        
+d-----   0.00  B │   ├── 2324261                                        
+d-----   0.00  B │   ├── 2323964                                        
+d-----   0.00  B │   ├── 2319491                                        
+d-----   0.00  B │   ├── 2316892                                        
+d-----   0.00  B │   ├── 2309801                                        
+d-----   0.00  B │   ├── 2307932                                        
+d-----   0.00  B │   ├── 2307881                                        
+d-----   0.00  B │   ├── 2301481                                        
+d-----   0.00  B │   ├── 2301477                                        
+d-----   0.00  B │   ├── 2301453                                        
+d-----   0.00  B │   ├── 2301449                                        
+d-----   0.00  B │   ├── 2301168                                        
+d-----   0.00  B │   ├── 2300371                                        
+d-----   0.00  B │   ├── 2300360                                        
+d-----   0.00  B │   ├── 2300063                                        
+d-----   0.00  B │   ├── 2298567                                        
+d-----   0.00  B │   ├── 2293065                                        
+d-----   0.00  B │   ├── 2292066                                        
+d-----   0.00  B │   ├── 2291469                                        
+d-----   0.00  B │   ├── 2289152                                        
+d-----   0.00  B │   ├── 2288742                                        
+d-----   0.00  B │   ├── 2288259                                        
+d-----   0.00  B │   ├── 2278933                                        
+d-----   0.00  B │   ├── 2277619                                        
+d-----   0.00  B │   ├── 2277006                                        
+d-----   0.00  B │   ├── 2274063                                        
+d-----   0.00  B │   ├── 2268600                                        
+d-----   0.00  B │   ├── 2267517                                        
+d-----   0.00  B │   ├── 2264315                                        
+d-----   0.00  B │   ├── 2250345                                        
+d-----   0.00  B │   ├── 2248763                                        
+d-----   0.00  B │   ├── 2248356                                        
+d-----   0.00  B │   ├── 2248342                                        
+d-----   0.00  B │   ├── 2248037                                        
+d-----   0.00  B │   ├── 2248022                                        
+d-----   0.00  B │   ├── 2247712                                        
+d-----   0.00  B │   ├── 2247587                                        
+d-----   0.00  B │   ├── 2247569                                        
+d-----   0.00  B │   ├── 2247536                                        
+d-----   0.00  B │   ├── 2247510                                        
+d-----   0.00  B │   ├── 2247444                                        
+d-----   0.00  B │   ├── 2247416                                        
+d-----   0.00  B │   ├── 2247406                                        
+d-----   0.00  B │   ├── 2247404                                        
+d-----   0.00  B │   ├── 2247393                                        
+d-----   0.00  B │   ├── 2247386                                        
+d-----   0.00  B │   ├── 2247379                                        
+d-----   0.00  B │   ├── 2247372                                        
+d-----   0.00  B │   ├── 2247352                                        
+d-----   0.00  B │   ├── 2247347                                        
+d-----   0.00  B │   ├── 2247345                                        
+d-----   0.00  B │   ├── 2247281                                        
+d-----   0.00  B │   ├── 2247250                                        
+d-----   0.00  B │   ├── 2247239                                        
+d-----   0.00  B │   ├── 2247222                                        
+d-----   0.00  B │   ├── 2247216                                        
+d-----   0.00  B │   ├── 2247182                                        
+d-----   0.00  B │   ├── 2246966                                        
+d-----   0.00  B │   ├── 2246926                                        
+d-----   0.00  B │   ├── 2246694                                        
+d-----   0.00  B │   ├── 2246638                                        
+d-----   0.00  B │   ├── 2246562                                        
+d-----   0.00  B │   ├── 2246276                                        
+d-----   0.00  B │   ├── 2245675                                        
+d-----   0.00  B │   ├── 2245069                                        
+d-----   0.00  B │   ├── 2245040                                        
+d-----   0.00  B │   ├── 2244994                                        
+d-----   0.00  B │   ├── 2244983                                        
+d-----   0.00  B │   ├── 2244595                                        
+d-----   0.00  B │   ├── 2244589                                        
+d-----   0.00  B │   ├── 2244476                                        
+d-----   0.00  B │   ├── 2243961                                        
+d-----   0.00  B │   ├── 2242685                                        
+d-----   0.00  B │   ├── 2242612                                        
+d-----   0.00  B │   ├── 2242065                                        
+d-----   0.00  B │   ├── 2239838                                        
+d-----   0.00  B │   ├── 2239504                                        
+d-----   0.00  B │   ├── 2239132                                        
+d-----   0.00  B │   ├── 2238388                                        
+d-----   0.00  B │   ├── 2237877                                        
+d-----   0.00  B │   ├── 2237853                                        
+d-----   0.00  B │   ├── 2237394                                        
+d-----   0.00  B │   ├── 2231984                                        
+d-----   0.00  B │   ├── 2230240                                        
+d-----   0.00  B │   ├── 2226377                                        
+d-----   0.00  B │   ├── 2225986                                        
+d-----   0.00  B │   ├── 2225878                                        
+d-----   0.00  B │   ├── 2223513                                        
+d-----   0.00  B │   ├── 2222651                                        
+d-----   0.00  B │   ├── 2222414                                        
+d-----   0.00  B │   ├── 2222334                                        
+d-----   0.00  B │   ├── 2221270                                        
+d-----   0.00  B │   ├── 2220776                                        
+d-----   0.00  B │   ├── 2216991                                        
+d-----   0.00  B │   ├── 2216972                                        
+d-----   0.00  B │   ├── 2216256                                        
+d-----   0.00  B │   ├── 2216245                                        
+d-----   0.00  B │   ├── 2214043                                        
+d-----   0.00  B │   ├── 2212869                                        
+d-----   0.00  B │   ├── 2203613                                        
+d-----   0.00  B │   ├── 2202751                                        
+d-----   0.00  B │   ├── 2193869                                        
+d-----   0.00  B │   ├── 2192698                                        
+d-----   0.00  B │   ├── 2186581                                        
+d-----   0.00  B │   ├── 2186574                                        
+d-----   0.00  B │   ├── 2179173                                        
+d-----   0.00  B │   ├── 2176623                                        
+d-----   0.00  B │   ├── 2175733                                        
+d-----   0.00  B │   ├── 2170311                                        
+d-----   0.00  B │   ├── 2168672                                        
+d-----   0.00  B │   ├── 2160327                                        
+d-----   0.00  B │   ├── 2154950                                        
+d-----   0.00  B │   ├── 2153729                                        
+d-----   0.00  B │   ├── 2152683                                        
+d-----   0.00  B │   ├── 2152587                                        
+d-----   0.00  B │   ├── 2152439                                        
+d-----   0.00  B │   ├── 2152088                                        
+d-----   0.00  B │   ├── 2151913                                        
+d-----   0.00  B │   ├── 2137920                                        
+d-----   0.00  B │   ├── 2134373                                        
+d-----   0.00  B │   ├── 2132226                                        
+d-----   0.00  B │   ├── 2132020                                        
+d-----   0.00  B │   ├── 2108252                                        
+d-----   0.00  B │   ├── 2104441                                        
+d-r---  10.52 MB │   ├── 20Student                                      
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 633.00  B │   │   ├── Pictures                                   
+d-r--- 108.39 KB │   │   ├── My Pictures                                
+d-r--- 633.00  B │   │   ├── Music                                      
+d-r---   3.46 KB │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r---  10.41 MB │   │   ├── Documents                                  
+d-----   0.00  B │   │   └── Desktop                                    
+d-----   0.00  B │   ├── 20divRR                                        
+d-----   0.00  B │   ├── 2095484                                        
+d-----   0.00  B │   ├── 2091391                                        
+d-----   0.00  B │   ├── 2085875                                        
+d-----   0.00  B │   ├── 2085632                                        
+d-----   0.00  B │   ├── 2082918                                        
+d-----   0.00  B │   ├── 2074462                                        
+d-----   0.00  B │   ├── 2063732                                        
+d-----   0.00  B │   ├── 2062688                                        
+d-----   0.00  B │   ├── 2062465                                        
+d-----   0.00  B │   ├── 2062431                                        
+d-----   0.00  B │   ├── 2062045                                        
+d-----   0.00  B │   ├── 2061551                                        
+d-----   0.00  B │   ├── 2053708                                        
+d-----   0.00  B │   ├── 2053702                                        
+d-----   0.00  B │   ├── 2047846                                        
+d-----   0.00  B │   ├── 2045321                                        
+d-----   0.00  B │   ├── 2043087                                        
+d-----   0.00  B │   ├── 2043084                                        
+d-----   0.00  B │   ├── 2041233                                        
+d-----   0.00  B │   ├── 2041232                                        
+d-----   0.00  B │   ├── 2039964                                        
+d-----   0.00  B │   ├── 2036334                                        
+d-----   0.00  B │   ├── 2036325                                        
+d-----   0.00  B │   ├── 2030966                                        
+d-----   0.00  B │   ├── 2019164                                        
+d-----   0.00  B │   ├── 2017616                                        
+d-----   0.00  B │   ├── 2012492                                        
+d-----   0.00  B │   ├── 1563650                                        
+d-----   0.00  B │   ├── 1555989                                        
+d-----   0.00  B │   ├── 1552566                                        
+d-----   0.00  B │   ├── 1552258                                        
+d-----   0.00  B │   ├── 1551380                                        
+d-----   0.00  B │   ├── 1546458                                        
+d-----   0.00  B │   ├── 1546419                                        
+d-----   0.00  B │   ├── 1546371                                        
+d-----   0.00  B │   ├── 1545868                                        
+d-----   0.00  B │   ├── 1544894                                        
+d-----   0.00  B │   ├── 1543173                                        
+d-----   0.00  B │   ├── 1534785                                        
+d-----   0.00  B │   ├── 1525062                                        
+d-----   0.00  B │   ├── 1524838                                        
+d-----   0.00  B │   ├── 1500921                                        
+d-----   0.00  B │   ├── 1491877                                        
+d-----   0.00  B │   ├── 1491509                                        
+d-----   0.00  B │   ├── 1485854                                        
+d-----   0.00  B │   ├── 1480444                                        
+d-----   0.00  B │   ├── 1478892                                        
+d-----   0.00  B │   ├── 1478118                                        
+d-----   0.00  B │   ├── 1474082                                        
+d-----   0.00  B │   ├── 1460612                                        
+d-----   0.00  B │   ├── 1456523                                        
+d-----   0.00  B │   ├── 1455264                                        
+d-----   0.00  B │   ├── 1443330                                        
+d-----   0.00  B │   ├── 1435808                                        
+d-----   0.00  B │   ├── 1419514                                        
+d-----   0.00  B │   ├── 1408601                                        
+d-----   0.00  B │   ├── 1400010                                        
+d-----   0.00  B │   ├── 1394590                                        
+d-----   0.00  B │   ├── 1387344                                        
+d-----   0.00  B │   ├── 1387104                                        
+d-----   0.00  B │   ├── 1386204                                        
+d-----   0.00  B │   ├── 1370156                                        
+d-----   0.00  B │   ├── 1309536                                        
+d-----   0.00  B │   ├── 1303206                                        
+d-----  16.56 MB │   ├── 1302980                                        
+d-r--- 633.00  B │   │   ├── Videos                                     
+d-r--- 633.00  B │   │   ├── Pictures                                   
+d-r--- 633.00  B │   │   ├── Music                                      
+d-----   0.00  B │   │   ├── Links                                      
+d-r--- 611.00  B │   │   ├── Favorites                                  
+d-r--- 411.00  B │   │   ├── Downloads                                  
+d-r---  16.56 MB │   │   ├── Documents                                  
+d-----   0.00  B │   │   ├── Desktop                                    
+d-----   0.00  B │   │   └── Contacts                                   
+d-----   0.00  B │   ├── 1283981                                        
+d-----   0.00  B │   ├── 1281913                                        
+d-----   0.00  B │   └── 1197920                                        
+d--hs-   3.02 KB └── $RECYCLE.BIN                                       
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-84325 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-83936 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-8060  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-6861  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-3386  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-25966 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-21951 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1894  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-18268 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-14165 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-136029
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124954
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1248  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-118974
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1141  
+d--hs- 129.00  B     ├── S-1-5-21-2281392691-2089198454-3940255754-500  
+d--hs- 129.00  B     └── S-1-5-21-2111952285-139808328-3646517028-500   
+
+
+
+
+   Source: P:\
+
+Mode      Length Hierarchy                                              
+----      ------ ---------                                              
+d--hs-  25.11 GB P:\                                                    
+d-----   0.00  B ├── witness                                            
+d--hs-   3.03 GB ├── System Volume Information                          
+d--hs-  48.00  B │   ├── SRM                                            
+d--hs-  10.00 KB │   └── Chkdsk                                         
+d--hs-   7.45 KB ├── RECYCLER                                           
+d--hs-   7.36 KB │   ├── S-1-5-21-970656931-1832544837-2087665911-6861  
+d--hs-  85.00  B │   └── S-1-5-21-1261008767-1768214646-2029246305-500  
+d-----  77.29 MB ├── pxe                                                
+d-----  77.29 MB │   └── tftproot                                       
+d-----   8.63 MB │       ├── utils                                      
+d-----   4.48 MB │       ├── udpcast                                    
+d-----   3.00 KB │       ├── pxelinux.cfg                               
+d-----  16.96 MB │       ├── partimage                                  
+d-----  47.21 MB │       └── gparted                                    
+d-----  13.30 GB ├── Programs                                           
+d----- 211.50 KB │   ├── xpapps                                         
+dar---   8.51 KB │   ├── Websites                                       
+d-----   3.53 MB │   ├── utility                                        
+d-----  35.89 MB │   ├── Tux Paint                                      
+d----- 177.59 MB │   ├── TTL3Net                                        
+d-----  90.81 MB │   │   ├── Type To Learn 3 Network                    
+d-----   2.21 MB │   │   ├── TTLIMPRT                                   
+d-----  80.25 MB │   │   ├── Res                                        
+d----- 904.35 KB │   │   └── classes                                    
+d---s-   1.30 GB │   ├── StudentTeacherSharedFolder                     
+da----   0.00  B │   │   ├──  Div. 14 Pollard Sept 2005                 
+da----   0.00  B │   │   ├──  Div. 13 Dagg Sept 2005                    
+da----   0.00  B │   │   ├──  Div. 12 George Sept 2005                  
+da----  28.72 KB │   │   ├──  Div. 11 VanGylswyk Sept 2005              
+da----  35.47 MB │   │   ├──  Div. 10 Key Sept 2005                     
+da----  10.06 MB │   │   ├──  Div. 09 Carlton Sept 2005                 
+da----  16.09 MB │   │   ├──  Div. 08 Favell Sept 2005                  
+da----   6.39 MB │   │   ├──  Div. 07 Wilson Sept 2005                  
+da----   2.22 MB │   │   ├──  Div. 06 Lowdon Sept 2005                  
+da----  49.21 KB │   │   ├──  Div. 05 Skillings Sept 2005               
+da----  42.17 MB │   │   ├──  Div. 04 Stephen Sept 2005                 
+da----  41.32 MB │   │   ├──  Div. 03 Ball Sept 2005                    
+da----   1.07 GB │   │   ├──  Div. 02 Sept 2005 -2006                   
+da----  82.17 MB │   │   └──  Div. 01 Mantai  Sept 2005                 
+d-----  27.37 MB │   ├── RW381FFA (D)                                   
+d-----  10.60 MB │   ├── quicktime600                                   
+d----- 269.77 MB │   ├── Photo Safari                                   
+d----- 268.56 MB │   │   └── Crosscountry2                              
+d----- 558.66 MB │   ├── msoffice2000                                   
+d-----  74.43 MB │   │   ├── Windows                                    
+d-----   2.35 MB │   │   ├── SystemNT                                   
+d-----   3.02 MB │   │   ├── System95                                   
+d-----  41.03 MB │   │   ├── System                                     
+d-----  24.92 MB │   │   ├── Support                                    
+d-----  47.76 MB │   │   ├── SQL                                        
+d-----   2.09 MB │   │   ├── SP                                         
+d----- 281.70 MB │   │   ├── PFiles                                     
+d-----   3.56 MB │   │   ├── Msi                                        
+d-----  74.99 MB │   │   └── IE5                                        
+d----- 151.00  B │   ├── msg                                            
+d----- 664.66 MB │   ├── Learning Company                               
+d----- 122.62 MB │   │   ├── Users                                      
+d-----  60.53 MB │   │   ├── Third Party                                
+d-----  25.25 MB │   │   ├── QTmovies                                   
+d----- 127.91 MB │   │   ├── Libraries                                  
+d-----  84.03 MB │   │   ├── Idea Machine                               
+d-----   1.20 MB │   │   ├── Fonts                                      
+d----- 238.30 MB │   │   └── Data                                       
+d----- 562.45 KB │   ├── Kurzweil Utilities                             
+d-----   2.68 MB │   ├── Kurzweil Educational Systems                   
+d-----   2.68 MB │   │   └── Kurzweil 3000 Network                      
+d----- 662.45 MB │   ├── Kurzweil 11                                    
+d-----  14.24 MB │   │   ├── K3000NetworkEngine                         
+d-----  14.11 MB │   │   ├── K3000NetworkAdministrator                  
+d----- 633.96 MB │   │   └── K3000Client                                
+d-----   0.00  B │   ├── KidsPix4                                       
+d-----  86.23 MB │   ├── Kidspiration 3                                 
+d-----  10.21 MB │   │   ├── Net Support                                
+d-----  43.28 MB │   │   └── Installer Support Files                    
+d----- 126.72 MB │   ├── kidspiration                                   
+d----- 945.54 KB │   │   ├── Tutorial Support                           
+d-----   5.34 MB │   │   ├── Templates                                  
+d-----  10.03 MB │   │   ├── Libraries                                  
+d-----   8.40 MB │   │   ├── Learn To Use                               
+d-----  11.97 MB │   │   ├── Kidspiration Libraries                     
+d-----   5.60 MB │   │   ├── Kidspiration Lesson Plans                  
+d----- 777.98 KB │   │   ├── Kidspiration Help                          
+d----- 277.27 KB │   │   ├── Kidspiration Extensions                    
+d-----   5.11 MB │   │   ├── Kidspiration Documentation                 
+d-----  34.50 MB │   │   ├── Kidspiration Dictionaries                  
+d-----  12.33 MB │   │   ├── Kidspiration Activities                    
+d-----   2.37 MB │   │   ├── Help                                       
+d----- 256.83 KB │   │   ├── Extensions                                 
+d-----  10.05 MB │   │   └── Dictionaries                               
+d----- 543.90 MB │   ├── Kidpix4 Installer                              
+d----- 543.90 MB │   │   └── Kid Pix 4 (D)                              
+d-----   8.11 KB │   ├── Internet Favorites                             
+d-----  49.81 MB │   ├── Inspiration installer                          
+d-----   6.26 MB │   │   ├── Net Support                                
+d-----   4.16 MB │   │   └── Inspiration Documentation                  
+d-----  46.68 MB │   ├── Inspiration                                    
+d----- 945.54 KB │   │   ├── Tutorial Support                           
+d-----   5.34 MB │   │   ├── Templates                                  
+d-----  10.03 MB │   │   ├── Libraries                                  
+d-----   8.40 MB │   │   ├── Learn To Use                               
+d-----   2.37 MB │   │   ├── Help                                       
+d----- 256.82 KB │   │   ├── Extensions                                 
+d-----  10.05 MB │   │   └── Dictionaries                               
+d-----   9.34 MB │   ├── igpro9                                         
+d-----   1.85 MB │   │   ├── spelling                                   
+d-----   1.73 MB │   │   ├── SFWTOOLS                                   
+d----- 849.20 KB │   │   ├── PICTURES                                   
+d-----   0.00  B │   │   └── data                                       
+d-----   1.29 MB │   ├── ie6                                            
+d-----   1.33 KB │   │   ├── SIGNUP                                     
+d----- 364.92 KB │   │   ├── PLUGINS                                    
+d-----  16.50 KB │   │   ├── MUI                                        
+d----- 806.73 KB │   │   └── Connection Wizard                          
+d-----  21.79 MB │   ├── icons                                          
+d-----   2.46 MB │   │   └── grey                                       
+d-----  51.62 MB │   ├── GHOST                                          
+d-----   0.00  B │   │   └── Images                                     
+d-----   0.00  B │   ├── Essential Skills                               
+d----- 499.50 KB │   ├── deskapps                                       
+d-----   1.29 GB │   ├── CrossCountryServer                             
+d----- 723.06 MB │   │   ├── Quick Install Drop Client to Program Files 
+d----- 320.83 MB │   │   ├── Crosscountry2                              
+d----- 276.45 MB │   │   └── CanadaPS_B_server                          
+d----- 320.83 MB │   ├── Crosscountry2                                  
+d----- 166.67 MB │   │   ├── Canada_B_server                            
+d----- 154.16 MB │   │   └── BC_Site_server                             
+d-----   5.02 GB │   ├── ccc                                            
+da-h--   0.00  B │   │   ├── TheVolumeSettingsFolder                    
+da-h--   0.00  B │   │   ├── TheFindByContentFolder                     
+da-h--   0.00  B │   │   ├── Temporary Items                            
+d-----  17.24 MB │   │   ├── teacherold                                 
+d-----  17.24 MB │   │   ├── teacher                                    
+d-----  53.00 KB │   │   ├── studentold                                 
+d-----  17.64 KB │   │   ├── student                                    
+da-h--   0.00  B │   │   ├── Network Trash Folder                       
+da----  26.72 MB │   │   ├── LOCALCAI                                   
+d-----   8.31 MB │   │   ├── historyold                                 
+d-----   8.30 MB │   │   ├── history                                    
+da----  13.18 KB │   │   ├── CCCTEMP                                    
+da----   4.95 GB │   │   └── CAI                                        
+d----- 486.76 MB │   ├── Camera Photo's                                 
+d----- 240.44 MB │   │   ├── Camera Photo's 11-29-06                    
+d----- 227.17 MB │   │   ├── Camera Photo's 05-02-07                    
+da----  19.15 MB │   │   └── AAAAAAAAAA                                 
+d----- 258.07 MB │   ├── Boardmaker with SD Pro                         
+d-----  14.13 MB │   │   ├── Templates                                  
+d----- 181.75 MB │   │   ├── Symbol Folder                              
+d-----   4.09 MB │   │   ├── Sound Folder                               
+d----- 466.02 KB │   │   ├── SDP Message Files                          
+d-----   1.95 KB │   │   ├── SDP Externals                              
+d-----   1.14 MB │   │   ├── SDP Dictionaries                           
+d-----  46.73 KB │   │   ├── BM Data                                    
+d-----  45.37 MB │   │   └── AL                                         
+d----- 107.16 MB │   ├── atrt3                                          
+d-----   1.81 MB │   │   ├── dbase                                      
+d-----  58.20 MB │   │   ├── all the right type v3 teacher              
+d-----  47.15 MB │   │   └── all the right type v3 student              
+d-----   1.22 GB │   ├── academy                                        
+d-----  47.07 MB │   │   ├── VIDEOG                                     
+d-----   0.00  B │   │   ├── TEMP                                       
+d-----  78.69 MB │   │   ├── SOUNDS                                     
+d----- 289.23 KB │   │   ├── SKDBASE                                    
+d-----   1.29 KB │   │   ├── SKDATA                                     
+d-----   6.50 MB │   │   ├── SHOWME                                     
+d-----   8.36 MB │   │   ├── QTW                                        
+d-----  23.85 MB │   │   ├── PROGR16                                    
+d----- 253.08 MB │   │   ├── MOVIES                                     
+d-----  79.24 MB │   │   ├── GRAPHICS                                   
+d----- 737.55 MB │   │   ├── data                                       
+d-----   6.35 MB │   │   └── CONTENT                                    
+d-----   5.64 MB │   └── 24 Games                                       
+d-r---   5.64 MB │       └── WIN                                        
+d----- 578.95 MB ├── Printer Drivers                                    
+d-----  31.10 MB │   ├── Lexmark_Universal_v2_PCL XL                    
+d-----  17.11 KB │   │   ├── Notices                                    
+d-----  31.08 MB │   │   └── Drivers                                    
+da----  80.23 MB │   ├── Lexmark universal                              
+da----  20.47 MB │   │   ├── Win64-PS3                                  
+da----  22.55 MB │   │   ├── Win64-PCL                                  
+da----  17.52 MB │   │   ├── win32-PS3                                  
+da----  19.70 MB │   │   └── Win32-PCL                                  
+d----- 155.73 MB │   ├── lex upd 2.6                                    
+d----- 666.41 KB │   │   ├── zh_tw                                      
+d----- 648.45 KB │   │   ├── zh                                         
+d----- 641.96 KB │   │   ├── tr                                         
+d----- 627.99 KB │   │   ├── sv                                         
+d----- 670.37 KB │   │   ├── ru                                         
+d----- 709.76 KB │   │   ├── ro                                         
+d----- 639.59 KB │   │   ├── pt_br                                      
+d----- 677.19 KB │   │   ├── pl                                         
+d----- 612.23 KB │   │   ├── no                                         
+d----- 634.86 KB │   │   ├── nl                                         
+d----- 707.64 KB │   │   ├── ko                                         
+d----- 752.11 KB │   │   ├── ja                                         
+d----- 641.47 KB │   │   ├── it                                         
+d-----  28.04 MB │   │   ├── i386                                       
+d----- 666.20 KB │   │   ├── hu                                         
+d-----  77.86 MB │   │   ├── GDI                                        
+d----- 663.65 KB │   │   ├── fr                                         
+d----- 634.93 KB │   │   ├── fi                                         
+d----- 643.17 KB │   │   ├── es                                         
+d----- 600.60 KB │   │   ├── en                                         
+d----- 697.29 KB │   │   ├── el                                         
+d----- 656.30 KB │   │   ├── de                                         
+d----- 637.29 KB │   │   ├── da                                         
+d----- 614.72 KB │   │   ├── cs                                         
+d----- 652.09 KB │   │   ├── ar                                         
+d-----  33.78 MB │   │   └── amd64                                      
+d-----  34.21 MB │   ├── lex upd 2.11                                   
+d-----  34.21 MB │   │   └── Ps3                                        
+da----  73.98 MB │   ├── HP                                             
+da----  25.07 MB │   │   ├── PS-x86                                     
+da----  24.76 MB │   │   ├── pcl6-x86                                   
+da----  24.14 MB │   │   └── pcl5-x86                                   
+d-----  47.08 MB │   ├── Canon Information Assist                       
+d-----   8.82 MB │   │   ├── misc                                       
+d-----  35.73 MB │   │   └── Driver                                     
+da----  53.49 MB │   └── Canon                                          
+da----  17.51 MB │       ├── ccdpcl_xp2k3vista2k87x64_p6_0670_e         
+da----  16.26 MB │       ├── ccdpcl_2kxp2k3vista2k87_p6_0670_e          
+da----  10.62 MB │       ├── ccdfax_xp2k3vista2k87x64_fax_0820_e        
+da----   9.10 MB │       └── ccdfax_2kxp2k3vista2k87_fax_0820_e         
+d-----   8.12 GB ├── District Installers                                
+d----- 804.39 KB │   ├── Winimage                                       
+d-----  23.37 MB │   ├── Windows Live Photo Gallery                     
+d----- 328.00  B │   ├── Windows Folder - Copy to Windows               
+d----- 328.00  B │   ├── Windows                                        
+d-----  18.59 MB │   ├── VLC Media Player                               
+d----- 366.15 KB │   ├── USBStickRestriction                            
+d-----   2.25 MB │   ├── UltraVNC                                       
+d-----  41.35 KB │   │   └── driver                                     
+d-----  10.20 MB │   ├── TuxTypeFrench                                  
+d-----  56.00  B │   │   ├── userdata                                   
+d----- 191.43 KB │   │   ├── src                                        
+d-----  39.34 KB │   │   ├── docs                                       
+d-----   8.43 MB │   │   └── data                                       
+d-----  19.81 MB │   ├── TuxType                                        
+d-----  74.48 KB │   │   ├── locale                                     
+d----- 192.46 KB │   │   ├── doc                                        
+d-----  12.46 MB │   │   └── data                                       
+d-----  79.35 MB │   ├── TuxPaint                                       
+d-----   1.86 MB │   │   ├── plugins                                    
+d-----   1.04 MB │   │   ├── locale                                     
+d----- 557.00 KB │   │   ├── lib                                        
+d----- 406.80 KB │   │   ├── im                                         
+d-----  70.56 KB │   │   ├── etc                                        
+d-----   5.40 MB │   │   ├── docs                                       
+d-----  61.09 MB │   │   └── data                                       
+d-----  14.66 MB │   ├── TuxMath                                        
+d----- 208.78 KB │   │   ├── locale                                     
+d----- 120.66 KB │   │   ├── doc                                        
+d-----   6.38 MB │   │   └── data                                       
+d-----  86.67 MB │   ├── TTL3NET                                        
+d----- 298.56 KB │   │   ├── WinG                                       
+d-----   0.00  B │   │   ├── Type To Learn 3 Network                    
+d-----   2.21 MB │   │   ├── TTLIMPRT                                   
+d-----  80.25 MB │   │   ├── Res                                        
+d----- 492.03 KB │   │   └── classes                                    
+d-----  43.57 MB │   ├── Stellarium                                     
+d-----  92.27 MB │   ├── SmartFreeSoftware                              
+d-----  35.49 MB │   ├── Scratch                                        
+d-----   3.29 MB │   ├── Royale_Noir                                    
+d----- 728.00 KB │   │   └── Shell                                      
+d-----  32.28 MB │   ├── Quicktime 7                                    
+d-----   3.51 MB │   ├── Paint.Net                                      
+d----- 677.97 KB │   ├── Notepad                                        
+d-----   8.25 MB │   ├── NetControl2                                    
+d----- 393.99 MB │   ├── Microsoft .Net Framework                       
+d-----  84.66 MB │   ├── Microsoft                                      
+d-----   3.29 MB │   │   ├── Royale_Noir                                
+d-----   9.23 MB │   │   └── OfficeMathUpdate                           
+d-----  52.73 MB │   ├── LEGO                                           
+d----- 673.90 MB │   ├── Kurzweil                                       
+d-----  14.24 MB │   │   ├── K3000NetworkEngine                         
+d-----  14.11 MB │   │   ├── K3000NetworkAdministrator                  
+d----- 633.96 MB │   │   ├── K3000Client                                
+d-----   4.69 MB │   │   └── Documentation                              
+d-----  33.85 MB │   ├── Kidspiration ISO                               
+d----- 767.47 MB │   ├── KidPixServer                                   
+d-----  96.74 MB │   │   ├── third party                                
+d-----  25.25 MB │   │   ├── QTMovies                                   
+d----- 127.91 MB │   │   ├── Libraries                                  
+d-----  84.03 MB │   │   ├── Idea Machine                               
+d-----   1.20 MB │   │   ├── Fonts                                      
+d-----   0.00  B │   │   └── data                                       
+d----- 555.19 MB │   ├── Kidpix4.1 Server Install                       
+d-----  37.24 MB │   │   └── dx9                                        
+d-----  17.90 MB │   ├── Java Runtime                                   
+d-----   0.00  B │   │   ├── Old                                        
+d-----   2.64 KB │   │   └── AppDataUsers                               
+d----- 124.00 MB │   ├── ITunes                                         
+d-----  32.34 MB │   ├── Internet Explorer 8                            
+d-----  19.50 MB │   ├── Icons                                          
+d-----  47.43 MB │   ├── Google                                         
+d-----   3.98 MB │   ├── FTP Filezilla                                  
+d-----   6.32 MB │   ├── FoxitPDFReader                                 
+d-r---  11.66 MB │   ├── FotoCanvas                                     
+d-----   2.57 MB │   │   └── Copy                                       
+d-----  69.45 MB │   ├── Forefront                                      
+d-----  20.15 MB │   ├── Fonts Freeware                                 
+d-----  15.22 MB │   ├── Finale NotePad 2005a                           
+d----- 139.94 KB │   │   ├── Fonts                                      
+d----- 130.76 KB │   │   ├── Font Annotation                            
+d----- 314.67 KB │   │   └── Component Files                            
+d-r---  19.38 KB │   ├── Edmark Shortcuts                               
+d----- 771.24 MB │   ├── Edmark                                         
+d----- 522.52 KB │   │   ├── Yatzy                                      
+d-----   2.61 MB │   │   ├── Workshop                                   
+d----- 651.37 KB │   │   ├── Tangram                                    
+d-----   5.82 MB │   │   ├── Symbol Sandbox                             
+d-----   3.94 MB │   │   ├── Sudoku                                     
+d-----   6.60 MB │   │   ├── Stykz                                      
+d----- 176.77 MB │   │   ├── StorytellingAlice                          
+d----- 726.20 KB │   │   ├── sebran_selectFrench                        
+d-----   1.51 MB │   │   ├── Sebran                                     
+d-----   4.02 MB │   │   ├── Roxies ABC Fish                            
+d----- 237.26 MB │   │   ├── Return of The Incredible Machine           
+d----- 826.26 KB │   │   ├── Pivot Stickfigure Animator                 
+d-----  13.45 MB │   │   ├── Pencil                                     
+d----- 677.97 KB │   │   ├── Notepad                                    
+d-----   2.05 MB │   │   ├── My Friend                                  
+d-----   1.40 MB │   │   ├── MATHCIR                                    
+d-----   2.00 MB │   │   ├── Little, Middle, and Big                    
+d----- 143.00 KB │   │   ├── Lexibar                                    
+d-----   2.31 MB │   │   ├── Letter Machine                             
+d----- 115.76 MB │   │   ├── LEGO Digital Designer                      
+d-----   2.28 MB │   │   ├── L'Heure                                    
+d-----   8.80 MB │   │   ├── Kinetics Lab                               
+d-----   3.96 MB │   │   ├── Jellybean Hunt                             
+d-----   5.66 MB │   │   ├── Imagemo                                    
+d----- 488.23 KB │   │   ├── GraphPap                                   
+d-----   2.94 MB │   │   ├── GeoComputer                                
+d----- 108.77 MB │   │   ├── Galactic Multiplication & Division         
+d----- 592.32 KB │   │   ├── EclipseCrossword                           
+d-----   3.58 MB │   │   ├── Calendar Clock                             
+d-----   2.99 MB │   │   ├── BlockCAD                                   
+d-----   1.30 MB │   │   ├── Basic Facts Worksheet Factory              
+d----- 491.77 KB │   │   ├── AtouMath                                   
+d-----   5.90 MB │   │   ├── 2D 3D Blox                                 
+d-----   3.73 MB │   │   ├── 24 Games                                   
+d-----  21.75 MB │   │   ├── 2+2 v.2.1af                                
+d-----  19.07 MB │   │   └── 2+2 v.2.1a                                 
+d-----   9.13 MB │   ├── EA                                             
+d-----   9.13 MB │   │   └── ACENTER                                    
+d-----  17.12 MB │   ├── DVDDecryptors                                  
+d-----   1.29 GB │   ├── CrossCountryServer                             
+d----- 723.06 MB │   │   ├── Quick Install Drop Client to Program Files 
+d----- 320.83 MB │   │   ├── Crosscountry2                              
+d----- 276.45 MB │   │   └── CanadaPS_B_server                          
+d----- 415.53 MB │   ├── Clicker5                                       
+d----- 372.24 MB │   │   └── MSI                                        
+d-----  33.60 MB │   ├── Celestia                                       
+d----- 322.79 MB │   ├── CCPhotoSafariInstaller                         
+d-----   1.47 MB │   │   ├── Xtras                                      
+d-----   2.19 KB │   │   ├── Icon                                       
+d----- 284.21 MB │   │   ├── Data                                       
+d-----  17.59 MB │   │   ├── CANADA_PS                                  
+d-----  17.14 MB │   │   └── CANADA_2                                   
+d----- 322.79 MB │   ├── CCCanadaInstaller                              
+d-----   1.47 MB │   │   ├── Xtras                                      
+d-----   2.19 KB │   │   ├── Icon                                       
+d----- 284.21 MB │   │   ├── Data                                       
+d-----  17.59 MB │   │   ├── CANADA_PS                                  
+d-----  17.14 MB │   │   └── CANADA_2                                   
+d----- 551.07 MB │   ├── CCBCInstaller                                  
+d-----   1.47 MB │   │   ├── Xtras                                      
+d----- 147.06 MB │   │   ├── oldBC_Site_client                          
+d-----   3.83 MB │   │   ├── Install2                                   
+d-----   4.29 MB │   │   ├── Install1                                   
+d----- 390.12 MB │   │   ├── Install                                    
+d-----  24.62 KB │   │   └── Icon                                       
+d-----  20.47 MB │   ├── Canorus                                        
+d-----   3.64 MB │   ├── Audacity                                       
+d-----   1.35 MB │   │   └── LameMP3Encoder                             
+d-----  27.71 MB │   ├── AtoZap                                         
+d-----  22.46 MB │   │   └── PROGRAM FILES                              
+d-r---  84.95 KB │   ├── AppShortcuts                                   
+d----- 117.07 MB │   ├── AlltheRightTypeFullInstaller                   
+d-----   3.54 MB │   │   ├── Xtras                                      
+d-----  20.50 MB │   │   ├── SMACK                                      
+d----- 841.40 KB │   │   ├── PC_miniDB                                  
+d----- 846.17 KB │   │   ├── NTS_miniDB                                 
+d-----   4.60 KB │   │   ├── Icon                                       
+d-----  61.08 MB │   │   ├── ATRT3                                      
+d-----  12.24 MB │   │   ├── Administration Utility - v12               
+d-----  12.24 MB │   │   └── Administration Utility - miniDB            
+d-----  58.20 MB │   ├── All the RightType v3 Teacher                   
+d-----   5.06 MB │   │   ├── Xtras                                      
+d----- 776.10 KB │   │   ├── testing                                    
+d-----  11.00 KB │   │   ├── TempData                                   
+d----- 668.24 KB │   │   ├── Skill                                      
+d----- 510.10 KB │   │   ├── PUZZLES                                    
+d-----   1.61 MB │   │   ├── practice                                   
+d-----   2.53 MB │   │   ├── maintenance                                
+d-----  11.25 MB │   │   ├── learning                                   
+d-----  11.21 MB │   │   ├── Games                                      
+d-----   8.52 MB │   │   └── Administration Utility                     
+d-----  47.15 MB │   ├── All the Right Type v3 Student                  
+d-----   5.06 MB │   │   ├── Xtras                                      
+d----- 776.10 KB │   │   ├── testing                                    
+d-----  11.00 KB │   │   ├── TempData                                   
+d----- 668.24 KB │   │   ├── Skill                                      
+d----- 510.10 KB │   │   ├── PUZZLES                                    
+d-----   1.61 MB │   │   ├── practice                                   
+d-----  11.25 MB │   │   ├── learning                                   
+d-----  11.21 MB │   │   └── Games                                      
+d----- 134.83 MB │   ├── AdobeReader                                    
+d-----  20.60 MB │   ├── Adobe IEPlugins                                
+d-----  16.69 MB │   │   ├── AdobeFlashShockwave                        
+d-----   2.66 MB │   │   └── Accelerated Reader Plugin                  
+d----- 493.88 MB │   ├── ACADEMY                                        
+d-----  47.07 MB │   │   ├── VIDEOG                                     
+d-----   0.00  B │   │   ├── TEMP                                       
+d-----  78.95 MB │   │   ├── SOUNDS                                     
+d-----  25.46 MB │   │   ├── PROGR16                                    
+d----- 253.08 MB │   │   ├── MOVIES                                     
+d-----  79.24 MB │   │   ├── GRAPHICS                                   
+d-----   6.35 MB │   │   └── CONTENT                                    
+d----- 147.45 MB │   └── !Star Reading Academy of Reading               
+d-----  12.98 MB │       ├── Star Reading 2.x                           
+d-----  22.95 MB │       ├── Star Math 2.x                              
+d-----   4.50 MB │       ├── AR Content Eagle View                      
+d----- 106.67 MB │       └── Academy of Reading 6.3                     
+d-----   6.09 MB ├── 3eb5a2db1d931a97fc0d60e1554ede                     
+d-----   2.43 MB │   ├── i386                                           
+d-----   3.67 MB │   └── amd64                                          
+d--hs-   2.39 KB └── $RECYCLE.BIN                                       
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-6861  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-3386  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-25966 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-210152
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-18268 
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-136029
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124955
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-124954
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1248  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-118974
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-1141  
+d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-10856 
+d--hs- 129.00  B     ├── S-1-5-21-2679951011-3025809889-2869845558-500  
+d--hs- 129.00  B     └── S-1-5-21-2281392691-2089198454-3940255754-500  
+
+

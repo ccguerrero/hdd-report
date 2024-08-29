@@ -1,0 +1,1555 @@
+﻿
+Root       Total (GB)        Used (GB)        Free (GB) Percentage Used (%) PSComputerName RunspaceId                  
+----       ----------        ---------        --------- ------------------- -------------- ----------                  
+E:\   2047.9970664978  1337.4503326416 710.546733856201              65.31% s4801          0e295181-1ce7-46ce-8be5-8...
+F:\   4095.9824180603 3667.15274047852 428.829677581787              89.53% s4801          0e295181-1ce7-46ce-8be5-8...
+P:\  79.9970664978027 23.7301330566406 56.2669334411621              29.66% s4801          0e295181-1ce7-46ce-8be5-8...
+
+
+
+
+   Source: E:\
+
+Mode       Length Hierarchy                                                      
+----       ------ ---------                                                      
+d--hs-    1.30 TB E:\                                                            
+d-----    3.48 KB ├── yara                                                       
+d--hsl  312.00  B │   └── DfsrPrivate                                            
+d-----  312.00  B │       ├── Staging                                            
+d-----    0.00  B │       ├── PreExisting                                        
+d-----    0.00  B │       ├── Installing                                         
+d-----    0.00  B │       ├── Deleted                                            
+d-----    0.00  B │       └── ConflictAndDeleted                                 
+d-----    0.00  B ├── witness                                                    
+d--hs-   75.50 GB ├── System Volume Information                                  
+d--hs-  257.34 KB │   ├── SRM                                                    
+d-----   38.09 MB │   ├── DFSR                                                   
+d-----    1.02 KB │   │   ├── Private                                            
+d-----   37.02 MB │   │   ├── database_EC96_C8C8_96C8_948C                       
+d-----    4.30 KB │   │   └── Config                                             
+d--hs-   10.00 KB │   └── Chkdsk                                                 
+d-----    1.93 GB ├── System                                                     
+d-----   13.08 MB │   ├── scripts                                                
+d-----   11.01 MB │   │   ├── WOL                                                
+da----    2.07 MB │   │   └── inventory                                          
+d-----    1.77 GB │   ├── Profiles                                               
+d-----  247.38 KB │   │   ├── _REG                                               
+d-----  147.39 MB │   │   ├── User Dataold                                       
+d-----    1.22 GB │   │   ├── TeacherMan                                         
+d-----   97.98 MB │   │   ├── StudentManOLD                                      
+d-----    8.36 MB │   │   ├── StudentMan.v6                                      
+d-----   85.51 MB │   │   ├── StudentMan.V2OLD                                   
+d-----   31.93 MB │   │   ├── StudentMan.V2BU                                    
+d-----   22.99 MB │   │   ├── StudentMan.V2                                      
+d-----   92.27 KB │   │   ├── RoomShortcuts                                      
+d-----  439.03 KB │   │   ├── resourceman.V6                                     
+da----    1.00 MB │   │   ├── resourceman.v2                                     
+d-----   26.36 MB │   │   ├── ProvMan.V6                                         
+d-----    2.25 MB │   │   ├── ProvMan.v2                                         
+d-----   34.70 MB │   │   ├── ProvMan                                            
+d-----  413.65 KB │   │   ├── LibraryMan.V6                                      
+d-----   38.05 MB │   │   ├── LibraryMan.V2OLD                                   
+d-----   27.26 MB │   │   ├── LibraryMan.V2                                      
+d-----   25.22 MB │   │   ├── ICONS                                              
+d-----    7.70 MB │   │   └── AppData                                            
+d-----  151.76 MB │   └── installs                                               
+d-----  151.76 MB │       ├── Longman                                            
+d-----    0.00  B │       └── drivers                                            
+d-----   33.50 KB ├── StaffHomeShortcuts                                         
+d-----  884.73 GB ├── StaffHome                                                  
+d-----    0.00  B │   ├── yji                                                    
+d-----    0.00  B │   ├── vlecoy                                                 
+d-----    7.27 GB │   ├── tzemanek                                               
+d-r---  823.00  B │   │   ├── Videos                                             
+d-----    1.43 MB │   │   ├── ss11_k1_demography_files                           
+d-----   79.19 MB │   │   ├── Socials 11                                         
+d-r---  133.75 MB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.99 KB │   │   ├── Links                                              
+d-----  135.88 KB │   │   ├── Folders - A collection                             
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---    3.53 GB │   │   ├── Downloads                                          
+d-r---    3.33 GB │   │   ├── Documents                                          
+d-r---  625.73 KB │   │   ├── Desktop                                            
+d-r---    8.89 MB │   │   ├── Contacts                                           
+d-----   25.88 MB │   │   ├── Comm 11                                            
+d-----  164.05 MB │   │   └── AppData                                            
+d-----   14.23 GB │   ├── trenyard                                               
+d-----    2.15 MB │   │   ├── Youth Development Instrument Administration Package
+d-----  148.37 KB │   │   ├── YDI                                                
+d-r---  504.00  B │   │   ├── Videos                                             
+d-----  356.62 MB │   │   ├── Resources                                          
+d-----  884.36 MB │   │   ├── PROD                                               
+d-----  619.73 MB │   │   ├── Presentations and EA Bridge                        
+d-r---    3.75 MB │   │   ├── Pictures                                           
+d-----   18.54 KB │   │   ├── Outlook2010                                        
+d-----    2.30 MB │   │   ├── Oct Pro D 2020                                     
+d-----  316.22 KB │   │   ├── Non-grad by School 2021                            
+d-r---   34.68 MB │   │   ├── Music                                              
+d-----    2.15 MB │   │   ├── MDI 2021                                           
+d-r---    2.26 KB │   │   ├── Links                                              
+d-----  870.76 KB │   │   ├── FSA School Info 2019 Results                       
+d-r---  534.64 MB │   │   ├── Favorites                                          
+d-----    1.02 GB │   │   ├── Downloads Oct 2020                                 
+d-r---   26.78 KB │   │   ├── Downloads                                          
+d-r---    7.26 GB │   │   ├── Documents                                          
+d-----    1.71 MB │   │   ├── District Leadership Development Program May        
+d-r---    3.91 MB │   │   ├── Desktop                                            
+d-r---  331.00 MB │   │   ├── Contacts                                           
+d-----  215.29 MB │   │   └── AppData                                            
+d-----  134.04 GB │   ├── tokeeffe                                               
+d-r---  140.71 MB │   │   ├── Videos                                             
+d-----    0.00  B │   │   ├── tvs                                                
+d-----   23.42 KB │   │   ├── test                                               
+d-----   30.91 MB │   │   ├── stickers                                           
+d-----    7.99 MB │   │   ├── sacred_circle                                      
+d-----  199.30 MB │   │   ├── repo                                               
+d-----    0.00  B │   │   ├── Python 11                                          
+d-r---   87.18 MB │   │   ├── Pictures                                           
+d-r---   15.74 MB │   │   ├── Music                                              
+d-r---    4.02 KB │   │   ├── Links                                              
+d-----    6.12 KB │   │   ├── java                                               
+d--h--    0.00  B │   │   ├── InstallAnywhere                                    
+d-r---    8.29 KB │   │   ├── Favorites                                          
+d-r---    1.29 GB │   │   ├── Downloads                                          
+d-r---   27.28 GB │   │   ├── Documents                                          
+d-r---   91.97 GB │   │   ├── Desktop                                            
+d-----    0.00  B │   │   ├── Creative Cloud Files                               
+d-r---    4.25 MB │   │   ├── Contacts                                           
+d-----    0.00  B │   │   ├── computer exploration                               
+d-----    0.00  B │   │   ├── c drive                                            
+d-----  644.66 KB │   │   ├── bctf                                               
+d-----  307.65 MB │   │   ├── AppData                                            
+d-----   12.69 GB │   │   ├── 3d printing                                        
+d-----    0.00  B │   │   ├── .idlerc                                            
+d--h--   23.35 KB │   │   └── .git                                               
+d-----  178.88 MB │   ├── tmace                                                  
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.83 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---  178.78 MB │   │   ├── Downloads                                          
+d-r---   84.62 KB │   │   ├── Documents                                          
+d-r---   12.07 KB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-r---   20.89 GB │   ├── tgrant-NLE                                             
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---    1.66 KB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.97 KB │   │   ├── Links                                              
+d--h--    0.00  B │   │   ├── InstallAnywhere                                    
+d-r---  174.61 KB │   │   ├── Favorites                                          
+d-r---   21.40 KB │   │   ├── Downloads                                          
+d-r---   15.46 GB │   │   ├── Documents                                          
+d-r---    5.10 GB │   │   ├── Desktop                                            
+d-r---  541.00  B │   │   ├── Contacts                                           
+d-----  343.22 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----   14.05 GB │   ├── tclarke                                                
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  112.23 MB │   │   ├── Pictures                                           
+d-----   44.88 KB │   │   ├── Outlook2010                                        
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.98 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---    9.86 GB │   │   ├── Downloads                                          
+d-r---    2.35 GB │   │   ├── Documents                                          
+d-r---    1.68 GB │   │   ├── Desktop                                            
+d-r---  903.48 KB │   │   ├── Contacts                                           
+d-----   58.06 MB │   │   └── AppData                                            
+d-r---   36.03 GB │   ├── tbullard                                               
+d-r---  823.00  B │   │   ├── Videos                                             
+d-----   29.00 GB │   │   ├── Teaching                                           
+d-r---  130.85 MB │   │   ├── Pictures                                           
+d-r---  289.33 MB │   │   ├── Music                                              
+d-----   59.56 KB │   │   ├── Mesquite_Support_Files                             
+d-r---    3.99 KB │   │   ├── Links                                              
+d-r---   13.49 KB │   │   ├── Favorites                                          
+d-r---  307.73 MB │   │   ├── Downloads                                          
+d-r---  778.24 MB │   │   ├── Documents                                          
+d-r---    1.36 GB │   │   ├── Desktop                                            
+d-r---    1.26 MB │   │   ├── Contacts                                           
+d-----    3.74 GB │   │   ├── AppData                                            
+d-----    2.99 KB │   │   ├── .phet                                              
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-r---  757.38 MB │   ├── tahodgson                                              
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  129.02 MB │   │   ├── Pictures                                           
+d-r---    1.36 KB │   │   ├── Music                                              
+d-r---    4.00 KB │   │   ├── Links                                              
+d-r---    3.54 KB │   │   ├── Favorites                                          
+d-r---   44.07 MB │   │   ├── Downloads                                          
+d-r---   81.90 MB │   │   ├── Documents                                          
+d-r---  426.12 MB │   │   ├── Desktop                                            
+d-----    0.00  B │   │   ├── CrossCountryBC                                     
+d-r---    1.44 MB │   │   ├── Contacts                                           
+d-----   74.82 MB │   │   └── AppData                                            
+d-----    0.00  B │   ├── svlahos                                                
+d-r---   33.84 GB │   ├── sdunn                                                  
+d-r---    4.40 GB │   │   ├── Videos                                             
+d-r---    2.85 GB │   │   ├── Pictures                                           
+d-r---    7.63 MB │   │   ├── Music                                              
+d-----   61.49 MB │   │   ├── Ms. Dunn photos April 23                           
+d-r---    4.00 KB │   │   ├── Links                                              
+d-r---    3.79 KB │   │   ├── Favorites                                          
+d-r---    2.78 GB │   │   ├── Downloads                                          
+d-r---   15.41 MB │   │   ├── Documents                                          
+d-r---   23.53 GB │   │   ├── Desktop                                            
+d-r---    3.79 MB │   │   ├── Contacts                                           
+d-----  163.40 MB │   │   └── AppData                                            
+d-----  483.67 MB │   ├── SALPERT                                                
+d-r---  690.00  B │   │   ├── Videos                                             
+d-r---  690.00  B │   │   ├── Pictures                                           
+d-r---  500.00  B │   │   ├── Music                                              
+d-r---    3.85 KB │   │   ├── Links                                              
+da----   70.54 MB │   │   ├── IGPRO9                                             
+d-r---  686.00  B │   │   ├── Favorites                                          
+d-r---  267.08 MB │   │   ├── Downloads                                          
+d-r---    3.09 MB │   │   ├── Documents                                          
+d-r---   28.42 MB │   │   ├── Desktop                                            
+d-r---    1.31 MB │   │   ├── Contacts                                           
+d-----  113.13 MB │   │   └── AppData                                            
+d-----    4.74 GB │   ├── rtrebilco                                              
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---   14.69 MB │   │   ├── Pictures                                           
+d-----   35.34 KB │   │   ├── Outlook2010                                        
+d-r---    1.24 KB │   │   ├── Music                                              
+d-r---    3.87 KB │   │   ├── Links                                              
+d-r---    3.24 KB │   │   ├── Favorites                                          
+d-r---    1.59 GB │   │   ├── Downloads                                          
+d-r---    1.01 GB │   │   ├── Documents                                          
+d-r---    2.00 GB │   │   ├── Desktop                                            
+d-r---    4.11 MB │   │   ├── Contacts                                           
+d-----  114.61 MB │   │   └── AppData                                            
+d-----   92.37 MB │   ├── RSIMARD                                                
+d-r---  823.00  B │   │   ├── Videos                                             
+d-----    0.00  B │   │   ├── REPOS                                              
+d-r---    6.01 MB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.98 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---   54.26 MB │   │   ├── Downloads                                          
+d-r---  974.93 KB │   │   ├── Documents                                          
+d-r---  439.20 KB │   │   ├── Desktop                                            
+d-r---    1.24 MB │   │   ├── Contacts                                           
+d-----   29.04 MB │   │   └── AppData                                            
+d-----   49.64 MB │   ├── rkovich                                                
+d-r---  504.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.09 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---    4.75 MB │   │   ├── Downloads                                          
+d-r---  402.00  B │   │   ├── Documents                                          
+d-r---  173.81 KB │   │   ├── Contacts                                           
+d-----   44.71 MB │   │   └── AppData                                            
+d-----    0.00  B │   ├── pmadrigal                                              
+d-r---    3.38 GB │   ├── owalker                                                
+d-r---   67.57 MB │   │   ├── Videos                                             
+d-r---  395.05 MB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.98 KB │   │   ├── Links                                              
+d-----  287.86 MB │   │   ├── From Laptop                                        
+d-r---   50.29 KB │   │   ├── Favorites                                          
+d-r---    1.80 GB │   │   ├── Downloads                                          
+d-r---  748.34 MB │   │   ├── Documents                                          
+d-r---  951.80 KB │   │   ├── Desktop                                            
+d-r---    1.19 MB │   │   ├── Contacts                                           
+d-----  106.60 MB │   │   └── AppData                                            
+d-----  287.47 MB │   ├── ntaiji                                                 
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---    1.31 MB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.54 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---  268.18 MB │   │   ├── Downloads                                          
+d-r---    9.35 MB │   │   ├── Documents                                          
+d-r---    8.64 MB │   │   ├── Desktop                                            
+d-r---  541.00  B │   │   └── Contacts                                           
+d-r---    1.67 GB │   ├── nsebestyen                                             
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---   13.21 MB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.00 KB │   │   ├── Links                                              
+d-r---    9.54 KB │   │   ├── Favorites                                          
+d-r---  964.09 MB │   │   ├── Downloads                                          
+d-r---  369.34 MB │   │   ├── Documents                                          
+d-r---  200.61 MB │   │   ├── Desktop                                            
+d-r---    3.40 MB │   │   ├── Contacts                                           
+d-----  156.05 MB │   │   └── AppData                                            
+d-r---   15.80 GB │   ├── nhoward                                                
+d-----   13.93 KB │   │   ├── wifi                                               
+d-r---  823.00  B │   │   ├── Videos                                             
+d---s-   32.46 KB │   │   ├── UserData                                           
+d-----    0.00  B │   │   ├── User Settings                                      
+d-----   15.40 MB │   │   ├── Transition                                         
+d-----    1.71 MB │   │   ├── tests anxiety etc                                  
+d-----   31.48 KB │   │   ├── Technology tracker                                 
+d-----   25.50 KB │   │   ├── TAG                                                
+d-----  444.63 KB │   │   ├── Sun                                                
+d-----    1.59 MB │   │   ├── Student profiles                                   
+d-----    3.27 MB │   │   ├── Staff notes                                        
+d-----   95.39 KB │   │   ├── Staff meetings Esquimalt                           
+d-----    7.18 MB │   │   ├── Soo Bin                                            
+d-----    3.46 MB │   │   ├── Social Stories for Scott N                         
+d-----    1.04 MB │   │   ├── Social Stories                                     
+d-----   12.90 KB │   │   ├── SMART Notebook                                     
+d-----    7.92 MB │   │   ├── SIP                                                
+d-----    2.74 MB │   │   ├── Schedule 2017 18                                   
+d-----   15.02 KB │   │   ├── Schedule 19 20                                     
+d-----  203.77 KB │   │   ├── Schedule 18 19                                     
+d-----  512.07 KB │   │   ├── schedule                                           
+d-----  135.70 KB │   │   ├── Ricky M                                            
+d-----  938.48 KB │   │   ├── Resource Room                                      
+d-----  281.02 KB │   │   ├── Report Cards Case Load                             
+d-----    4.23 MB │   │   ├── Report Cards                                       
+d-----    2.23 MB │   │   ├── Reference Letters                                  
+d-----   28.33 KB │   │   ├── Protocols                                          
+d-----  116.76 KB │   │   ├── Profile                                            
+d-----   88.24 MB │   │   ├── PresentationCD                                     
+d-----    7.50 KB │   │   ├── Portfolios                                         
+d-----    1.05 MB │   │   ├── Poppard visit                                      
+d-r---    9.19 GB │   │   ├── Pictures                                           
+d-----   23.50 KB │   │   ├── personal                                           
+d-----    3.22 MB │   │   ├── Peer Tutor                                         
+d-----   15.78 KB │   │   ├── Pearson G                                          
+d-----  939.39 KB │   │   ├── Newspapers                                         
+d-----   11.73 MB │   │   ├── NEW IEP                                            
+d-----    0.00  B │   │   ├── New folder                                         
+d-----    3.16 MB │   │   ├── new downloads                                      
+d--h--    0.00  B │   │   ├── Network Trash Folder                               
+d-----  124.73 MB │   │   ├── My Pictures                                        
+d-r---  766.00  B │   │   ├── My Music                                           
+d-----    0.00  B │   │   ├── My Boards                                          
+d-r---   30.62 KB │   │   ├── Music                                              
+d-----    5.95 MB │   │   ├── Mike Letour                                        
+d---s-  142.28 KB │   │   ├── Microsoft                                          
+d-----   13.20 KB │   │   ├── Meetings                                           
+d-----    2.94 KB │   │   ├── Macromedia                                         
+d-r---    4.14 KB │   │   ├── Links                                              
+d-----  746.82 KB │   │   ├── Life Skills Class                                  
+d-----   58.33 KB │   │   ├── Letters to parents                                 
+d-----   41.37 KB │   │   ├── Letters Home                                       
+d-----    2.13 KB │   │   ├── Kurzweil                                           
+d-----    2.57 KB │   │   ├── KESI                                               
+d-----  697.78 KB │   │   ├── Java                                               
+d-----   29.80 KB │   │   ├── Jason Lavis                                        
+d-----  229.57 KB │   │   ├── Integration 2018                                   
+d-----    6.65 MB │   │   ├── Inclusion                                          
+d-----    3.78 MB │   │   ├── Incident documentation                             
+d-----  251.70 KB │   │   ├── IEP Sept 2019                                      
+d-----   32.54 KB │   │   ├── IEP review forms                                   
+d-----  165.50 KB │   │   ├── IEP Matrixes                                       
+d-----  182.98 KB │   │   ├── IEP december 2017                                  
+d---s-  640.00 KB │   │   ├── History                                            
+d-----  443.16 KB │   │   ├── Graduation 2017New folder                          
+d-----    8.51 MB │   │   ├── Grad                                               
+d-----    3.60 MB │   │   ├── Forms                                              
+d-----   12.35 KB │   │   ├── filezilla                                          
+d-r---   46.07 KB │   │   ├── Favorites                                          
+d-r---    2.59 GB │   │   ├── Downloads                                          
+d-r---   10.37 MB │   │   ├── Documents                                          
+d-r---  318.27 MB │   │   ├── Desktop                                            
+d-----  103.35 KB │   │   ├── Data                                               
+d-----    0.00  B │   │   ├── CrossCountryBC                                     
+d-r---    1.32 MB │   │   ├── Contacts                                           
+d-----   25.53 MB │   │   ├── Coffee                                             
+d-----   12.31 MB │   │   ├── Class Pictures Tag 28                              
+d-----   19.40 KB │   │   ├── Class List Esquimalt                               
+d-----    2.64 MB │   │   ├── Circles Curriculum                                 
+d-----   18.62 MB │   │   ├── Church work                                        
+d-----    2.05 MB │   │   ├── Catherine Pepper                                   
+d-----   54.43 MB │   │   ├── Case Load                                          
+d-----   16.33 KB │   │   ├── Carys Stories                                      
+d-----    2.19 GB │   │   ├── Calvin Stevenson                                   
+d-----   10.77 MB │   │   ├── Caleb                                              
+d-----   15.50 KB │   │   ├── Budget School                                      
+d-----    4.23 MB │   │   ├── best buddies                                       
+d-----   58.48 KB │   │   ├── Behavioir                                          
+d-----  279.35 KB │   │   ├── Aron Collyer                                       
+d-----   95.50 KB │   │   ├── Aron C                                             
+d-----  332.99 MB │   │   ├── application data                                   
+d-----   85.51 MB │   │   ├── AppData                                            
+d-----  621.29 MB │   │   ├── Alumni Students                                    
+d-----    2.74 MB │   │   ├── Adobe                                              
+d-----    0.00  B │   │   ├── Academics Esquimalt 2016                           
+d-----   25.95 KB │   │   ├── Academic                                           
+d-----    1.55 MB │   │   ├── Aaliyah                                            
+d-----    4.28 MB │   │   └── .blender                                           
+d-----    0.00  B │   ├── nharris                                                
+d-----  270.08 KB │   ├── milabelle                                              
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  823.00  B │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.57 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---  162.93 KB │   │   ├── Downloads                                          
+d-r---   91.21 KB │   │   ├── Documents                                          
+d-r---    8.81 KB │   │   ├── Desktop                                            
+d-r---  541.00  B │   │   └── Contacts                                           
+d-----   31.29 GB │   ├── mgrinder                                               
+d-----  443.03 KB │   │   ├── vlc                                                
+d-r---  690.00  B │   │   ├── Videos                                             
+d-----    4.53 GB │   │   ├── Vic high 2015                                      
+d-----   18.41 MB │   │   ├── U3                                                 
+d-----  104.84 MB │   │   ├── spectrum 2013                                      
+d-----   35.45 KB │   │   ├── SMART Technologies                                 
+d-----    1.38 MB │   │   ├── Shortcuts                                          
+d-----    3.10 GB │   │   ├── Reynolds 2015                                      
+d-r---   51.86 KB │   │   ├── Pictures                                           
+d-----  370.00 KB │   │   ├── physics                                            
+d-----    2.84 MB │   │   ├── philosophy                                         
+d-----    1.83 MB │   │   ├── Oak bay 2014                                       
+d-----    0.00  B │   │   ├── My Pictures                                        
+d-r---   97.14 MB │   │   ├── My Documents                                       
+d-r---  504.00  B │   │   ├── Music                                              
+d-----   29.51 MB │   │   ├── Mount Doug 2014                                    
+d---s-   10.26 MB │   │   ├── Microsoft                                          
+d-----  257.95 KB │   │   ├── math 11                                            
+d-----  622.29 KB │   │   ├── Macromedia                                         
+d-r---    3.86 KB │   │   ├── Links                                              
+d-----   50.00  B │   │   ├── Lenovo                                             
+d-----    0.00  B │   │   ├── Identities                                         
+d-----    0.00  B │   │   ├── Help                                               
+d-----  198.00  B │   │   ├── Google                                             
+d-r---    4.50 KB │   │   ├── Favorites                                          
+d-----    1.63 GB │   │   ├── Esquimalt high 2023                                
+d-----  331.91 MB │   │   ├── Esquimalt high 2016                                
+d-----  331.67 MB │   │   ├── ESquimalt high 2012                                
+d-----   52.32 MB │   │   ├── Esquimalt 2022                                     
+d-----  216.24 MB │   │   ├── Esquimalt 2021                                     
+d-----   15.46 GB │   │   ├── Esquimalt 2020                                     
+d-----   79.79 MB │   │   ├── Esquimalt 2019                                     
+d-----  161.20 MB │   │   ├── Esquimalt 2018                                     
+d-----    1.92 GB │   │   ├── Esquimalt 2017                                     
+d-----    1.95 KB │   │   ├── Epson                                              
+d-r---  694.05 MB │   │   ├── Downloads                                          
+d-r---  686.18 MB │   │   ├── Documents                                          
+d-----    5.00 KB │   │   ├── Document Camera Media                              
+d-r---    3.92 MB │   │   ├── Desktop                                            
+d-----    2.14 KB │   │   ├── CyberLink                                          
+d-----    0.00  B │   │   ├── CrossCountryBC                                     
+d-r---    1.76 MB │   │   ├── Contacts                                           
+d-----  681.31 MB │   │   ├── bill  nye                                          
+d-----  163.50 MB │   │   ├── AppData                                            
+d-----    2.78 MB │   │   └── Adobe                                              
+d-r---   24.69 GB │   ├── mbthompson                                             
+d-r---    2.68 MB │   │   ├── Videos                                             
+d-r---   15.01 GB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.16 KB │   │   ├── Links                                              
+d-----    3.17 MB │   │   ├── L01TEA0578                                         
+d-r---   10.61 KB │   │   ├── Favorites                                          
+d-r---    5.24 GB │   │   ├── Downloads                                          
+d-r---    4.15 GB │   │   ├── Documents                                          
+d-r---   49.18 MB │   │   ├── Desktop                                            
+d-r---    1.66 MB │   │   ├── Contacts                                           
+d-----   58.71 MB │   │   ├── Backup                                             
+d-----  181.58 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----  418.61 MB │   ├── mbokvist                                               
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---    1.21 MB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.43 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---  327.80 MB │   │   ├── Downloads                                          
+d-r---   88.71 MB │   │   ├── Documents                                          
+d-r---  909.39 KB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-----   17.51 GB │   ├── lmarchand                                              
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---    7.68 GB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.00 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---  558.65 MB │   │   ├── Downloads                                          
+d-r---    8.82 GB │   │   ├── Documents                                          
+d-r---    1.92 MB │   │   ├── Desktop                                            
+d-r---    1.59 MB │   │   ├── Contacts                                           
+d-----  478.25 MB │   │   └── AppData                                            
+d-r---    2.50 GB │   ├── lcuillerier                                            
+d-r---  504.00  B │   │   ├── Videos                                             
+d-r---  504.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    4.24 KB │   │   ├── Links                                              
+d-r---    5.10 KB │   │   ├── Favorites                                          
+d-r---  341.97 MB │   │   ├── Downloads                                          
+d-r---    2.10 GB │   │   ├── Documents                                          
+d-r---    1.45 MB │   │   ├── Desktop                                            
+d-r---  885.46 KB │   │   ├── Contacts                                           
+d-----   67.98 MB │   │   └── AppData                                            
+d-r---  844.06 MB │   ├── LBILACH                                                
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  124.89 MB │   │   ├── Pictures                                           
+d-r---    1.36 KB │   │   ├── Music                                              
+d-r---    3.98 KB │   │   ├── Links                                              
+d-r---    8.81 KB │   │   ├── Favorites                                          
+d-r---   89.96 MB │   │   ├── Downloads                                          
+d-r---    3.85 MB │   │   ├── Documents                                          
+d-r---  109.49 KB │   │   ├── Desktop                                            
+d-r---  462.95 KB │   │   ├── Contacts                                           
+d-----  622.07 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-r---    6.17 GB │   ├── lbaylis                                                
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---   20.24 MB │   │   ├── Pictures                                           
+d-----   17.60 KB │   │   ├── Outlook2010                                        
+d-r---    1.36 KB │   │   ├── Music                                              
+d-r---    3.98 KB │   │   ├── Links                                              
+d-r---    5.62 KB │   │   ├── Favorites                                          
+d-r---    3.53 GB │   │   ├── Downloads                                          
+d-r---    2.18 GB │   │   ├── Documents                                          
+d-r---   60.12 MB │   │   ├── Desktop                                            
+d-----    0.00  B │   │   ├── CrossCountryBC                                     
+d-r---    1.81 MB │   │   ├── Contacts                                           
+d-----  378.94 MB │   │   └── AppData                                            
+d-r---    5.41 GB │   ├── kmarchand                                              
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---    4.28 GB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.87 KB │   │   ├── Links                                              
+d-r---  490.47 KB │   │   ├── Favorites                                          
+d-r---   64.89 MB │   │   ├── Downloads                                          
+d-r---  464.45 MB │   │   ├── Documents                                          
+d-r---  530.23 MB │   │   ├── Desktop                                            
+d-r---    3.62 MB │   │   ├── Contacts                                           
+d-----   87.00 MB │   │   └── AppData                                            
+d-r---   16.36 GB │   ├── khenderson                                             
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---    3.06 MB │   │   ├── Pictures                                           
+d-----    8.76 KB │   │   ├── Outlook2010                                        
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.98 KB │   │   ├── Links                                              
+d-r---   45.87 KB │   │   ├── Favorites                                          
+d-r---    6.69 GB │   │   ├── Downloads                                          
+d-r---    8.11 GB │   │   ├── Documents                                          
+d-r---    1.29 GB │   │   ├── Desktop                                            
+d-r---    1.71 MB │   │   ├── Contacts                                           
+d-----  272.12 MB │   │   └── AppData                                            
+d-----    0.00  B │   ├── kgills                                                 
+d-----    9.07 MB │   ├── kgillis                                                
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.43 KB │   │   ├── Links                                              
+d-r---  801.00  B │   │   ├── Favorites                                          
+d-r---    9.06 MB │   │   ├── Downloads                                          
+d-r---  402.00  B │   │   ├── Documents                                          
+d-r---    6.99 KB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-----    0.00  B │   ├── kdyer                                                  
+d-----    1.89 GB │   ├── kallison                                               
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---    1.62 KB │   │   ├── Pictures                                           
+d-r---    1.23 KB │   │   ├── Music                                              
+d-r---    3.86 KB │   │   ├── Links                                              
+d-----   56.00 KB │   │   ├── Library                                            
+d-r---    3.10 KB │   │   ├── Favorites                                          
+d-r---    1.66 GB │   │   ├── Downloads                                          
+d-r---  739.90 KB │   │   ├── Documents                                          
+d-r---  184.55 MB │   │   ├── Desktop                                            
+d-r---    1.59 MB │   │   ├── Contacts                                           
+d-----   48.26 MB │   │   ├── AppData                                            
+d--h--    3.75 KB │   │   └── .Spotlight-V100                                    
+d-----  120.24 MB │   ├── jubayne                                                
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.43 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---   86.57 MB │   │   ├── Downloads                                          
+d-r---   18.99 MB │   │   ├── Documents                                          
+d-r---   14.67 MB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-r---  685.29 MB │   ├── jtreble                                                
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-----  291.04 MB │   │   ├── New folder                                         
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.86 KB │   │   ├── Links                                              
+d-r---    1.74 KB │   │   ├── Favorites                                          
+d-r---  266.82 MB │   │   ├── Downloads                                          
+d-r---   17.23 MB │   │   ├── Documents                                          
+d-r---    9.38 MB │   │   ├── Desktop                                            
+d-r---    1.24 MB │   │   ├── Contacts                                           
+d-----   99.55 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----   33.24 MB │   ├── jswett                                                 
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.42 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---   33.22 MB │   │   ├── Downloads                                          
+d-r---    5.09 KB │   │   ├── Documents                                          
+d-r---    5.18 KB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-r---    7.98 GB │   ├── jschaefer                                              
+d-r---  823.00  B │   │   ├── Videos                                             
+d-----    0.00  B │   │   ├── SMART Technologies                                 
+d-r---    5.76 GB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.00 KB │   │   ├── Links                                              
+d-----    8.78 MB │   │   ├── From Laptop                                        
+d-r---  293.90 KB │   │   ├── Favorites                                          
+d-r---    1.40 GB │   │   ├── Downloads                                          
+d-r---  695.30 MB │   │   ├── Documents                                          
+d-r---  149.50 KB │   │   ├── Desktop                                            
+d-r---    2.44 MB │   │   ├── Contacts                                           
+d-----  136.49 MB │   │   └── AppData                                            
+d-r---    2.10 GB │   ├── jrobertson                                             
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---   15.10 MB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.16 KB │   │   ├── Links                                              
+d-r---   47.92 KB │   │   ├── Favorites                                          
+d-r---    1.69 GB │   │   ├── Downloads                                          
+d-r---  217.31 MB │   │   ├── Documents                                          
+d-r---   14.71 MB │   │   ├── Desktop                                            
+d-r---    3.34 MB │   │   ├── Contacts                                           
+d-----  169.08 MB │   │   └── AppData                                            
+d-----  502.80 MB │   ├── jmousley                                               
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r--- 1013.00  B │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.98 KB │   │   ├── Links                                              
+d-r---    4.80 KB │   │   ├── Favorites                                          
+d-r---  421.39 MB │   │   ├── Downloads                                          
+d-r---  751.38 KB │   │   ├── Documents                                          
+d-r---    1.18 MB │   │   ├── Desktop                                            
+d-r---  405.15 KB │   │   ├── Contacts                                           
+d-----   79.09 MB │   │   └── AppData                                            
+d-r---   93.41 MB │   ├── jhouston                                               
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  207.49 KB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.86 KB │   │   ├── Links                                              
+d-r---   97.68 KB │   │   ├── Favorites                                          
+d-r---   24.18 MB │   │   ├── Downloads                                          
+d-r---  609.82 KB │   │   ├── Documents                                          
+d-r---   57.06 KB │   │   ├── Desktop                                            
+d-r---  231.61 KB │   │   ├── Contacts                                           
+d-----   65.44 MB │   │   └── AppData                                            
+d-r---   16.79 GB │   ├── jharris                                                
+d-r---  504.00  B │   │   ├── Videos                                             
+d-r---   16.55 GB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.86 KB │   │   ├── Links                                              
+d-r---   12.64 KB │   │   ├── Favorites                                          
+d-r---  119.51 MB │   │   ├── Downloads                                          
+d-r---   15.12 MB │   │   ├── Documents                                          
+d-r---  376.31 KB │   │   ├── Desktop                                            
+d-r---    3.18 MB │   │   ├── Contacts                                           
+d-----  110.61 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----    5.62 GB │   ├── jflagg                                                 
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  494.03 KB │   │   ├── Pictures                                           
+d-r---    1.36 KB │   │   ├── Music                                              
+d-----   19.19 KB │   │   ├── Miscellaneous                                      
+d-r---    4.13 KB │   │   ├── Links                                              
+d-r---    5.97 KB │   │   ├── Favorites                                          
+d-r---    5.24 GB │   │   ├── Downloads                                          
+d-r---  274.64 MB │   │   ├── Documents                                          
+d-r---    6.76 MB │   │   ├── Desktop                                            
+d-r---    8.38 MB │   │   ├── Contacts                                           
+d-----   37.00 KB │   │   ├── Athena                                             
+d-----  104.32 MB │   │   └── AppData                                            
+d-r---   21.93 GB │   ├── jcschneider                                            
+d-r---  694.00  B │   │   ├── Videos                                             
+d-----   14.30 GB │   │   ├── SCHNEIDER                                          
+d-r---    1.27 MB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.88 KB │   │   ├── Links                                              
+d--h--    0.00  B │   │   ├── InstallAnywhere                                    
+d-r---   37.00 KB │   │   ├── Favorites                                          
+d-r---    7.25 GB │   │   ├── Downloads                                          
+d-r---    8.53 MB │   │   ├── Documents                                          
+d-r---  265.65 MB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   ├── Contacts                                           
+d-----   99.13 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── AI_RecycleBin                                      
+d-----    0.00  B │   ├── jcatchpole                                             
+d-----    0.00  B │   ├── jbateman                                               
+d-----    4.27 GB │   ├── JADAMS                                                 
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  164.71 KB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-----  235.95 MB │   │   ├── Middle School                                      
+d-----   48.69 MB │   │   ├── Masters                                            
+d-r---    3.97 KB │   │   ├── Links                                              
+d-----   90.94 KB │   │   ├── KESI                                               
+d-r---    1.67 KB │   │   ├── Favorites                                          
+d-----  213.78 MB │   │   ├── Esquimalt 2022-Present                             
+d-r---    2.31 GB │   │   ├── Downloads                                          
+d-----  297.09 MB │   │   ├── Documents from Educator Laptop 2016-2022           
+d-r---    1.02 GB │   │   ├── Documents                                          
+d-r---  117.22 KB │   │   ├── Desktop                                            
+d-r---    1.15 MB │   │   ├── Contacts                                           
+d-----   20.88 KB │   │   ├── Chemistry 12                                       
+d-----   92.59 KB │   │   ├── AW 10                                              
+d-----  132.10 MB │   │   └── AppData                                            
+d-----    0.00  B │   ├── hpratt                                                 
+d-----    0.00  B │   ├── hhubbs                                                 
+d-----   92.76 MB │   ├── hdoyle                                                 
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---   69.39 KB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.97 KB │   │   ├── Links                                              
+d-r---   10.79 KB │   │   ├── Favorites                                          
+d-r---    1.21 MB │   │   ├── Downloads                                          
+d-r---    5.67 MB │   │   ├── Documents                                          
+d-r---    1.04 MB │   │   ├── Desktop                                            
+d-r---  645.33 KB │   │   ├── Contacts                                           
+d-----   83.26 MB │   │   └── AppData                                            
+d-r---  117.16 GB │   ├── gorme                                                  
+d-r---   31.69 GB │   │   ├── Videos                                             
+d-r---    7.59 GB │   │   ├── Pictures                                           
+d-r---    4.43 GB │   │   ├── Music                                              
+d-r---    4.12 KB │   │   ├── Links                                              
+d-----   15.50 KB │   │   ├── Kidsbooks USB                                      
+d-r---    5.07 KB │   │   ├── Favorites                                          
+d-r---    4.99 GB │   │   ├── Downloads                                          
+d-r---   68.31 GB │   │   ├── Documents                                          
+d-r---  575.34 KB │   │   ├── Desktop                                            
+d-r---    1.87 MB │   │   ├── Contacts                                           
+d-----  145.03 MB │   │   └── AppData                                            
+d-----   72.04 MB │   ├── gcarriere                                              
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  965.27 KB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.44 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---   60.15 MB │   │   ├── Downloads                                          
+d-r---   10.94 MB │   │   ├── Documents                                          
+d-r---    2.39 KB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-----    0.00  B │   ├── fprentice                                              
+d-----    0.00  B │   ├── emugford                                               
+d-----    1.58 GB │   ├── dstefanek                                              
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.44 KB │   │   ├── Links                                              
+d-r---  927.00  B │   │   ├── Favorites                                          
+d-r---    1.33 GB │   │   ├── Downloads                                          
+d-r---  657.67 KB │   │   ├── Documents                                          
+d-r---  256.15 MB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-r---  189.94 MB │   ├── dskinner                                               
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  493.67 KB │   │   ├── Pictures                                           
+d-----    8.76 KB │   │   ├── Outlook2010                                        
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.86 KB │   │   ├── Links                                              
+d-r---    3.86 KB │   │   ├── Favorites                                          
+d-r---  129.47 MB │   │   ├── Downloads                                          
+d-r---   19.04 MB │   │   ├── Documents                                          
+d-r---   10.29 MB │   │   ├── Desktop                                            
+d-r---  498.74 KB │   │   ├── Contacts                                           
+d-----   30.02 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-r---    8.80 GB │   ├── dmoonlight                                             
+d-r---  823.00  B │   │   ├── Videos                                             
+d-----  110.76 MB │   │   ├── Rugby Videos Ipad                                  
+d-r---   11.57 MB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.00 KB │   │   ├── Links                                              
+d-----  190.67 MB │   │   ├── Law 12 Esq                                         
+d-r---    5.71 KB │   │   ├── Favorites                                          
+d-r---    1.86 GB │   │   ├── Downloads                                          
+d-r---  246.73 MB │   │   ├── Documents                                          
+d-r---    6.07 GB │   │   ├── Desktop                                            
+d-r---    2.25 MB │   │   ├── Contacts                                           
+d-----  325.82 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----    0.00  B │   ├── dhunt                                                  
+d-----    0.00  B │   ├── dgreer                                                 
+d-----   22.71 GB │   ├── dchristoff                                             
+d-----   20.79 MB │   │   ├── Year of the Vid 202021                             
+d-----  274.00  B │   │   ├── Videos                                             
+d-----   42.65 KB │   │   ├── TTOC                                               
+d-----   59.29 MB │   │   ├── TPT Resources                                      
+d-----    4.47 MB │   │   ├── Pro D                                              
+d-----    2.28 MB │   │   ├── Practicuum Students                                
+d-----    1.05 GB │   │   ├── Pictures                                           
+d-----    0.00  B │   │   ├── New folder (5)                                     
+d-----    0.00  B │   │   ├── New folder (4)                                     
+d-----    0.00  B │   │   ├── New folder (3)                                     
+d-----    0.00  B │   │   ├── New folder (2)                                     
+d-----   17.49 MB │   │   ├── Music                                              
+d-----  252.47 KB │   │   ├── Ms O                                               
+d-----    4.36 MB │   │   ├── Mom                                                
+d-r---    3.39 KB │   │   ├── Links                                              
+d-----    2.86 KB │   │   ├── Favorites                                          
+d-----    1.07 GB │   │   ├── Esquimalt High                                     
+d-----   13.64 GB │   │   ├── Downloads                                          
+d-----    3.76 GB │   │   ├── Documents                                          
+d-----    1.81 MB │   │   ├── Dina                                               
+d-----    2.88 GB │   │   ├── Desktop                                            
+d-r---  654.21 KB │   │   ├── Contacts                                           
+d-----  101.06 KB │   │   ├── Clara                                              
+d-----   31.69 MB │   │   ├── BMO Purchasing Card Agreement                      
+d-----  171.91 MB │   │   └── AppData                                            
+d-r---    7.79 GB │   ├── dbjornson                                              
+d-r---  694.00  B │   │   ├── Videos                                             
+d-----    7.20 GB │   │   ├── Teaching                                           
+d-r---   78.60 KB │   │   ├── Pictures                                           
+d-r---    1.23 KB │   │   ├── Music                                              
+d-r---    3.87 KB │   │   ├── Links                                              
+d-r---    3.51 KB │   │   ├── Favorites                                          
+d-r---  420.88 MB │   │   ├── Downloads                                          
+d-r---   64.06 MB │   │   ├── Documents                                          
+d-r---   20.25 MB │   │   ├── Desktop                                            
+d-r---  529.61 KB │   │   ├── Contacts                                           
+d-----   92.31 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----  144.43 MB │   ├── dbissonette-NLE                                        
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  823.00  B │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.01 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---   52.35 MB │   │   ├── Downloads                                          
+d-r---    5.73 MB │   │   ├── Documents                                          
+d-r---    5.15 KB │   │   ├── Desktop                                            
+d-r---    1.37 MB │   │   ├── Contacts                                           
+d-----   84.97 MB │   │   └── AppData                                            
+d-r---    9.26 GB │   ├── cwignall                                               
+d-r---  694.00  B │   │   ├── Videos                                             
+d-----   41.83 MB │   │   ├── Tribeca                                            
+d-----  669.20 MB │   │   ├── rave                                               
+d-r---  242.97 KB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.86 KB │   │   ├── Links                                              
+d-r---  133.88 KB │   │   ├── Favorites                                          
+d-r---    3.85 GB │   │   ├── Downloads                                          
+d-r---    6.47 MB │   │   ├── Documents                                          
+d-r---    4.62 GB │   │   ├── Desktop                                            
+d-r---  422.98 KB │   │   ├── Contacts                                           
+d-----   95.70 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----  772.21 MB │   ├── cstandish                                              
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r--- 1013.00  B │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.57 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---  602.90 MB │   │   ├── Downloads                                          
+d-r---    7.39 MB │   │   ├── Documents                                          
+d-r---  161.92 MB │   │   ├── Desktop                                            
+d-r---  541.00  B │   │   └── Contacts                                           
+d-----   11.04 MB │   ├── crombaut                                               
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  504.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.43 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---   10.99 MB │   │   ├── Downloads                                          
+d-r---   35.39 KB │   │   ├── Documents                                          
+d-r---    6.92 KB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-----    3.40 GB │   ├── cofarrell                                              
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r--- 1013.00  B │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.57 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---    1.55 GB │   │   ├── Downloads                                          
+d-r---    2.57 KB │   │   ├── Documents                                          
+d-r---    1.85 GB │   │   ├── Desktop                                            
+d-r---  541.00  B │   │   └── Contacts                                           
+d-r---   59.82 GB │   ├── cnigh                                                  
+d-r---    8.92 MB │   │   ├── Videos                                             
+d-r---   31.09 MB │   │   ├── Pictures                                           
+d-r---   65.86 KB │   │   ├── Music                                              
+d-r---    3.96 KB │   │   ├── Links                                              
+d-r---   25.82 KB │   │   ├── Favorites                                          
+d-r---    1.27 GB │   │   ├── Downloads                                          
+d-r---    1.60 GB │   │   ├── Documents                                          
+d-r---   42.08 GB │   │   ├── Desktop                                            
+d-r---   14.50 GB │   │   ├── Contacts                                           
+d-----  339.67 MB │   │   └── AppData                                            
+d-r---  526.81 MB │   ├── CKOUTOUGOS                                             
+d-r---  504.00  B │   │   ├── Videos                                             
+d-r---   79.21 KB │   │   ├── Pictures                                           
+d-----   17.63 KB │   │   ├── Outlook2010                                        
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.88 KB │   │   ├── Links                                              
+d-r---    5.04 KB │   │   ├── Favorites                                          
+d-r---  204.75 MB │   │   ├── Downloads                                          
+d-r---   28.04 MB │   │   ├── Documents                                          
+d-r---  185.36 MB │   │   ├── Desktop                                            
+d-----    0.00  B │   │   ├── CrossCountryBC                                     
+d-r---    2.41 MB │   │   ├── Contacts                                           
+d-----  106.12 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----    7.64 GB │   ├── chbradshaw                                             
+d-r---  823.00  B │   │   ├── Videos                                             
+d-----   26.43 MB │   │   ├── QB Company Files 2020                              
+d-----   19.70 MB │   │   ├── QB 2022                                            
+d-r---   13.28 MB │   │   ├── Pictures                                           
+d-----    9.27 KB │   │   ├── Outlook2010                                        
+d-----    1.64 GB │   │   ├── Orca                                               
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.00 KB │   │   ├── Links                                              
+d-r---   53.96 KB │   │   ├── Favorites                                          
+d-r---   72.22 MB │   │   ├── Downloads                                          
+d-r---    3.87 GB │   │   ├── Documents                                          
+d-r---    1.89 GB │   │   ├── Desktop                                            
+d-r---  125.12 KB │   │   ├── Contacts                                           
+d-----   68.12 MB │   │   ├── April 2023                                         
+d-----   44.59 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----  964.61 MB │   ├── cdonald                                                
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---    7.28 MB │   │   ├── Pictures                                           
+d-----    8.84 KB │   │   ├── Outlook2010                                        
+d-r---   54.27 KB │   │   ├── Music                                              
+d-r---    4.02 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---  823.03 MB │   │   ├── Downloads                                          
+d-r---    6.72 MB │   │   ├── Documents                                          
+d-r---   70.25 MB │   │   ├── Desktop                                            
+d-r---    1.70 MB │   │   ├── Contacts                                           
+d-----   55.57 MB │   │   └── AppData                                            
+d-----    1.84 GB │   ├── CCLARKE                                                
+d-r---  504.00  B │   │   ├── Videos                                             
+d-----  102.42 KB │   │   ├── UBC                                                
+d-----   64.94 KB │   │   ├── Tech Support and Tips                              
+d-r---    6.27 MB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.32 KB │   │   ├── Links                                              
+d-----   81.71 MB │   │   ├── Gifted                                             
+d-r---    1.12 KB │   │   ├── Favorites                                          
+d-----   28.02 MB │   │   ├── ELL                                                
+d-r---    1.15 GB │   │   ├── Downloads                                          
+d-r---  136.92 MB │   │   ├── Documents                                          
+d-----    2.91 MB │   │   ├── Digital Citizenship                                
+d-r---    7.31 MB │   │   ├── Contacts                                           
+d-----  159.94 MB │   │   ├── AppData                                            
+d-----   29.30 MB │   │   └── 8C Photos                                          
+d-----    3.75 GB │   ├── bwilliams                                              
+d-r---  823.00  B │   │   ├── Videos                                             
+d-----   40.55 MB │   │   ├── School pic                                         
+d-r--- 1013.00  B │   │   ├── Pictures                                           
+d-----   26.69 KB │   │   ├── Outlook2010                                        
+d-----  302.35 MB │   │   ├── Native music                                       
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.00 KB │   │   ├── Links                                              
+d-r---    9.31 KB │   │   ├── Favorites                                          
+d-r---    2.57 GB │   │   ├── Downloads                                          
+d-r---    5.04 MB │   │   ├── Documents                                          
+d-r---  711.14 MB │   │   ├── Desktop                                            
+d-r---    8.84 MB │   │   ├── Contacts                                           
+d-----  142.40 MB │   │   └── AppData                                            
+d-----  106.48 MB │   ├── bmendes                                                
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  895.98 KB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.55 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---   60.38 MB │   │   ├── Downloads                                          
+d-r---  122.90 KB │   │   ├── Documents                                          
+d-r---   45.11 MB │   │   ├── Desktop                                            
+d-r---  541.00  B │   │   └── Contacts                                           
+d-----  316.50 KB │   ├── BMcculloch                                             
+d-r---  316.50 KB │   │   └── Documents                                          
+d-r---  274.69 MB │   ├── bferguson-NLE                                          
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.87 KB │   │   ├── Links                                              
+d-r---    2.70 KB │   │   ├── Favorites                                          
+d-r---  194.72 MB │   │   ├── Downloads                                          
+d-r---   23.01 MB │   │   ├── Documents                                          
+d-r---  237.57 KB │   │   ├── Desktop                                            
+d-r---  538.60 KB │   │   ├── Contacts                                           
+d-----   56.20 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----    9.25 KB │   ├── bbear                                                  
+d-r---  504.00  B │   │   ├── Videos                                             
+d-r---  694.00  B │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.41 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---  282.00  B │   │   ├── Downloads                                          
+d-r---  402.00  B │   │   ├── Documents                                          
+d-r---    2.43 KB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-----  774.57 MB │   ├── bbbeattie                                              
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  160.75 KB │   │   ├── Pictures                                           
+d-----  215.10 MB │   │   ├── Outlook2010                                        
+d-r---   30.06 MB │   │   ├── Music                                              
+d-r---    4.00 KB │   │   ├── Links                                              
+d-r---   29.18 KB │   │   ├── Favorites                                          
+d-r---  216.39 MB │   │   ├── Downloads                                          
+d-r---   58.83 MB │   │   ├── Documents                                          
+d-r---   81.77 MB │   │   ├── Desktop                                            
+d-r---  459.00 KB │   │   ├── Contacts                                           
+d-----  171.78 MB │   │   └── AppData                                            
+d-r---   11.04 GB │   ├── baris                                                  
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---    1.84 GB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.84 KB │   │   ├── Links                                              
+d-----   27.27 MB │   │   ├── laptop backup                                      
+d-r---    3.28 KB │   │   ├── Favorites                                          
+d-r---    1.57 GB │   │   ├── Downloads                                          
+d-r---    1.05 GB │   │   ├── Documents                                          
+d-r---    6.34 GB │   │   ├── Desktop                                            
+d-r---  356.20 KB │   │   ├── Contacts                                           
+d-----  221.37 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----  141.58 MB │   ├── ayee                                                   
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---   38.47 KB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.40 KB │   │   ├── Links                                              
+d-r---  690.00  B │   │   ├── Favorites                                          
+d-r---  141.47 MB │   │   ├── Downloads                                          
+d-r---    8.43 KB │   │   ├── Documents                                          
+d-r---   55.43 KB │   │   ├── Desktop                                            
+d-r---  412.00  B │   │   └── Contacts                                           
+d-----   62.10 GB │   ├── awitzke                                                
+d-r---   30.30 GB │   │   ├── Videos                                             
+d-r---    1.93 GB │   │   ├── Pictures                                           
+d-r---    5.80 MB │   │   ├── Music                                              
+d-r---    4.14 KB │   │   ├── Links                                              
+d-----   64.40 KB │   │   ├── Library                                            
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---    3.03 GB │   │   ├── Downloads                                          
+d-r---    2.82 MB │   │   ├── Documents                                          
+d-r---   26.58 GB │   │   ├── Desktop                                            
+d-----    0.00  B │   │   ├── Creative Cloud Files                               
+d-r---    4.31 MB │   │   ├── Contacts                                           
+d-----  246.55 MB │   │   ├── AppData                                            
+d-----    4.71 MB │   │   ├── 3D Prints                                          
+d--h--    3.82 KB │   │   └── .Spotlight-V100                                    
+d-r---   11.60 GB │   ├── aroberts                                               
+d-r---  504.00  B │   │   ├── Videos                                             
+d-r---   32.91 MB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    3.86 KB │   │   ├── Links                                              
+d-r---   65.02 KB │   │   ├── Favorites                                          
+d-r---    4.98 GB │   │   ├── Downloads                                          
+d-r---  657.89 MB │   │   ├── Documents                                          
+d-r---    4.43 GB │   │   ├── Desktop                                            
+d-r---  925.26 KB │   │   ├── Contacts                                           
+d-----  108.66 MB │   │   ├── AppData                                            
+d-----    1.24 GB │   │   ├── anita 340 ppt                                      
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----   10.26 GB │   ├── APERRY                                                 
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  397.71 MB │   │   ├── Pictures                                           
+d-----   27.25 KB │   │   ├── Outlook2010                                        
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.91 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---    8.30 GB │   │   ├── Downloads                                          
+d-r---    1.33 GB │   │   ├── Documents                                          
+d-r---  225.84 MB │   │   ├── Desktop                                            
+d-r---  739.04 KB │   │   ├── Contacts                                           
+d-----   23.62 MB │   │   └── AppData                                            
+d-----    0.00  B │   ├── althomas                                               
+d-----    0.00  B │   ├── akmackay                                               
+d-r---   38.37 GB │   ├── ahoffman                                               
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  371.48 MB │   │   ├── Pictures                                           
+d-----   67.31 KB │   │   ├── Outlook2010                                        
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.98 KB │   │   ├── Links                                              
+d-----  553.14 KB │   │   ├── INDIDENTS 2022                                     
+d-r---   13.10 KB │   │   ├── Favorites                                          
+d-r--- 1004.95 MB │   │   ├── Downloads                                          
+d-r---   14.87 GB │   │   ├── Documents                                          
+d-----    9.57 GB │   │   ├── destop march offcie 2022                           
+d-----    2.11 GB │   │   ├── DESKTOP MARCH 2022                                 
+d-r---    9.58 GB │   │   ├── Desktop                                            
+d-----    1.12 MB │   │   ├── DBT                                                
+d-----    0.00  B │   │   ├── CrossCountryBC                                     
+d-r---    1.82 MB │   │   ├── Contacts                                           
+d-----  918.66 MB │   │   ├── AppData                                            
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----   32.27 MB │   ├── ahill                                                  
+d-r---  823.00  B │   │   ├── Videos                                             
+d-r---  633.00  B │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    3.54 KB │   │   ├── Links                                              
+d-r---  819.00  B │   │   ├── Favorites                                          
+d-r---    2.75 MB │   │   ├── Downloads                                          
+d-r---   29.25 MB │   │   ├── Documents                                          
+d-r---  267.20 KB │   │   ├── Desktop                                            
+d-r---  541.00  B │   │   └── Contacts                                           
+d-r---    9.26 GB │   ├── ahermanson                                             
+d-r---  694.00  B │   │   ├── Videos                                             
+d-r---  114.48 MB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    5.12 KB │   │   ├── Links                                              
+d--h--    0.00  B │   │   ├── InstallAnywhere                                    
+d-----    3.52 MB │   │   ├── IEP EXAMPLES                                       
+d-r---   20.02 KB │   │   ├── Favorites                                          
+d-r---    4.63 GB │   │   ├── Downloads                                          
+d-r---    1.51 GB │   │   ├── Documents                                          
+d-r---    2.86 GB │   │   ├── Desktop                                            
+d-r---    3.24 MB │   │   ├── Contacts                                           
+d-----  115.27 MB │   │   ├── AppData                                            
+d--h--    7.88 MB │   │   ├── .GVSDBackup                                        
+d--hs-    0.00  B │   │   └── $RECYCLE.BIN                                       
+d-----   13.20 GB │   ├── acoutts                                                
+d-r---  694.00  B │   │   ├── Videos                                             
+d-----    8.31 MB │   │   ├── Tapestry 2018                                      
+d-----  510.27 KB │   │   ├── Schedule                                           
+d-----    1.93 MB │   │   ├── Russian Train tickets                              
+d-r---  150.58 MB │   │   ├── Pictures                                           
+d-r---  444.54 KB │   │   ├── Music                                              
+d-r---    4.02 KB │   │   ├── Links                                              
+d-r---    2.73 KB │   │   ├── Favorites                                          
+d-r---   11.13 GB │   │   ├── Downloads                                          
+d-r---    1.79 GB │   │   ├── Documents                                          
+d-r---    6.39 MB │   │   ├── Desktop                                            
+d-r---    5.75 MB │   │   ├── Contacts                                           
+d-----  109.57 MB │   │   └── AppData                                            
+d-----   24.87 GB │   ├── abeischer                                              
+d-r---  694.00  B │   │   ├── Videos                                             
+d-----    7.11 GB │   │   ├── The Link Stuff                                     
+d-----    1.20 MB │   │   ├── Student Work LINK                                  
+d-----    6.38 MB │   │   ├── Soccer                                             
+d-----  354.74 KB │   │   ├── SketchUp 2016                                      
+d-----  153.57 MB │   │   ├── Science 9                                          
+d-----  244.39 MB │   │   ├── Science 10                                         
+d-----   47.93 MB │   │   ├── Science - Math 9 Recovery                          
+d-----    4.38 MB │   │   ├── Rugby                                              
+d-r---    1.11 MB │   │   ├── Pictures                                           
+d-r---  504.00  B │   │   ├── Music                                              
+d-r---    4.23 KB │   │   ├── Links                                              
+d-----    1.04 MB │   │   ├── Jeopardy Templates                                 
+d-----   18.67 KB │   │   ├── Genius hour                                        
+d-----    2.14 GB │   │   ├── From Sarah                                         
+d-r---    1.10 KB │   │   ├── Favorites                                          
+d-----  234.13 MB │   │   ├── Earth Science 11                                   
+d-r---   10.48 GB │   │   ├── Downloads                                          
+d-r---   10.19 MB │   │   ├── Documents                                          
+d-r---    4.20 GB │   │   ├── Desktop                                            
+d-r---    4.87 MB │   │   ├── Contacts                                           
+d-----  581.00 KB │   │   ├── Biology 11                                         
+d-----  238.50 MB │   │   └── AppData                                            
+d-----    1.27 GB │   ├── AANDREWS                                               
+d-r---  839.00  B │   │   ├── Videos                                             
+d-r---    3.05 MB │   │   ├── Pictures                                           
+d-r---  633.00  B │   │   ├── Music                                              
+d-r---    4.14 KB │   │   ├── Links                                              
+d-----    0.00  B │   │   ├── Library                                            
+d-r---  347.69 KB │   │   ├── Favorites                                          
+d-r---  252.20 MB │   │   ├── Downloads                                          
+d-r---  901.00 MB │   │   ├── Documents                                          
+d-r---    2.10 MB │   │   ├── Desktop                                            
+d-----  129.00  B │   │   ├── Contacts                                           
+d-----  138.53 MB │   │   └── AppData                                            
+d-r---  128.38 MB │   └── 48Teacher                                              
+d-r---  504.00  B │       ├── Videos                                             
+d-r---  694.00  B │       ├── Pictures                                           
+d-r---  504.00  B │       ├── Music                                              
+d-r---    3.87 KB │       ├── Links                                              
+d-r---    2.73 KB │       ├── Favorites                                          
+d-r---  632.59 KB │       ├── Downloads                                          
+d-r---  889.56 KB │       ├── Documents                                          
+d-r---    2.25 MB │       ├── Desktop                                            
+d-r--- 1000.94 KB │       ├── Contacts                                           
+d-----  123.66 MB │       ├── AppData                                            
+d--hs-    0.00  B │       └── $RECYCLE.BIN                                       
+d-----  136.95 KB ├── Staff Home Shortcuts                                       
+d----- 1004.59 MB ├── Libraries                                                  
+d-----  375.68 MB │   ├── SmartGallery                                           
+d-----  266.24 MB │   │   ├── SMART Essentials for Educators                     
+d-----  109.44 MB │   │   ├── Lesson Activity Toolkit 1.0                        
+d-----    0.00  B │   │   └── LAT 2.0 - FR                                       
+d-----  595.67 MB │   ├── SmartBoard                                             
+d-----  595.67 MB │   │   └── Gallery                                            
+d-----    1.58 MB │   ├── Schwab                                                 
+d-----    1.14 MB │   ├── Kurzweil 3000 Universal Library                        
+d-----   45.50 KB │   │   ├── m. Self-paced courses                              
+d-----   76.00 KB │   │   ├── l. Social Studies                                  
+d-----   16.00 KB │   │   ├── j. Science                                         
+d-----    7.00 KB │   │   ├── h. Planning 10                                     
+d-----  263.00 KB │   │   ├── d. Francais                                        
+d-----  735.50 KB │   │   ├── b. English                                         
+d-----  324.00  B │   │   └── 1. Tauson's SS                                     
+d-----   24.50 KB │   ├── culinary                                               
+d--hs-    0.00  B │   └── AI_RecycleBin                                          
+d-----    0.00  B │       ├── {FF9CD4C3-A127-4559-8352-BDB7568B53BF}             
+d-----    0.00  B │       ├── {4EE2A09F-0A52-4B47-9B6F-1A98734EC3DD}             
+d-----    0.00  B │       └── {2FAEE237-A48D-418D-8376-901E0DA11116}             
+d-----  370.39 GB ├── collaboration                                              
+d-----   63.76 GB │   ├── teachers                                               
+d-----    2.70 MB │   │   ├── Test Install                                       
+d-----   68.79 KB │   │   ├── Tauson                                             
+d-----    0.00  B │   │   ├── Swain                                              
+d-----   62.64 KB │   │   ├── Signs & Forms- Shared                              
+d-----   29.49 KB │   │   ├── Shannon                                            
+d-----   30.20 MB │   │   ├── Sciences humaines 9-10                             
+d-----   48.36 GB │   │   ├── SCIENCE SHARED FOLDER                              
+d-----  344.36 KB │   │   ├── Schneider                                          
+d-----   99.27 MB │   │   ├── Schaefer                                           
+d-----    2.17 MB │   │   ├── Scanned Material                                   
+d-----  139.25 MB │   │   ├── Review                                             
+d-----    0.00  B │   │   ├── Recycling                                          
+d-----   43.39 MB │   │   ├── Peppin                                             
+d-----   27.98 MB │   │   ├── Payne                                              
+d-----    0.00  B │   │   ├── Okeefe                                             
+d-----   88.46 MB │   │   ├── Math                                               
+d-----    0.00  B │   │   ├── Li                                                 
+d-----   30.08 MB │   │   ├── Kurzweil                                           
+d-----  393.91 KB │   │   ├── Hermanson                                          
+d-----   18.77 KB │   │   ├── Henderson                                          
+d-----  728.82 KB │   │   ├── Grant                                              
+d-----   64.43 KB │   │   ├── FRAL                                               
+d-----   66.90 KB │   │   ├── Forms                                              
+d-----    4.58 MB │   │   ├── for TAs                                            
+d-----    1.14 GB │   │   ├── Foods and Nutrition                                
+d-----    9.45 MB │   │   ├── ESQ Photos                                         
+d-----    1.89 GB │   │   ├── Cinéma                                             
+d-----  807.16 MB │   │   ├── Beischer - Copy                                    
+d-----   10.63 GB │   │   ├── Beischer                                           
+d-----    9.13 MB │   │   ├── ally camosun 2017                                  
+d-----   54.48 MB │   │   ├── AEPs 2015-2016                                     
+d-----  409.74 MB │   │   └── 4C Challenge                                       
+d-----  144.66 GB │   ├── students                                               
+d-----   71.17 GB │   │   ├── Yearbook_2023_2024                                 
+d-----  145.56 MB │   │   ├── Yearbook                                           
+d-----  160.82 MB │   │   ├── Summer_School                                      
+d-----  275.16 MB │   │   ├── Steed_Photography                                  
+d-----   49.36 MB │   │   ├── Steed_InfoTech                                     
+d-----  294.58 MB │   │   ├── Steed_Graphics                                     
+d-----  173.50 KB │   │   ├── Robertson_French_10                                
+d-----   12.52 MB │   │   ├── Planification_10                                   
+d----- 1015.32 KB │   │   ├── Physics_11_Period_4                                
+d-----    4.54 GB │   │   ├── Photography                                        
+d-----    0.00  B │   │   ├── Ms. Young                                          
+d-----  559.42 MB │   │   ├── Mrs. Hermanson                                     
+d-----    0.00  B │   │   ├── Marketing                                          
+d-----   13.22 GB │   │   ├── Library                                            
+d-----    2.66 MB │   │   ├── Learning Commons                                   
+d-----   64.20 MB │   │   ├── Jolliffe-Plan10-A                                  
+d-----    0.00  B │   │   ├── Henderson Period 4                                 
+d-----  135.50 KB │   │   ├── Henderson Period 3                                 
+d-----    0.00  B │   │   ├── Henderson Period 2                                 
+d-----  543.83 KB │   │   ├── Henderson Period 1                                 
+d-----    0.00  B │   │   ├── French_9                                           
+d-----    4.96 MB │   │   ├── English 11 Challenge                               
+d-----    0.00  B │   │   ├── EHS_Yearbook_22_23                                 
+d-----   54.19 GB │   │   ├── EHS_Yearbook_2022_2023                             
+d-----    1.85 MB │   │   ├── Bullard_Biology_11_Period_2                        
+d-----    0.00  B │   │   ├── Ashurst_Science_10                                 
+d-----    0.00  B │   │   ├── Ashurst_Marine_Biology_11                          
+d-----    0.00  B │   │   └── 3D-Printing                                        
+d-----    1.66 MB │   ├── Student Homes                                          
+d-----  138.20 GB │   ├── staff                                                  
+d-----   42.00 GB │   │   ├── `Shared Resources                                  
+d-----    3.08 GB │   │   ├── zArchives                                          
+d-----  142.96 MB │   │   ├── Williams                                           
+d-----   23.85 MB │   │   ├── WCLN Math 9 Online                                 
+d-----    2.21 MB │   │   ├── TA Resources                                       
+d-----  992.19 KB │   │   ├── Staff Meeting Minutes                              
+d-----    2.44 MB │   │   ├── Socials 9                                          
+d-----    1.21 MB │   │   ├── Recycling                                          
+d-----   59.92 MB │   │   ├── Prevost                                            
+d-----   46.33 GB │   │   ├── Orme                                               
+d-----    4.36 MB │   │   ├── Office                                             
+d-----  125.07 MB │   │   ├── Mickelson                                          
+d-----   41.56 KB │   │   ├── Medical Alert List                                 
+d-----   80.41 MB │   │   ├── MATH                                               
+d-----  538.62 MB │   │   ├── Mari                                               
+d-----   10.98 KB │   │   ├── Lopez                                              
+d-----   14.62 GB │   │   ├── Library                                            
+d-----   12.79 KB │   │   ├── Lab221                                             
+d-----    8.98 MB │   │   ├── Kurzweil exams                                     
+d-----    2.36 MB │   │   ├── Kate                                               
+d-----    1.61 GB │   │   ├── Hoffman                                            
+d-----  302.65 KB │   │   ├── Hermanson                                          
+d-----  160.51 KB │   │   ├── Henderson                                          
+d-----  210.69 KB │   │   ├── Health and Safety                                  
+d-----  544.63 MB │   │   ├── Grinder                                            
+d-----   13.24 MB │   │   ├── Grant                                              
+d-----    0.00  B │   │   ├── Grade 9 Student Information                        
+d-----  475.09 KB │   │   ├── Field Trips                                        
+d-----   18.25 MB │   │   ├── ELL                                                
+d-----   22.80 GB │   │   ├── Educational Videos                                 
+d-----   54.73 MB │   │   ├── Dunn                                               
+d-----    3.32 GB │   │   ├── Dahl                                               
+d-----  303.91 KB │   │   ├── Coutts                                             
+d-----  663.72 MB │   │   ├── Christoff, D                                       
+d-----    1.02 GB │   │   ├── Chester                                            
+d-----   43.73 MB │   │   ├── ChallengeProgram                                   
+d-----   12.18 MB │   │   ├── Budda                                              
+d-----  322.19 MB │   │   ├── Bouska                                             
+d-----  815.31 MB │   │   └── Beischer                                           
+d-----   34.16 MB │   ├── School_Based_Team                                      
+d-----    1.16 MB │   │   ├── Transition Notes                                   
+d-----  118.41 KB │   │   ├── Referrals                                          
+d-----    4.79 MB │   │   ├── Pics                                               
+d-----    8.49 MB │   │   ├── PAST SBT MEETING MINUTES                           
+d-----   11.82 MB │   │   ├── Past EA info                                       
+d-----    1.01 MB │   │   ├── Grad tracking Forms AG and SU                      
+d-----   74.91 KB │   │   └── Exams                                              
+d-----   17.56 GB │   ├── office                                                 
+d-----   44.63 KB │   │   ├── Yearbook                                           
+d-----   45.92 MB │   │   ├── Year end reports 2013 2014                         
+d-----  123.96 KB │   │   ├── WorkSafe                                           
+d-----  405.85 KB │   │   ├── WithdrawReport                                     
+d-----  399.00 KB │   │   ├── Website                                            
+d-----  185.00 KB │   │   ├── VVP Link                                           
+d-----  829.53 KB │   │   ├── TRAX Change Requests                               
+d-----  542.79 KB │   │   ├── Travel                                             
+d-----    2.30 MB │   │   ├── Transition                                         
+d-----  341.48 KB │   │   ├── Timetables 2022-2023                               
+d-----    1.71 MB │   │   ├── Timetables 2021-2022                               
+d-----    3.70 MB │   │   ├── Timetables 2020-2021                               
+d-----  935.57 KB │   │   ├── Timetables 2019-2020                               
+d-----  866.73 KB │   │   ├── Timetables 2018-2019                               
+d-----  185.63 KB │   │   ├── Timetables 2017-2018                               
+d-----   49.04 KB │   │   ├── Timetables 2016-2017                               
+d-----  100.91 KB │   │   ├── Timetables 2015-2016                               
+d-----   82.23 KB │   │   ├── Timetables 2014-2015                               
+d-----   72.18 KB │   │   ├── Timetables 2013-2014                               
+d-----    1.28 MB │   │   ├── Timetable Courses 2011-12                          
+d-----   72.57 KB │   │   ├── Timetable 2024-2025                                
+d-----   71.67 KB │   │   ├── Timetable 2023-2024                                
+d-----    4.53 MB │   │   ├── Templates                                          
+d-----    3.36 MB │   │   ├── Tammy                                              
+d-----  283.75 MB │   │   ├── SUSPENSIONS                                        
+d-----    3.17 MB │   │   ├── Summer School                                      
+d-----  390.89 KB │   │   ├── Summer Newsletters                                 
+d-----   26.00 KB │   │   ├── Study Hall Info from Gail McGraw                   
+d-----  399.65 KB │   │   ├── Study Hall                                         
+d-----   82.41 MB │   │   ├── Student Tracking                                   
+d-----   22.35 KB │   │   ├── Student Survey                                     
+d-----   20.12 MB │   │   ├── Student Handbook                                   
+d-----  493.07 KB │   │   ├── Student Duplicate                                  
+d-----  254.59 MB │   │   ├── Student Demographics                               
+d-----    3.48 MB │   │   ├── Student Agendas                                    
+d-----   23.21 MB │   │   ├── Staff Meeting Minutes                              
+d-----   32.31 MB │   │   ├── Staff Handbook                                     
+d-----    3.03 MB │   │   ├── Staff Demographics                                 
+d-----   43.28 KB │   │   ├── Scholarships                                       
+d-----    8.35 MB │   │   ├── Schedules                                          
+d-----    9.22 MB │   │   ├── SADE                                               
+d-----   19.12 KB │   │   ├── Russia                                             
+d-----    1.44 MB │   │   ├── Registration                                       
+d-----    2.27 GB │   │   ├── QuickBooks                                         
+d-----   32.13 MB │   │   ├── Principalm                                         
+d-----  488.70 MB │   │   ├── Powerpoints                                        
+d-----  601.01 KB │   │   ├── Post Secondary Day                                 
+d-----   11.76 KB │   │   ├── Phones                                             
+d-----  513.37 KB │   │   ├── Parking Permits                                    
+d-----  206.53 KB │   │   ├── PAC                                                
+d-----    1.35 MB │   │   ├── Open House                                         
+d-----   26.88 MB │   │   ├── Old Withdrawal Forms                               
+d-----    3.48 MB │   │   ├── OFFICE FORMS                                       
+d-----  212.27 KB │   │   ├── Nov 20                                             
+d-----    0.00  B │   │   ├── New folder                                         
+d-----    9.40 KB │   │   ├── New directory                                      
+d-----    4.36 GB │   │   ├── MYED                                               
+d-----   17.06 KB │   │   ├── Music                                              
+d-----  735.90 MB │   │   ├── MS Office 2010                                     
+d-----   19.44 MB │   │   ├── Management of Emergency Medical Conditions         
+d-----   23.22 MB │   │   ├── Lockers                                            
+d-----   44.64 MB │   │   ├── LETTERS FOR STAFF, STUDENTS, PARENTS, ETC - Move   
+d-----    9.16 MB │   │   ├── Letters and Logos                                  
+d-----  249.53 KB │   │   ├── Jason                                              
+d-----    2.24 MB │   │   ├── ISP                                                
+d-----   40.05 MB │   │   ├── IncidentReport                                     
+d-----   28.88 KB │   │   ├── IBI                                                
+d-----    0.00  B │   │   ├── GRAD 2021                                          
+d-----    9.00 MB │   │   ├── GRAD 2020                                          
+d-----  990.68 KB │   │   ├── GRAD 2019                                          
+d-----    5.18 MB │   │   ├── GRAD 2018                                          
+d-----    3.06 MB │   │   ├── GRAD 2017                                          
+d-----    5.62 MB │   │   ├── GRAD 2016                                          
+d-----   12.93 MB │   │   ├── GRAD                                               
+d-----    0.00  B │   │   ├── Focus Block                                        
+d-----  336.57 KB │   │   ├── Floor Maps                                         
+d-----    1.16 MB │   │   ├── File Request                                       
+d-----  475.09 KB │   │   ├── Field Trips                                        
+d-----   82.57 KB │   │   ├── Fast Track                                         
+d-----    5.90 MB │   │   ├── Esq Art                                            
+d-----    1.41 MB │   │   ├── Emergency Drills                                   
+d-----  500.03 KB │   │   ├── DPA                                                
+d-----    3.08 GB │   │   ├── DOCKER                                             
+d-----  215.03 KB │   │   ├── District Consent Form                              
+d-----   23.25 MB │   │   ├── Diabetes                                           
+d-----    9.44 MB │   │   ├── COVID Protocols                                    
+d-----   80.87 MB │   │   ├── Course Selection                                   
+d-----  391.70 MB │   │   ├── CORE Competencies                                  
+d-----  473.44 MB │   │   ├── Colleen's folder                                   
+d-----  334.09 MB │   │   ├── Cheryl - Chasity Fun Folder                        
+d-----   90.00 MB │   │   ├── Cheryl                                             
+d-----    1.27 GB │   │   ├── Chasity - Anil                                     
+d-----   85.25 KB │   │   ├── Championships                                      
+d-----  289.28 MB │   │   ├── Challenge                                          
+d-----   12.83 KB │   │   ├── Case Managers                                      
+d-----  156.44 MB │   │   ├── Calendars                                          
+d-----  248.50 KB │   │   ├── bussing                                            
+d-----  462.73 KB │   │   ├── Bell Schedule                                      
+d-----  393.12 MB │   │   ├── BCESIS                                             
+d-----    8.11 MB │   │   ├── Awards                                             
+d-----    4.44 MB │   │   ├── ATTENDANCE AUTODIAL RESULTS                        
+d-----   67.27 KB │   │   ├── Attendance 2019                                    
+d-----    2.12 GB │   │   ├── Assessments                                        
+d-----  151.97 KB │   │   ├── Archived Files                                     
+d-----  945.11 KB │   │   ├── ANED 2011 2012                                     
+d-----   26.07 MB │   │   ├── ANED                                               
+d-----    8.23 MB │   │   ├── Anaphylaxis                                        
+d----- 1019.51 KB │   │   ├── Alumni                                             
+d-----   11.31 MB │   │   ├── 2015 Star Bus Maintenance Diagrams                 
+d-----    1.84 MB │   │   └── 0TRAX 2019                                         
+d-----   78.98 KB │   ├── Logonbackground                                        
+d-----   31.69 MB │   ├── Counselling                                            
+d-----  709.78 KB │   │   ├── Powerpoints                                        
+d-----   30.94 MB │   │   ├── GRAD LETTERS                                       
+d-----   48.84 KB │   │   └── Case List                                          
+d-----    0.00  B │   ├── Archived_Collaboration                                 
+d-----    1.24 GB │   ├── admin                                                  
+d-----    3.24 MB │   │   ├── Withdraw                                           
+d-----    5.65 MB │   │   ├── Transition                                         
+d-----    7.03 MB │   │   ├── Timetabling                                        
+d-----  191.41 KB │   │   ├── Teacher Evaluation Documents                       
+d-----   12.45 MB │   │   ├── Tammy                                              
+d-----    1.24 MB │   │   ├── Synrevoice                                         
+d-----  477.46 MB │   │   ├── Suspension Letters                                 
+d-----    2.86 MB │   │   ├── Summer School Results                              
+d-----   34.18 KB │   │   ├── Student Tracking                                   
+d-----   85.81 KB │   │   ├── Staffing 2022-2023                                 
+d-----    2.64 MB │   │   ├── Staffing 2021-22                                   
+d-----    4.41 MB │   │   ├── Staffing 2020-2021                                 
+d-----    4.51 MB │   │   ├── Staffing 2019-2020                                 
+d-----    1.51 MB │   │   ├── Staffing 2018-2019                                 
+d-----    2.26 MB │   │   ├── Staffing 2016-2017                                 
+d-----    4.35 MB │   │   ├── Staffing 2015-2016                                 
+d-----    1.20 MB │   │   ├── Staffing 2014-15                                   
+d-----  870.58 KB │   │   ├── Staffing 2013-14                                   
+d-----   50.71 MB │   │   ├── STAFF MEETINGS -agendas & minutes                  
+d-----    1.69 MB │   │   ├── School Organization 2014-15                        
+d-----  609.00 KB │   │   ├── School Organization 2013-14                        
+d-----   40.06 KB │   │   ├── School History                                     
+d-----    5.32 MB │   │   ├── School Growth Plan                                 
+d-----  874.21 KB │   │   ├── School Data (Grad; Enrollment; Suspension; etc)    
+d-----    1.91 MB │   │   ├── Rugby Academy                                      
+d-----    1.65 MB │   │   ├── Report Cards                                       
+d-----   31.48 MB │   │   ├── Remembrance Day                                    
+d-----    4.49 MB │   │   ├── Provincial Exams                                   
+d-----    8.65 MB │   │   ├── PoleRaising 2012- sm2                              
+d-----    3.50 MB │   │   ├── Planning Online                                    
+d-----   31.70 MB │   │   ├── No Show Withdrawls                                 
+d-----    2.45 MB │   │   ├── Logos                                              
+d-----    8.06 MB │   │   ├── Liz                                                
+d-----   46.70 MB │   │   ├── Jason Johnson                                      
+d-----   20.36 MB │   │   ├── Information Evenings & Open Houses                 
+d-----   12.21 MB │   │   ├── Health and Safety                                  
+d-----    1.07 MB │   │   ├── Grad                                               
+d-----  395.22 MB │   │   ├── Gord                                               
+d-----    1.63 MB │   │   ├── Form Letters                                       
+d-----   12.95 MB │   │   ├── Facilities                                         
+d-----   21.08 MB │   │   ├── Emily                                              
+d-----  582.71 KB │   │   ├── Dry Grad                                           
+d-----  446.27 KB │   │   ├── Dept. Head Meetings                                
+d-----  282.70 KB │   │   ├── D35 and Remedy                                     
+d-----   73.28 KB │   │   ├── CUPE                                               
+d-----  478.52 KB │   │   ├── CORE                                               
+d-----    1.57 MB │   │   ├── Code of Conduct                                    
+d-----   10.40 MB │   │   ├── Class Size                                         
+d-----  657.81 KB │   │   ├── Class Composition Reports 2016 2017                
+d-----    4.45 MB │   │   ├── Challenge                                          
+d-----   19.46 MB │   │   ├── Carter                                             
+d-----  299.69 KB │   │   ├── Calendar                                           
+d-----    2.24 MB │   │   ├── Awards                                             
+d-----  631.59 KB │   │   ├── Attendance                                         
+d-----  606.82 KB │   │   ├── Athletics                                          
+d-----    3.20 MB │   │   ├── AP                                                 
+d-----  297.07 KB │   │   ├── Alumni Backup                                      
+d-----   86.62 KB │   │   ├── Admin Meetings 2014-15                             
+d-----    6.32 MB │   │   ├── Admin - Organization                               
+d-----   13.40 MB │   │   ├── Acheivement                                        
+d-----  112.63 KB │   │   ├── Aboriginal Ed                                      
+d-----    3.67 MB │   │   └── 177 Letters                                        
+d-----    3.05 GB │   ├── Accounts                                               
+d-----  384.55 KB │   │   ├── Transfers                                          
+d-----   37.02 KB │   │   ├── Tapestry Notes                                     
+d-----  333.67 KB │   │   ├── Swag Inventory                                     
+d-----    1.35 MB │   │   ├── Student Fees                                       
+d-----  475.91 KB │   │   ├── Stdt Fees                                          
+d-----   20.11 MB │   │   ├── Songhees                                           
+d-----   71.71 KB │   │   ├── School Funded                                      
+d-----    5.73 MB │   │   ├── Scholarship Certs 2022                             
+d-----   28.00 KB │   │   ├── Scholarship                                        
+d-----   17.60 MB │   │   ├── Rugby Academy                                      
+d-----  106.77 KB │   │   ├── Robotics                                           
+d-----    7.89 MB │   │   ├── Rande Cook Image                                   
+d-----   17.10 MB │   │   ├── Quickbooks                                         
+d-----   14.67 MB │   │   ├── Public Accounts                                    
+d-----  256.68 KB │   │   ├── Print                                              
+d-----   63.15 KB │   │   ├── Pizza Days                                         
+d-----   10.43 MB │   │   ├── Petty Cash Reports                                 
+d-----   12.33 KB │   │   ├── Papercut Reports                                   
+d-----  239.90 KB │   │   ├── PAC INVOICES 2018                                  
+d-----   34.34 MB │   │   ├── PAC                                                
+d-----  530.84 KB │   │   ├── Orange Shirt                                       
+d-----  119.68 MB │   │   ├── Old Esquimalt Files                                
+d-----  284.19 KB │   │   ├── Misc                                               
+d-----   37.66 MB │   │   ├── Marketing                                          
+d-----   76.12 KB │   │   ├── Liability Insurance                                
+d-----  448.50 KB │   │   ├── Letter Head                                        
+d-----   29.00 KB │   │   ├── Kev                                                
+d-----  920.51 KB │   │   ├── ISP                                                
+d----- 1005.71 KB │   │   ├── Intramurals Shirts 2023                            
+d-----    1.04 MB │   │   ├── Grad                                               
+d-----    1.70 MB │   │   ├── General Invoices 2015 2016                         
+d-----    4.21 MB │   │   ├── Forms                                              
+d-----  919.70 KB │   │   ├── Field of Dreams                                    
+d-----    1.49 MB │   │   ├── ESQ Trades Shirts                                  
+d-----   15.33 MB │   │   ├── Esq Swag & Fundraising Items                       
+d-----    5.90 MB │   │   ├── Esq Art                                            
+d-----  382.91 KB │   │   ├── Donations                                          
+d-----  251.07 KB │   │   ├── Docker Wear                                        
+d-----    4.28 MB │   │   ├── Desktop                                            
+d-----    3.14 MB │   │   ├── Deposits                                           
+d-----  199.12 KB │   │   ├── CW Personal Deliveries                             
+d-----    8.55 MB │   │   ├── Cafeteria                                          
+d-----    8.43 MB │   │   ├── Bus Damage Pics                                    
+d-----   14.09 MB │   │   ├── Bus & Van                                          
+d-----   10.27 MB │   │   ├── Budget                                             
+d-----   86.08 MB │   │   ├── Awards Certs                                       
+d-----    2.26 GB │   │   ├── Autoshop 2022                                      
+d-----   14.61 MB │   │   ├── Autoshop                                           
+d-----   10.51 MB │   │   ├── AUDIT                                              
+d-----  138.58 KB │   │   ├── Athletics                                          
+d-----   68.17 MB │   │   ├── April 2023                                         
+d-----   91.95 MB │   │   └── 2023 Awards                                        
+d-----    1.86 GB │   └── Aboriginal Nations Education                           
+d-----  147.55 MB │       ├── Transition powerpoint                              
+d-----  331.59 MB │       ├── transition 2016                                    
+d-----   10.39 MB │       ├── Remembrance Day Resources                          
+d-----    4.02 MB │       ├── Leadership pics                                    
+d-----   50.18 KB │       ├── IED 2021 2022                                      
+d-----    5.93 MB │       ├── IED 2020-2021                                      
+d-----  120.32 MB │       ├── healthy-relatio562e7bb9                            
+d-----    0.00  B │       ├── healthy relationships                              
+d-----  145.33 MB │       ├── Grad Photos 2016                                   
+d-----  960.64 MB │       ├── ESQ Salmon BBQ 2015                                
+d-----   12.06 MB │       ├── ANED 2019 2020                                     
+d-----  671.98 KB │       ├── ANED 2018 2019                                     
+d-----  640.59 KB │       ├── ANED 2017 2018                                     
+d-----    1.43 MB │       ├── ANED 2016 2017                                     
+d-----    7.83 MB │       ├── ANED 2015 2016                                     
+d-----   95.59 MB │       ├── ANED 2014 2015                                     
+d-----   21.27 MB │       ├── ANED 2013 2014                                     
+d-----   34.53 MB │       └── ANED 2012 2013                                     
+d--hs-  387.00  B └── $RECYCLE.BIN                                               
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244         
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583        
+d--hs-  129.00  B     └── S-1-5-21-970656931-1832544837-2087665911-210152        
+
+
