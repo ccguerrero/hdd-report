@@ -1,74 +1,399 @@
 ﻿
 Root       Total (GB)        Used (GB)        Free (GB) Percentage Used (%) PSComputerName RunspaceId                  
 ----       ----------        ---------        --------- ------------------- -------------- ----------                  
-E:\  119.997066497803 4.73119735717773 115.265869140625               3.94% s8301          55249e1f-6bf4-45d5-b435-f...
-F:\  119.997066497803 3.62984466552734 116.367221832275               3.02% s8301          55249e1f-6bf4-45d5-b435-f...
+E:\  119.997066497803 2.35409927368164 117.642967224121               1.96% s8301          daa17115-283f-41c8-939e-9...
+F:\  119.997066497803 1.59535980224609 118.401706695557               1.33% s8301          daa17115-283f-41c8-939e-9...
 
 
 
 
    Source: E:\
 
-Mode      Length Hierarchy                                              
-----      ------ ---------                                              
-d--hs-   4.12 GB E:\                                                    
-d-----   3.48 KB ├── yara                                               
-d--hsl 312.00  B │   └── DfsrPrivate                                    
-d----- 312.00  B │       ├── Staging                                    
-d-----   0.00  B │       ├── PreExisting                                
-d-----   0.00  B │       ├── Installing                                 
-d-----   0.00  B │       ├── Deleted                                    
-d-----   0.00  B │       └── ConflictAndDeleted                         
-d-----   0.00  B ├── witness                                            
-d--hs-   4.10 GB ├── System Volume Information                          
-d--hs- 257.34 KB │   ├── SRM                                            
-d-----  33.09 MB │   └── DFSR                                           
-d----- 312.00  B │       ├── Private                                    
-d-----  32.02 MB │       ├── database_EC96_C8C8_96C8_948C               
-d-----   4.30 KB │       └── Config                                     
-d-----  14.98 MB ├── System                                             
-d-----   9.00  B │   ├── scripts                                        
-d-----  14.98 MB │   ├── Profiles                                       
-d-----   2.08 MB │   │   ├── TeacherMan.V2                              
-d-----   5.42 MB │   │   ├── TeacherMan                                 
-d-----   2.07 MB │   │   ├── StudentMan.V2                              
-d-----   5.41 MB │   │   └── StudentMan                                 
-d-----   0.00  B │   └── installs                                       
-d-----   0.00  B │       └── drivers                                    
-d-----   0.00  B ├── StaffHome                                          
-d-----   0.00  B ├── collaboration                                      
-d-----   0.00  B │   ├── teachers                                       
-d-----   0.00  B │   ├── students                                       
-d-----   0.00  B │   ├── staff                                          
-d-----   0.00  B │   ├── office                                         
-d-----   0.00  B │   └── admin                                          
-d--hs- 903.00  B └── $RECYCLE.BIN                                       
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633
-d--hs- 129.00  B     └── S-1-5-21-2988211483-3915955467-3887074721-500  
+Mode       Length Hierarchy                                                                                            
+----       ------ ---------                                                                                            
+d--hs-    1.74 GB E:\                                                                                                  
+d-----    3.48 KB ├── yara                                                                                             
+-a----  191.00  B │   ├── BasicTemplate.yar                                                                            
+-a----  318.00  B │   ├── EmotetPhish201910.yar                                                                        
+-a----  411.00  B │   ├── malicious_dlls_000.yar                                                                       
+-a----  880.00  B │   ├── Ostap_jse_downloader.yar                                                                     
+-a----  374.00  B │   ├── p1308_dropper.yar                                                                            
+-a----  310.00  B │   ├── refrigsl.yar                                                                                 
+-a----  302.00  B │   ├── TestFile.yar                                                                                 
+-a----  467.00  B │   ├── ursnif_gennt.yar                                                                             
+d--hsl  312.00  B │   └── DfsrPrivate                                                                                  
+d-----  312.00  B │       ├── Staging                                                                                  
+da----  312.00  B │       │   └── ContentSet{7A9D851B-E433-4948-9053-33864932D4D5}-{515C1ABE-FFD0-453A-9B43-E2C61ADD...
+d-----    0.00  B │       ├── PreExisting                                                                              
+d-----    0.00  B │       ├── Installing                                                                               
+d-----    0.00  B │       ├── Deleted                                                                                  
+d-----    0.00  B │       └── ConflictAndDeleted                                                                       
+d-----    0.00  B ├── witness                                                                                          
+d--hs-    1.72 GB ├── System Volume Information                                                                        
+-a-hs-    0.00  B │   ├── MountPointManagerRemoteDatabase                                                              
+-a-hs-   20.00 KB │   ├── tracking.log                                                                                 
+-a----   12.00  B │   ├── WPSettings.dat                                                                               
+-a-hs-   11.22 MB │   ├── {13f8d44c-4396-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.41 MB │   ├── {13f8df4c-4396-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.98 MB │   ├── {13f8e8ef-4396-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.83 MB │   ├── {13f8ef25-4396-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.83 MB │   ├── {159d96da-5f22-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.14 MB │   ├── {159da2aa-5f22-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.06 MB │   ├── {159dadde-5f22-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.97 MB │   ├── {159db2ee-5f22-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    7.58 MB │   ├── {16e0bfb2-5980-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.06 MB │   ├── {1783920d-5336-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    8.91 MB │   ├── {17839e8b-5336-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    3.06 MB │   ├── {1783a924-5336-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    3.62 MB │   ├── {1783aeb5-5336-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.42 MB │   ├── {1df88a78-586f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.69 MB │   ├── {1df8905b-586f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.09 MB │   ├── {1df89d12-586f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.89 MB │   ├── {1df8a7af-586f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.08 MB │   ├── {22849ed3-5455-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.95 MB │   ├── {2284a984-5455-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.11 MB │   ├── {2284af61-5455-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.45 MB │   ├── {2284bce0-5455-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.48 MB │   ├── {297fb55d-4db8-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.06 MB │   ├── {297fc0dc-4db8-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.91 MB │   ├── {297fcb1a-4db8-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.98 MB │   ├── {297fd0cf-4db8-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   29.81 MB │   ├── {2f622bb6-521d-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.80 MB │   ├── {2f624f4b-521d-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   29.73 MB │   ├── {2f986504-4c93-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.39 MB │   ├── {2f98887c-4c93-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-  192.00 KB │   ├── {3808876b-c176-4e48-b7ae-04046e6cc752}                                                       
+-a-hs-    5.91 MB │   ├── {42afd20a-427f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   29.30 MB │   ├── {4d8921c5-5761-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.70 MB │   ├── {6660e508-5e01-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.00 MB │   ├── {6660eb17-5e01-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   14.66 MB │   ├── {6660f636-5e01-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.38 MB │   ├── {666101eb-5e01-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.20 MB │   ├── {74abdb9a-4ed9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.00 MB │   ├── {74abe558-4ed9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.67 MB │   ├── {74abeab9-4ed9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    8.83 MB │   ├── {74abf6f2-4ed9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    3.03 MB │   ├── {78087005-4a47-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    3.50 MB │   ├── {780875b3-4a47-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.19 MB │   ├── {78088170-4a47-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.95 MB │   ├── {78088be6-4a47-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.27 MB │   ├── {832f333a-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.98 MB │   ├── {832f38ee-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.39 MB │   ├── {832f44e1-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.00 MB │   ├── {832f4f21-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.92 MB │   ├── {832f53a9-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.89 MB │   ├── {878f9ba3-5653-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.02 MB │   ├── {878fa133-5653-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   25.11 MB │   ├── {878fae5b-5653-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.08 MB │   ├── {8f3ccfcb-4b69-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   25.00 MB │   ├── {8f3cdb89-4b69-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.80 MB │   ├── {91b70d2e-6430-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.95 MB │   ├── {91b71773-6430-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.67 MB │   ├── {91b71c8c-6430-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.67 MB │   ├── {91b728fe-6430-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.38 MB │   ├── {9200a601-5bb9-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.17 MB │   ├── {9200ab1d-5bb9-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   23.83 MB │   ├── {9200b808-5bb9-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    8.91 MB │   ├── {98718e02-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    3.03 MB │   ├── {987197d5-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    3.59 MB │   ├── {98719d47-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.27 MB │   ├── {9871a947-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.45 MB │   ├── {9871b3b9-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.14 MB │   ├── {a593deb8-4942-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.81 MB │   ├── {a593ea16-4942-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.08 MB │   ├── {a593f024-4942-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    8.92 MB │   ├── {a593fcee-4942-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   26.11 MB │   ├── {a97b940d-61f8-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.67 MB │   ├── {ab8cce01-652d-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-  608.00 MB │   ├── {ab8cd336-652d-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.78 MB │   ├── {b2784901-50fe-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   24.72 MB │   ├── {b278555e-50fe-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.41 MB │   ├── {d3d03f3d-6154-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.59 MB │   ├── {d3d0449d-6154-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    8.31 MB │   ├── {d3d04f7f-6154-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.11 MB │   ├── {e0dfb64e-62f9-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.81 MB │   ├── {e0dfbb8d-62f9-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.38 MB │   ├── {e1fb4547-59d3-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.78 MB │   ├── {e1fb50a7-59d3-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.91 MB │   ├── {e1fb5616-59d3-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.91 MB │   ├── {e91e772f-6042-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.94 MB │   ├── {e91e81d1-6042-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.03 MB │   ├── {e91e86f5-6042-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   10.89 MB │   ├── {e91e91d6-6042-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.02 MB │   ├── {eb3eab4c-5549-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    9.86 MB │   ├── {eb3eb0fd-5549-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.14 MB │   ├── {eb3ebe73-5549-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    3.03 MB │   ├── {ed0eae8c-4fe5-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    3.58 MB │   ├── {ed0eb44b-4fe5-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.38 MB │   ├── {ed0ec0f2-4fe5-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    6.08 MB │   ├── {ed0ecc73-4fe5-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   30.14 MB │   ├── {f8369c0c-46f7-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.20 MB │   ├── {faa00569-5aa4-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-    5.95 MB │   ├── {faa00fb3-5aa4-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.22 MB │   ├── {faa014c2-5aa4-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   15.50 MB │   ├── {faa02219-5aa4-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   11.02 MB │   ├── {fd9cd93a-45d9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   24.91 MB │   ├── {fd9ce653-45d9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+-a-hs-   30.14 MB │   ├── {ff64ad98-5cd3-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}                 
+d--hs-  257.34 KB │   ├── SRM                                                                                          
+-a-hs-   60.00  B │   │   ├── FciNrt.usn                                                                               
+-a-hs-  256.00 KB │   │   ├── quota.md                                                                                 
+-a-hs-    1.29 KB │   │   └── quota.xml                                                                                
+d-----   33.09 MB │   └── DFSR                                                                                         
+-a----    0.00  B │       ├── $db_normal$                                                                              
+-a-hs-   44.00  B │       ├── FileIDTable_1                                                                            
+-a-hs-    1.06 MB │       ├── SimilarityTable_1                                                                        
+d-----  312.00  B │       ├── Private                                                                                  
+d-----  312.00  B │       │   └── {7A9D851B-E433-4948-9053-33864932D4D5}-{515C1ABE-FFD0-453A-9B43-E2C61ADD4175}        
+d-----   32.02 MB │       ├── database_EC96_C8C8_96C8_948C                                                             
+-a----    0.00  B │       │   ├── $db_dirty$                                                                           
+-a----    2.00 MB │       │   ├── dfsr.db                                                                              
+-a----   16.00 KB │       │   ├── dfsr.jfm                                                                             
+-a----    8.00 KB │       │   ├── fsr.chk                                                                              
+-a----    5.00 MB │       │   ├── fsr.log                                                                              
+-a----    5.00 MB │       │   ├── fsr000AD.log                                                                         
+-a----    5.00 MB │       │   ├── fsr000AE.log                                                                         
+-a----    5.00 MB │       │   ├── fsrres00001.jrs                                                                      
+-a----    5.00 MB │       │   ├── fsrres00002.jrs                                                                      
+-a----    5.00 MB │       │   └── fsrtmp.log                                                                           
+d-----    4.30 KB │       └── Config                                                                                   
+-a----    2.23 KB │           ├── Replica_FAE63CAC-1E99-4B31-AB35-CC1EC80D1093.XML                                     
+-a----    2.07 KB │           └── Volume_E066A435-0000-0000-0000-100000000000.XML                                      
+d-----   14.98 MB ├── System                                                                                           
+d-----    9.00  B │   ├── scripts                                                                                      
+-a----    9.00  B │   │   └── LocalPrinters.txt                                                                        
+d-----   14.98 MB │   ├── Profiles                                                                                     
+d-----    2.08 MB │   │   ├── TeacherMan.V2                                                                            
+-a-h--  250.00  B │   │   │   ├── ntuser.ini                                                                           
+-a-hs-    1.00 MB │   │   │   ├── NTUSER.man                                                                           
+-a-hs-  256.00 KB │   │   │   ├── NTUSER.man.LOG1                                                                      
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man.LOG2                                                                      
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf                              
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man{d7b42adf-cc7b-11df-88cb-001e372c5098}.TM.blf                              
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man{d7b42ae1-cc7b-11df-88cb-001e372c5098}.TM.blf                              
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man{d7b42aeb-cc7b-11df-88cb-001e372c5098}.TM.blf                              
+-arhs-   20.81 KB │   │   │   ├── ntuser.pol                                                                           
+d-r---  504.00  B │   │   │   ├── Videos                                                                               
+d-r--- 1020.00  B │   │   │   ├── Searches                                                                             
+d-r---  282.00  B │   │   │   ├── Saved Games                                                                          
+d-r---  504.00  B │   │   │   ├── Pictures                                                                             
+d-r---  504.00  B │   │   │   ├── Music                                                                                
+d-r---    2.28 KB │   │   │   ├── Links                                                                                
+d-r---    3.23 KB │   │   │   ├── Favorites                                                                            
+d-r---  282.00  B │   │   │   ├── Downloads                                                                            
+d-r---  402.00  B │   │   │   ├── Documents                                                                            
+d-r---   36.42 KB │   │   │   ├── Desktop                                                                              
+d-r---   67.18 KB │   │   │   ├── Contacts                                                                             
+d--h--  711.29 KB │   │   │   └── AppData                                                                              
+d-----    5.42 MB │   │   ├── TeacherMan                                                                               
+-a-h--    2.00 MB │   │   │   ├── ntuser.man                                                                           
+d--h--   36.58 KB │   │   │   ├── Templates                                                                            
+d-r---   18.20 KB │   │   │   ├── Start Menu                                                                           
+d-rh--  181.00  B │   │   │   ├── SendTo                                                                               
+d-rh--    0.00  B │   │   │   ├── Recent                                                                               
+d--hs-   16.00 KB │   │   │   ├── PrivacIE                                                                             
+d--h--    0.00  B │   │   │   ├── PrintHood                                                                            
+d--h--    0.00  B │   │   │   ├── NetHood                                                                              
+d-r---    1.12 MB │   │   │   ├── My Documents                                                                         
+d--hs-  240.00 KB │   │   │   ├── IETldCache                                                                           
+d-r---    0.00  B │   │   │   ├── Favorites                                                                            
+d-----   39.58 KB │   │   │   ├── Desktop                                                                              
+d--hs-    0.00  B │   │   │   ├── Cookies                                                                              
+d-rh--    1.95 MB │   │   │   └── Application Data                                                                     
+d-----    2.07 MB │   │   ├── StudentMan.V2                                                                            
+-a-h--  250.00  B │   │   │   ├── ntuser.ini                                                                           
+-a-hs-    1.00 MB │   │   │   ├── NTUSER.man                                                                           
+-a-hs-  256.00 KB │   │   │   ├── NTUSER.man.LOG1                                                                      
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man.LOG2                                                                      
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf                              
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man{d7b42adf-cc7b-11df-88cb-001e372c5098}.TM.blf                              
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man{d7b42ae1-cc7b-11df-88cb-001e372c5098}.TM.blf                              
+-a-hs-    0.00  B │   │   │   ├── NTUSER.man{d7b42aeb-cc7b-11df-88cb-001e372c5098}.TM.blf                              
+-arhs-   20.81 KB │   │   │   ├── ntuser.pol                                                                           
+d-r---  504.00  B │   │   │   ├── Videos                                                                               
+d-r--- 1020.00  B │   │   │   ├── Searches                                                                             
+d-r---  282.00  B │   │   │   ├── Saved Games                                                                          
+d-r---  504.00  B │   │   │   ├── Pictures                                                                             
+d-r---  504.00  B │   │   │   ├── Music                                                                                
+d-r---    2.28 KB │   │   │   ├── Links                                                                                
+d-r---    3.23 KB │   │   │   ├── Favorites                                                                            
+d-r---  282.00  B │   │   │   ├── Downloads                                                                            
+d-r---  402.00  B │   │   │   ├── Documents                                                                            
+d-r---   35.94 KB │   │   │   ├── Desktop                                                                              
+d-r---   67.18 KB │   │   │   ├── Contacts                                                                             
+d--h--  711.29 KB │   │   │   └── AppData                                                                              
+d-----    5.41 MB │   │   └── StudentMan                                                                               
+-a-h--    2.00 MB │   │       ├── ntuser.man                                                                           
+d--h--   36.58 KB │   │       ├── Templates                                                                            
+d-r---   18.20 KB │   │       ├── Start Menu                                                                           
+d-rh--  181.00  B │   │       ├── SendTo                                                                               
+d-rh--    0.00  B │   │       ├── Recent                                                                               
+d--hs-   16.00 KB │   │       ├── PrivacIE                                                                             
+d--h--    0.00  B │   │       ├── PrintHood                                                                            
+d--h--    0.00  B │   │       ├── NetHood                                                                              
+d-r---    1.12 MB │   │       ├── My Documents                                                                         
+d--hs-  240.00 KB │   │       ├── IETldCache                                                                           
+d-r---    0.00  B │   │       ├── Favorites                                                                            
+d-----   32.70 KB │   │       ├── Desktop                                                                              
+d--hs-    0.00  B │   │       ├── Cookies                                                                              
+d-rh--    1.95 MB │   │       └── Application Data                                                                     
+d-----    0.00  B │   └── installs                                                                                     
+d-----    0.00  B │       └── drivers                                                                                  
+d-----    0.00  B ├── StaffHome                                                                                        
+d-----    0.00  B ├── collaboration                                                                                    
+d-----    0.00  B │   ├── teachers                                                                                     
+d-----    0.00  B │   ├── students                                                                                     
+d-----    0.00  B │   ├── staff                                                                                        
+d-----    0.00  B │   ├── office                                                                                       
+d-----    0.00  B │   └── admin                                                                                        
+d--hs-  903.00  B └── $RECYCLE.BIN                                                                                     
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244                                               
+-a-hs-  129.00  B     │   └── desktop.ini                                                                              
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222                                               
+-a-hs-  129.00  B     │   └── desktop.ini                                                                              
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583                                              
+-a-hs-  129.00  B     │   └── desktop.ini                                                                              
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299                                              
+-a-hs-  129.00  B     │   └── desktop.ini                                                                              
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993                                              
+-a-hs-  129.00  B     │   └── desktop.ini                                                                              
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633                                              
+-a-hs-  129.00  B     │   └── desktop.ini                                                                              
+d--hs-  129.00  B     └── S-1-5-21-2988211483-3915955467-3887074721-500                                                
+-a-hs-  129.00  B         └── desktop.ini                                                                              
 
 
 
 
    Source: F:\
 
-Mode      Length Hierarchy                                              
-----      ------ ---------                                              
-d--hs-   3.03 GB F:\                                                    
-d--hs-   3.03 GB ├── System Volume Information                          
-d--hs- 257.33 KB │   └── SRM                                            
-d-----   0.00  B ├── StudentHome                                        
-d--hs- 903.00  B └── $RECYCLE.BIN                                       
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244 
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222 
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993
-d--hs- 129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633
-d--hs- 129.00  B     └── S-1-5-21-2988211483-3915955467-3887074721-500  
+Mode       Length Hierarchy                                                                           
+----       ------ ---------                                                                           
+d--hs- 1014.74 MB F:\                                                                                 
+d--hs- 1014.74 MB ├── System Volume Information                                                       
+-a-hs-   20.00 KB │   ├── tracking.log                                                                
+-a----   12.00  B │   ├── WPSettings.dat                                                              
+-a-hs-    2.64 MB │   ├── {13f8d449-4396-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.16 MB │   ├── {13f8df4a-4396-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.52 MB │   ├── {13f8e8f1-4396-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.48 MB │   ├── {13f8ef28-4396-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.55 MB │   ├── {159d96d7-5f22-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.64 MB │   ├── {159da2a8-5f22-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.91 MB │   ├── {159daddc-5f22-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.62 MB │   ├── {159db2eb-5f22-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.70 MB │   ├── {16e0bfaf-5980-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.52 MB │   ├── {17839210-5336-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.17 MB │   ├── {17839e89-5336-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.62 MB │   ├── {1783a922-5336-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {1783aeb2-5336-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.62 MB │   ├── {1df88a7a-586f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.55 MB │   ├── {1df8905e-586f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.27 MB │   ├── {1df89d10-586f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.55 MB │   ├── {1df8a7ad-586f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.19 MB │   ├── {22849ed1-5455-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.53 MB │   ├── {2284a986-5455-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {2284af64-5455-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.23 MB │   ├── {2284bcde-5455-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.52 MB │   ├── {297fb560-4db8-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.16 MB │   ├── {297fc0da-4db8-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.48 MB │   ├── {297fcb1c-4db8-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.58 MB │   ├── {297fd0cc-4db8-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.22 MB │   ├── {2f622bb5-521d-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.56 MB │   ├── {2f624f49-521d-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.20 MB │   ├── {2f986503-4c93-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.58 MB │   ├── {2f98887a-4c93-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-  192.00 KB │   ├── {3808876b-c176-4e48-b7ae-04046e6cc752}                                      
+-a-hs-    2.53 MB │   ├── {42afd20c-427f-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.27 MB │   ├── {4d8921c4-5761-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.14 MB │   ├── {6660e506-5e01-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.91 MB │   ├── {6660eb14-5e01-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    6.72 MB │   ├── {6660f634-5e01-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    5.97 MB │   ├── {666101e9-5e01-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.19 MB │   ├── {74abdb98-4ed9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.53 MB │   ├── {74abe55a-4ed9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.52 MB │   ├── {74abeabc-4ed9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.16 MB │   ├── {74abf6f0-4ed9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {78087007-4a47-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {780875b0-4a47-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.25 MB │   ├── {7808816e-4a47-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.61 MB │   ├── {78088be4-4a47-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.52 MB │   ├── {832f3338-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.55 MB │   ├── {832f38f1-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.16 MB │   ├── {832f44df-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.48 MB │   ├── {832f4f23-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.58 MB │   ├── {832f53ac-481a-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.69 MB │   ├── {878f9ba5-5653-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.52 MB │   ├── {878fa137-5653-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.27 MB │   ├── {878fae59-5653-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.58 MB │   ├── {8f3ccfce-4b69-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.19 MB │   ├── {8f3cdb87-4b69-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.52 MB │   ├── {91b70d2c-6430-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.56 MB │   ├── {91b71775-6430-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {91b71c86-6430-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.45 MB │   ├── {91b728fc-6430-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.00 MB │   ├── {9200a603-5bb9-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.78 MB │   ├── {9200ab1a-5bb9-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.05 MB │   ├── {9200b806-5bb9-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.17 MB │   ├── {98718e00-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {987197d7-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.56 MB │   ├── {98719d44-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.19 MB │   ├── {9871a945-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.58 MB │   ├── {9871b3bb-44c2-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.16 MB │   ├── {a593deb6-4942-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {a593ea14-4942-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.48 MB │   ├── {a593f027-4942-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.17 MB │   ├── {a593fcec-4942-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.48 MB │   ├── {a97b940c-61f8-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.58 MB │   ├── {ab8cce03-652d-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-  608.00 MB │   ├── {ab8cd330-652d-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.55 MB │   ├── {b2784904-50fe-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.27 MB │   ├── {b278555c-50fe-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.64 MB │   ├── {d3d03f3f-6154-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.61 MB │   ├── {d3d0449a-6154-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.67 MB │   ├── {d3d04f7d-6154-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.56 MB │   ├── {e0dfb64c-62f9-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {e0dfbb8a-62f9-11ef-b28e-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.22 MB │   ├── {e1fb4545-59d3-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.58 MB │   ├── {e1fb50a5-59d3-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {e1fb5613-59d3-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.55 MB │   ├── {e91e772d-6042-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.52 MB │   ├── {e91e81d3-6042-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.48 MB │   ├── {e91e86f8-6042-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    3.53 MB │   ├── {e91e91d4-6042-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.58 MB │   ├── {eb3eab4a-5549-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.56 MB │   ├── {eb3eb0fa-5549-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.27 MB │   ├── {eb3ebe71-5549-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.53 MB │   ├── {ed0eae8a-4fe5-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.50 MB │   ├── {ed0eb448-4fe5-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.20 MB │   ├── {ed0ec0f0-4fe5-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.64 MB │   ├── {ed0ecc71-4fe5-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.17 MB │   ├── {f8369c0b-46f7-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.23 MB │   ├── {faa00567-5aa4-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.52 MB │   ├── {faa00fb5-5aa4-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.56 MB │   ├── {faa014c5-5aa4-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.20 MB │   ├── {faa02217-5aa4-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    2.61 MB │   ├── {fd9cd937-45d9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.20 MB │   ├── {fd9ce651-45d9-11ef-b28c-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+-a-hs-    7.03 MB │   ├── {ff64ad97-5cd3-11ef-b28d-000c2943ac13}{3808876b-c176-4e48-b7ae-04046e6cc752}
+d--hs-  257.33 KB │   └── SRM                                                                         
+-a-hs-   46.00  B │       ├── FciNrt.usn                                                              
+-a-hs-  256.00 KB │       ├── quota.md                                                                
+-a-hs-    1.29 KB │       └── quota.xml                                                               
+d-----    0.00  B ├── StudentHome                                                                     
+d--hs-  903.00  B └── $RECYCLE.BIN                                                                    
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-69244                              
+-a-hs-  129.00  B     │   └── desktop.ini                                                             
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-52222                              
+-a-hs-  129.00  B     │   └── desktop.ini                                                             
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-213583                             
+-a-hs-  129.00  B     │   └── desktop.ini                                                             
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-207299                             
+-a-hs-  129.00  B     │   └── desktop.ini                                                             
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-201993                             
+-a-hs-  129.00  B     │   └── desktop.ini                                                             
+d--hs-  129.00  B     ├── S-1-5-21-970656931-1832544837-2087665911-178633                             
+-a-hs-  129.00  B     │   └── desktop.ini                                                             
+d--hs-  129.00  B     └── S-1-5-21-2988211483-3915955467-3887074721-500                               
+-a-hs-  129.00  B         └── desktop.ini                                                             
 
 

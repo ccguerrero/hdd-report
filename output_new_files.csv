@@ -1,0 +1,53 @@
+Location,Type,Used (GB),NLE (GB),ToBeDeleted (GB),Total storage (GB)
+02 South Park Elem,SchoolFS,170.56,2.33,0,168.23
+04 Vic West,SchoolFS,189.06,0.13,0,188.93
+05 George Jay,SchoolFS,738.49,0.99,3.83,733.67
+06 Victor,SchoolFS,82.62,0.3,0,82.32
+07 Sir James Douglas,SchoolFS,348,0.19,0,347.81
+08 Sundance-Bank,SchoolFS,3.68,0,0,3.68
+10 Craigflower,SchoolFS,236.28,16.69,0,219.59
+11 SJ Burnside,SchoolFS,376.66,3.21,6.29,367.16
+12 Margaret Jenkins,SchoolFS,546.15,0,0,546.15
+13 Oaklands Elementary,SchoolFS,715.66,0.32,1.32,714.02
+15 Monterey,SchoolFS,407.68,0,4.41,403.27
+16 Quadra,SchoolFS,286.65,0.07,0.19,286.39
+18 Victoria High,SchoolFS,2292.87,5.58,230.01,2057.28
+19 Cloverdale,SchoolFS,435.24,89.02,0,346.22
+20 Tillicum Community School,SchoolFS,415.45,29.47,0,385.98
+21 Willows,SchoolFS,645.68,0,0.02,645.66
+24 Oak Bay High,SchoolFS,2314.5,5.25,997.34,1311.91
+25 Cedar Hill Middle,SchoolFS,603.3,0,0,603.3
+27 McKenzie,SchoolFS,237.82,0,0.06,237.76
+28 Doncaster,SchoolFS,456.17,16.76,0,439.41
+29 View Royal,SchoolFS,480.37,1.67,0,478.7
+30 Frank Hobbs,SchoolFS,428.08,109.61,1.17,317.3
+32 Strawberry Vale,SchoolFS,166.57,12.2,0.33,154.04
+33 James Bay,SchoolFS,284.34,10.84,6.63,266.87
+35 Central Middle,SchoolFS,716.49,8.21,47.28,661
+36 Lansdowne N,SchoolFS,633.43,51.46,0.81,581.16
+38 Glanford,SchoolFS,629.37,26.01,122.71,480.65
+39 Gordon Head,SchoolFS,408.34,51.84,0.2,356.3
+40 Macaulay,SchoolFS,341.37,1.6,0,339.77
+42 Lake Hill,SchoolFS,327.95,27.5,0,300.45
+44 ISP,SchoolFS,480.79,0,0,480.79
+46 Marigold,SchoolFS,0,0,0,0
+47 Campus View,SchoolFS,399.21,4.84,0,394.37
+48 Esquimalt,SchoolFS,4991.56,21.29,0,4970.27
+49 Mt Douglas,SchoolFS,3239.21,1.53,273.94,2963.74
+51 Braefoot,SchoolFS,242.14,0,0,242.14
+52 Hillcrest Elem - Victoria,SchoolFS,264.98,13.66,0,251.32
+54 Northridge,SchoolFS,0,0,0,0
+56 Rockheights,SchoolFS,201.39,0.51,0.01,200.87
+57 Reynolds,SchoolFS,3104.48,58.56,403.03,2642.89
+58 Shoreline,SchoolFS,345.48,0,2.71,342.77
+62 Arbutus,SchoolFS,558.19,94.06,0.82,463.31
+63 Spectrum Community,SchoolFS,0,0,0,0
+64 Lambrick Park,SchoolFS,2862.7,12.59,290.1,2560.01
+65 Torquay Elementary,SchoolFS,393.86,24.66,0,369.2
+66 Rogers,SchoolFS,416.26,25.86,0.55,389.85
+67 Eagle View,SchoolFS,298.53,11.7,0,286.83
+68 Colquitz Middle,SchoolFS,0,0,0,0
+77 Ledger,SchoolFS,39.47,0,0,39.47
+83 Quadra Warehouse,SchoolFS,3.94,0,0,3.94
+Old,,,,,
+Totals,,35010,802.93,870.18,33336.89
